@@ -1,0 +1,807 @@
+P[0] 851-Hour DSA + OA + CP Course
+Personal Progress Tracker
+P[1] Cleaned from the original Google Docs export — raw internal metadata removed. Tick ☐ → ☑ as you complete sessions.
+P[2] Course introduction
+P[3] The Best DSA + OA + CP Course in India!
+                (Premium Version)
+P[4] -> Students only do standard DSA sheets and standard easy DSA patterns on Leetcode/GFG :- which leads to failure in OA(where hard unseen story based questions are asked) and fail in top FAANG/PBC level interviews where a DSA question is twisted or new DSA question is asked.
+P[5] -> To tackle it this premium course of 800+ hr has 1258 different patterns covered to tackle all type of company OA + Interview problems and has plenty of CP problems - all made to master your higher level thinking skill to master problem solving
+P[6] -> Search Hashing/Prefix-Sum/Suffix-Sum below and do it first before other topics.
+P[7] 📌Kumar K has made this list after having an experience of 8000-10000 OA after knowing which concepts | patterns are asked the most in OA + CP + FAANG level interviews; so grind hard and you will surely see the result in OA/CP + Interviews. 😎.
+P[8] 📌	If you are DSA and coding noob, then complete the beginner roadmap given to you by Kumar K. These sessions are strictly not for a beginner so don’t demotivate yourself . If you want to know whether you are eligible or not to watch these sessions and attend them , just tell your coding status to the mentor and he will let you know .
+P[10] Personal Record
+P[11] Start date: ____________________
+P[12] Target completion date: ____________________
+P[13] Completed sessions: __________ / __________
+P[14] Notes / weak topics: _________________________________________________
+T[0] R[0] Done | Major Topic / Session | Course details / links
+T[0] R[1] ☐ | Hashing | Prefix Sum | Suffix Sum | 
+T[0] R[2] ☐ | Hashing [0] [Basic Fundamentals] | Question / Practice: Watch this video  Hashing Part 0  Watch this video Hashing Part 1  Watch this video Hashing Part 2. Sol (C++): Read this document while watching video
+T[0] R[3] ☐ | Hashing [Basic Fundamentals] [1] | Question / Practice: Watch it Sol (C++): Analysis Doc
+T[0] R[4] ☐ | Hashing [Basic Fundamentals] [2] | Question / Practice: Session Sol (C++): DOC
+T[0] R[5] ☐ | Hashing [Basic Fundamentals] [3] | Question / Practice: Session Sol (C++): DOC
+T[0] R[6] ☐ | Hashing [Basic Fundamentals] [4] | Question / Practice: Session Sol (C++): DOC
+T[0] R[7] ☐ | Hashing [Basic Fundamentals] [5] | Question / Practice: Session Sol (C++): Doc
+T[0] R[8] ☐ | Hashing [Basic Fundamentals] [6] | Question / Practice: Session Sol (C++): DOC
+T[0] R[9] ☐ | Hashing [Basic Fundamentals] [7] | Question / Practice: Session Sol (C++): Doc
+T[0] R[10] ☐ | Hashing [Basic Fundamentals] [8] | Question / Practice: Session Sol (C++): Doc
+T[0] R[11] ☐ | Hashing [Basic Fundamentals] [9] | Question / Practice: Session Sol (C++): Doc
+T[0] R[12] ☐ | Hashing [Basic Fundamentals] [10] | Question / Practice: Session Sol (C++): Doc
+T[0] R[13] ☐ | Hashing [Basic Fundamentals] [11] | Question / Practice: Session Interview Level Sol (C++): Q1  Q2  Q3 Sol (Java): Sol  Sol2 Sol (Python): Sol Other: Sol1
+T[0] R[14] ☐ | Hashing [Basic Fundamentals] [12] | Question / Practice: Session Interview Level  Q.3 Part - 2 Sol (C++): Q1  Q2  Q3
+T[0] R[15] ☐ | Recap[Basic Fundamentals] (13) | Question / Practice: Watch Sol (C++): Doc
+T[0] R[16] ☐ | Hashing [Basic Fundamentals] (14) | Question / Practice: Session Interview Level Sol (C++): Q1  Q2
+T[0] R[17] ☐ | Hashing [Basic Fundamentals] (15) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[18] ☐ | Hashing [Basic Fundamentals] (16) | Question / Practice: Session Interview Level Sol (C++): Q1  Q2
+T[0] R[19] ☐ | Hashing [Basic Fundamentals] (17) | Question / Practice: Session Contest Level Sol (C++): Q
+T[0] R[20] ☐ | Hashing [Basic Fundamentals] (18) | Question / Practice: Session Contest Level Sol (C++): Q1  Q2
+T[0] R[21] ☐ | Hashing [Kadane + Prefix/Suffix Concept] [19] | Question / Practice: Amazon OA Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[22] ☐ | Hashing[Basic Fundamentals] [20] | Question / Practice: Zscaler OA. Sol (C++): Doc
+T[0] R[23] ☐ | Hashing [i…j concept] (21) | Question / Practice: Microsoft OA  Thought Process  Practice Problem :- https://leetcode.com/problems/count-number-of-nice-subarrays/ Sol (C++): Q
+T[0] R[24] ☐ | Hashing [Frequency concept] (22) | Question / Practice: Amazon OA  Thoughts Process Sol (C++): Q
+T[0] R[25] ☐ | Hashing [Frequency concept] (23) | Question / Practice: Amazon OA. Sol (C++): Q Sol (Java): https://ideone.com/oK4lWC Sol (Python): https://ideone.com/skfqfv Other: https://ideone.com/Nj8w1J.
+T[0] R[26] ☐ | Hashing [Range Update Trick] (24) | Question / Practice: Range Update Trick + Google Girl Hackathon OA Session Sol (C++): Q  doc
+T[0] R[27] ☐ | Hashing - 25 [i…j + Mathematical formula concept] | Question / Practice: Amazon OA 2025 P1 Sol (C++): Doc
+T[0] R[28] ☐ | Hashing [Prefix/Suffix concept over subsequences concept] - 26 | Question / Practice: Leetcode Contest P1  Leetcode Contest P2 Sol (C++): Doc
+T[0] R[29] ☐ | Hashing [Range Update Trick] (27) | Question / Practice: Visa Intern + SDE OA Session Sol (C++): Q Sol (Java): https://ideone.com/bZKP7t Sol (Python): https://ideone.com/0T7iYD. Other: https://ideone.com/4QlpEC
+T[0] R[30] ☐ | Hashing [i…j + Mathematical formula concept] (28) | Question / Practice: Rubrik SDE Interview Sol (C++): Q
+T[0] R[31] ☐ | Hashing [Range Update Trick] (29) | Question / Practice: Hackerrank OA Session Sol (C++): Q Sol (Java): https://ideone.com/09Bi5Z Sol (Python): https://ideone.com/tzM3Nf Other: https://ideone.com/vcnXcZ
+T[0] R[32] ☐ | Hashing [i…j concept] (30) | Question / Practice: Session OA / Contest  Level Sol (C++): Q
+T[0] R[33] ☐ | Hashing [i…j concept] (31) | Question / Practice: Homework Sol (C++): Q
+T[0] R[34] ☐ | Hashing [i…j concept] (32) | Question / Practice: Google OA  Thought Process Sol (C++): Q
+T[0] R[35] ☐ | Hashing [Prefix/Suffix Concept] (33) | Question / Practice: Media.Net OA Sol (C++): Q
+T[0] R[36] ☐ | Hashing [i…j + Mathematical formula concept + Case Analysis] (34) | Question / Practice: DE Shaw OA  Part - 2 Sol (C++): Q
+T[0] R[37] ☐ | Hashing [Frequency Concept + Observation Analysis] (35) | Question / Practice: Arcesium OA  Thought Process Sol (C++): Q
+T[0] R[38] ☐ | Hashing [Classical] (36) | Question / Practice: Google Interview Session 22 Sol (C++): Q
+T[0] R[39] ☐ | Hashing [Prefix/Suffix+ Optimization Concept] (37) | Question / Practice: Google SDE3 Interview Session Sol (C++): Q
+T[0] R[40] ☐ | Hashing [Classical + Optimization Concept] (38) | Question / Practice: NUTANIX OA Session Sol (C++): DOC Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[41] ☐ | Hashing [Classical + Frequency Optimization Concept] (39) | Question / Practice: Uber SDE Interview Session Part -1  Part - 2  Part - 3 Sol (C++): Doc
+T[0] R[42] ☐ | Hashing [Prefix/Suffix Concept] (40) | Question / Practice: Amazon SDE Intern part -1 part - 2 Sol (C++): Doc
+T[0] R[43] ☐ | Hashing [Prefix/Suffix Concept] (41) | Question / Practice: Atlassian SDE Interview Session Sol (C++): Doc
+T[0] R[44] ☐ | Hashing [Classical + i…j concept] (42) | Question / Practice: Amazon SDE2-Interview Sol (C++): Doc Sol (Java): https://ideone.com/UVed9e Sol (Python): https://ideone.com/UVed9e Other: https://ideone.com/oWQjoi
+T[0] R[45] ☐ | Hashing [Prefix/Suffix Concept] (43) | Question / Practice: Microsoft OA Session Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[46] ☐ | Hashing [Classical + Optimization Concept] (44) | Question / Practice: Microsoft SDE2 Interview  part - 2 Sol (C++): Doc
+T[0] R[47] ☐ | Hashing [Classical + Optimization Concept] (45) | Question / Practice: Codechef Contest Sol (C++): Doc
+T[0] R[48] ☐ | Hashing [i…j concept] (46) | Question / Practice: Amazon HackOn OA Sol (C++): Q Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[49] ☐ | Hashing [i…j concept] (47) | Question / Practice: Uber OA Session Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[50] ☐ | Hashing [Classical + Frequency Concept] (48) | Question / Practice: Google OA SWE Intern Session Sol (C++): Q Sol (Java): https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/994773551/ Sol (Python): https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/994775714/ Other: https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/994776651/
+T[0] R[51] ☐ | Hashing [i…j concept] (49) | Question / Practice: Session  LeetCode Contest Sol (C++): Q
+T[0] R[52] ☐ | Hashing [Prefix/Suffix Concept] (50) | Question / Practice: Session  Google SDE Interview Problem. Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[53] ☐ | Solve this list of problems:- Set A + B + C Before going ahead :- Link | 
+T[0] R[54] ☐ | Hashing [Prefix/Suffix Concept] (51) | Question / Practice: Google SDE2 Interview Sol (C++): Q Sol (Java): Code Sol (Python): Code. Other: https://ideone.com/b1GjzI
+T[0] R[55] ☐ | Hashing [Prefix/Suffix + Kadane Concept] (52) | Question / Practice: Session  Google SDE Interview Problem. Sol (C++): Q Sol (Java): https://ideone.com/nx6nYU Sol (Python): https://ideone.com/OIoQG4 Other: https://ideone.com/bQJu52
+T[0] R[56] ☐ | Hashing [i…j + Mathematical formula concept] (53) | Question / Practice: Leetcode Weekly Contest Sol (C++): Q
+T[0] R[57] ☐ | Hashing [i…j + Mathematical formula concept] (54) | Question / Practice: Zscaler OA Session Sol (C++): Q Sol (Java): In the doc on left Sol (Python): In the doc On left Other: In the doc on left
+T[0] R[58] ☐ | If you enjoyed your journey till here and have now realized the uniqueness of our course; then make sure to make a Linkedin Post sharing your progress and learnings like this :-  https://www.linkedin.com/posts/purvansh-pratap-singh_rubrik-dsa-interviewpreparation-activity-7255592043584839680-ZCfZ?utm_source=share&utm_medium=member_desktop | 
+T[0] R[59] ☐ | Hashing [Prefix/Suffix + Frequency Concept] (55) | Question / Practice: Sprinklr OA Session Sol (C++): Q Sol (Java): https://onlinegdb.com/X6Et5moGT Sol (Python): https://onlinegdb.com/rkOrIhgIV Other: https://onlinegdb.com/urHZWLdXs
+T[0] R[60] ☐ | Hashing [i…j concept] (56) | Question / Practice: Atlassian OA Session Sol (C++): Q Sol (Java): In the doc on left Sol (Python): In the doc on left Other: In the doc on left
+T[0] R[61] ☐ | Hashing [i…j + Mathematical formula concept] (57) | Question / Practice: Watch this as a prerequisite  Amazon IreLand Australia OA Session Sol (C++): q
+T[0] R[62] ☐ | Hashing [Prefix/Suffix + Optimization Concept] (58) | Question / Practice: Google SWE Intern Interview Session Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[63] ☐ | Hashing [Classical Thinking] (59) | Question / Practice: Intuit OA Session Sol (C++): Q
+T[0] R[64] ☐ | Hashing [i…j + Mathematical formula concept + Case Analysis]  (60) | Question / Practice: Uber SDE Interview Session Sol (C++): doc
+T[0] R[65] ☐ | Hashing [i…j + Mathematical formula concept] (61) | Question / Practice: Atlassian SDE Interview Session Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[66] ☐ | Hashing [Prefix/ Suffix + Analysis Concept] (62) | Question / Practice: De Shaw OA Session Sol (C++): doc Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[67] ☐ | Hashing [Contribution Trick + Mathematical Concept] (63) | Question / Practice: Uber SDE Interview Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[68] ☐ | Hashing [Prefix/Suffix Concept] (64) | Question / Practice: Google Interview Problem Session Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[69] ☐ | Hashing [Prefix/Suffix Concept + Analysis] (65) | Question / Practice: Codechef Contest Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[70] ☐ | Hashing [Classical Thinking] (66) | Question / Practice: GoldMan Sachs OA Session Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[71] ☐ | Hashing [Classical + Observation Concept + Implementation] (67) | Question / Practice: Leetcode Contest Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[72] ☐ | Hashing [Matrix/Grid] (68) | Question / Practice: Leetcode Contest Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[73] ☐ | Hashing [Matrix/Grid] (69) | Question / Practice: Leetcode Contest Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[74] ☐ | Hashing [i…j + Mathematical formula concept] (70) | Question / Practice: Google Software Engineering Intern DSA Session Sol (C++): doc Sol (Java): https://ideone.com/eEVNG7 Sol (Python): https://ideone.com/dMkcDp Other: https://ideone.com/WvGNIL
+T[0] R[75] ☐ | Hashing [Matrix/Grid] (71) | Question / Practice: Session OA / Contest Level Sol (C++): Question link not available currently - Watch the video to know the question. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[76] ☐ | Hashing [i…j + Mathematical Modulo formula concept + Matrix/Grid Concept] (72) | Question / Practice: Session Watch it Sol (C++): Q1  Q2 Sol (Java): Sol 1  Sol 2 Sol (Python): Sol 1  Sol 2 Other: Sol 1  Sol 2
+T[0] R[77] ☐ | Hashing [Contribution Trick + Mathematical Concept] (73) | Question / Practice: Session Sprinklr OA Sol (C++): Q Sol (Java): https://ideone.com/v2iNDa Sol (Python): https://ideone.com/OQLqY3 Other: https://ideone.com/1v9mAR
+T[0] R[78] ☐ | Hashing [Prefix/Suffix + Optimization Concept] (74) | Question / Practice: Google OA Sol (C++): https://docs.google.com/document/d/1lINhL8Wi-LO1nfbWXGyXLUXycwBvIzH0dMR2R619oGc/edit?tab=t.0
+T[0] R[79] ☐ | Hashing [Prefix/Suffix + Analysis Concept] (75) | Question / Practice: Uber OA Session Sol (C++): Q
+T[0] R[80] ☐ | Hashing [Miscellaneous] (76) | Question / Practice: Session Cisco OA Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[81] ☐ | Hashing [Classical] (77) | Question / Practice: Session  Axis Bank OA Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[82] ☐ | Hashing [Greedy + Contribution Trick] (78) | Question / Practice: De Shaw Ultra Hard OA Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[83] ☐ | Hashing [Greedy + Prefix/Suffix Concept] (79) | Question / Practice: Session OA Level Atlassian Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[84] ☐ | Hashing [i..j Trick + Mathematical Concept] (80) | Question / Practice: Intuit OA Session Sol (C++): Q Sol (Java): Code Sol (Python): Code' Other: Code
+T[0] R[85] ☐ | Hashing [Prefix/Suffix Concept] (81) | Question / Practice: Session  OA Level  VMWARE Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol.
+T[0] R[86] ☐ | Hashing [Prefix/Suffix Concept + Contribution Trick] (82) | Question / Practice: Amazon Dublin OA Session Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[87] ☐ | Hashing [Classical] (83) | Question / Practice: Session OA Level JP Morgan Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[88] ☐ | Hashing [Prefix/Suffix + Frequency concept] (84) | Question / Practice: Leetcode Contest Sol (C++): Q1  Q2 Sol (Java): Sol 1  Sol 2 Sol (Python): Sol  Sol 2 Other: Sol 1  Sol 2
+T[0] R[89] ☐ | Hashing [Range Update Trick] (85) | Question / Practice: Session OA Level Adobe Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[90] ☐ | Hashing [Prefix/Suffix + Analysis] (86) | Question / Practice: Session OA Level Amazon Sol (C++): https://www.hackerrank.com/contests/desiqna-oa-practice-contest-00/challenges/a-356 Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[91] ☐ | Hashing [Prefix/Suffix + Sorted Set] (87) | Question / Practice: Amazon OA Part 1  Amazon OA Part 2 Sol (C++): Doc
+T[0] R[92] ☐ | Hashing [Prefix/Suffix + Sorted Set] (88) | Question / Practice: Session OA Level Google  Extra Video :- https://www.youtube.com/watch?v=TNbnKRSmhXI&t=4s&ab_channel=KumarK  Thought Process Sol (C++): Q  (You will have to use sorted set to solve real version of this problem)  (“Sorted Set” Topic you can search in this course and watch first two videos on it then come back to this question) Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[93] ☐ | Hashing [Prefix/Suffix + Heap] (89) | Question / Practice: ZScaler OASession (Hard)  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[94] ☐ | Hashing [Prefix/Suffix + Binary Search] (90) | Question / Practice: Apple OA Session Sol (C++): https://docs.google.com/document/d/1xN1WjfKvz_JvkXs3xtNdtWNunYI5-gASzJiYWt88d4w/edit
+T[0] R[95] ☐ | Hashing [Prefix/Suffix + Binary Search] (91) | Question / Practice: De Shaw Hard OA Session  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[96] ☐ | Hashing [Prefix/Suffix + Optimization Concept] (92) | Question / Practice: Google OA  Thoughts + Analysis Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[97] ☐ | Hashing [i..j + observation concept]  (93) | Question / Practice: Amazon OA London Set  Thoughts + Analysis Sol (C++): Doc [Watch video to know the exact question]
+T[0] R[98] ☐ | Hashing [i..j + analysis concept]   (94) | Question / Practice: Uber SDE Interview Session  Part - 2 Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[99] ☐ | Hashing [Prefix/Suffix + Kadane Concept]  (95) | Question / Practice: OA Level CodeNation  Thought Process  (Clears up the concept of Kadane as well) Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[100] ☐ | Hashing [Prefix/Suffix + Bit Manipulation] (96) | Question / Practice: Video Part - 1  Session  part 2  OA Level CodeNation  Prerequisite (You will understand this session if you have watched first 10 sessions of Bit Manipulation topic from this course) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[101] ☐ | Hashing [Prefix/Suffix + Observation + Case Analysis] (97) | Question / Practice: Session Amazon OA SDE2 Sol (C++): Q Sol (Java): https://ideone.com/wu1XVO Sol (Python): https://ideone.com/lwLgm0. Other: https://ideone.com/CLzggk
+T[0] R[102] ☐ | Hashing [Prefix/Suffix + Optimization Concept] (98) | Question / Practice: Amazon OA Sol (C++): Doc Sol (Java): https://ideone.com/DtqfGd Sol (Python): https://ideone.com/LsRolT Other: https://ideone.com/2xDDWw
+T[0] R[103] ☐ | Hashing [Prefix/Suffix + Optimization Concept] (99) | Question / Practice: Codechef Contest HARD Sol (C++): DOC Sol (Java): Refer in DOC Sol (Python): Refer in DOC Other: Refer in DOC
+T[0] R[104] ☐ | Hashing [Miscellaneous] (100) | Question / Practice: Amazon SDE 2 OA Sol (C++): doc Sol (Java): https://ideone.com/KywKDp Sol (Python): https://ideone.com/fsKyII . Other: https://ideone.com/Esa65r
+T[0] R[105] ☐ | Hashing [Prefix/Suffix + Kadane + Case Analysis] (101) | Question / Practice: Codechef Contest Session Sol (C++): Doc
+T[0] R[106] ☐ | Hashing [i…j + Mathematical formula + Optimization concept] (102) | Question / Practice: Codechef Contest Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[107] ☐ | Hashing [Prefix/Suffix Concept] (103) | Question / Practice: Google OA Session Sol (C++): Doc
+T[0] R[108] ☐ | Hashing [Prefix/Suffix + Mathematical Analysis Concept] (104) | Question / Practice: Codechef Problem Session Sol (C++): Doc
+T[0] R[109] ☐ | Hashing(105) [Miscellaneous] | Question / Practice: Amazon OA Sol (C++): Doc
+T[0] R[110] ☐ | Hashing(106) [i..j + optimization + observation concept] | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[111] ☐ | Hashing(107) [Prefix/Suffix + Bit Manipulation] | Question / Practice: GamesKraft OA Part - 1 Part - 2 Part - 3 Sol (C++): Doc
+T[0] R[112] ☐ | Hashing(108) [Miscellaneous] | Question / Practice: Codechef Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[113] ☐ | Hashing(109) [Prefix/Suffix + Case Analysis Concept] | Question / Practice: Codechef Contest Sol (C++): Doc
+T[0] R[114] ☐ | We will upload extra session here for practice We will never compromise with the quality and top level updated material | 
+T[0] R[115] ☐ | Hashing(110) [i..j + Mathematical formula concept] | Question / Practice: Codechef Contest Sol (C++): Doc
+T[0] R[116] ☐ | Hashing(111) [Prefix/Suffix + Kadane + Greedy + Observation Concept] | Question / Practice: Salesforce SDE Interview Part1  Salesforce SDE Interview Part 2 Sol (C++): Doc
+T[0] R[117] ☐ | [Binary Search] | 
+T[0] R[118] ☐ | Binary Search | Question / Practice: Session 1 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[119] ☐ | Binary Search | Question / Practice: Session 2 Part 1  Session Part 2 Sol (C++): Q Sol (Java): Sol  In C++ there is a direct inbuilt function; so we don’t need to write the full algorithm. Sol (Python): Sol Other: Sol
+T[0] R[120] ☐ | Binary Search | Question / Practice: Session 3 By Kumar K Sol (C++): Doc
+T[0] R[121] ☐ | Binary Search | Question / Practice: Session 4 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[122] ☐ | Binary Search | Question / Practice: Session 5 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[123] ☐ | Binary Search | Question / Practice: Session 6 Interview Level (Part1)  Part2 is coming Sol (C++): Q. Sol (Java): C++ Sol (Python): Java. Other: Py
+T[0] R[124] ☐ | Binary Search | Question / Practice: Leetcode contest session 1  Leetcode contest session 2. Sol (C++): Q. Sol (Java): C++ Sol (Python): Java. Other: Py
+T[0] R[125] ☐ | Binary Search | Question / Practice: Amazon SDE 2 OA Sol (C++): Q Sol (Java): c++ Sol (Python): Java Other: Py
+T[0] R[126] ☐ | Binary Search | Question / Practice: Amazon SDE Interview Sol (C++): Doc
+T[0] R[127] ☐ | Binary Search (9) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[128] ☐ | Binary Search (10) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[129] ☐ | Binary Search (11) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[130] ☐ | Binary Search (12) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[131] ☐ | Binary Search (13) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[132] ☐ | Binary Search | Question / Practice: Session 14 Interview Level Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[133] ☐ | Binary Search | Question / Practice: Session 15 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[134] ☐ | Binary Search | Question / Practice: Session 16 Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[135] ☐ | Binary Search | Question / Practice: Session 17 Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[136] ☐ | Binary Search | Question / Practice: Session 18 Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[137] ☐ | Binary Search | Question / Practice: Session 19 Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[138] ☐ | Binary Search | Question / Practice: De Shaw OA Session 20  Thought Process. Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[139] ☐ | Binary Search | Question / Practice: Microsoft OA 21 Sol (C++): doc
+T[0] R[140] ☐ | Binary Search | Question / Practice: De Shaw OA Session 22  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[141] ☐ | Binary Search | Question / Practice: Salesforce OA Session 23 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[142] ☐ | Binary Search | Question / Practice: DE Shaw OA Session 24 Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[143] ☐ | Binary Search | Question / Practice: Session Zscaler OA Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[144] ☐ | Binary Search | Question / Practice: Amazon OA Part - 1  Part - 2 Part - 3 Part - 4 Sol (C++): Doc
+T[0] R[145] ☐ | Binary Search | Question / Practice: Session 27 Amazon Super Hard OA Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[146] ☐ | Binary Search | Question / Practice: Super Hard PayPal 28 OA  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[147] ☐ | Binary Search | Question / Practice: PayPal OA Session 29 Sol (C++): Q. Sol (Java): https://ideone.com/gO2Uzs Sol (Python): https://ideone.com/aUL5gw Other: https://ideone.com/5hGxez
+T[0] R[148] ☐ | Binary Search | Question / Practice: RubriKO A Session 30 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[149] ☐ | Binary Search | Question / Practice: BlackRock OA Session 31  Thought Process. Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[150] ☐ | Binary Search | Question / Practice: BNY Mellon OA Session 32 Sol (C++): https://docs.google.com/document/d/1aUZLNxW5Gnu0NeuBYeblxI7Vna8gXNa7J7ZS10-q538/edit?usp=sharing Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[151] ☐ | Binary Search | Question / Practice: Codechef Contest Problem Session PART - 1  Part - 2  Part - 3 Sol (C++): Doc
+T[0] R[152] ☐ | Binary Search | Question / Practice: Cisco OA SESSION 34 Sol (C++): DOC
+T[0] R[153] ☐ | [Double Binary Search] [+Hashing(Prefix)] | Question / Practice: LC Contest P01  LC Contest P02 Sol (C++): Doc
+T[0] R[154] ☐ | Binary Search. | Question / Practice: Twilio OA Session Sol (C++): https://docs.google.com/document/d/1Smp8Xfo5zCvvj6VHYrvP6itSzmyG6lDOxivoTimN9JM/edit?usp=sharing Sol (Java): https://ideone.com/N8HAmV Sol (Python): https://ideone.com/0uRkc6. Other: https://ideone.com/coOtKh.
+T[0] R[155] ☐ | Binary Search | Question / Practice: Winzo OA Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[156] ☐ | Binary Search | Question / Practice: Session OA Level Infosys Sol (C++): Q  Thought Process Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[157] ☐ | Binary Search | Question / Practice: Amazon SDE 2 OA Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[158] ☐ | Binary Search | Question / Practice: DE Shaw SDE  Interview Problem Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[159] ☐ | Binary Search. | Question / Practice: Rubrik OA Session Sol (C++): Q.
+T[0] R[160] ☐ | Binary Search! | Question / Practice: Session  Google SWE Intern OA. Sol (C++): Q
+T[0] R[161] ☐ | Binary Search! | Question / Practice: Session  Amazon OA. Sol (C++): Q. Sol (Java): https://ideone.com/KHSgHi Sol (Python): https://ideone.com/NuLl2n Other: https://ideone.com/MNrBD3.
+T[0] R[162] ☐ | Binary Search! | Question / Practice: Tiktok OA Part1 Tiktok OA Part2 Sol (C++): Q.
+T[0] R[163] ☐ | Binary Search! | Question / Practice: Google OA Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[164] ☐ | Binary Search on answer | Question / Practice: Juspay OA 2025 Sol (C++): Doc
+T[0] R[165] ☐ | Greedy + Binary Search on Matrix + Greedy | Question / Practice: De Shaw OA P1  De Shaw OA P2 Sol (C++): Doc
+T[0] R[166] ☐ | Binary Search + Range Concept + Greedy [48] | Question / Practice: Codechef Contest P0  Codechef Contest P1 Sol (C++): Doc
+T[0] R[167] ☐ | Binary Search [Advanced] [49] | Question / Practice: Infosys OA. Sol (C++): doc
+T[0] R[168] ☐ | Binary Search [50] | Question / Practice: Leetcode Contest Sol (C++): doc
+T[0] R[169] ☐ | Binary Search [51] | Question / Practice: Amazon OA 2025 P1  Amazon OA 2025 P2 Sol (C++): doc
+T[0] R[170] ☐ | Two Pointer Algorithmic Mastery | 
+T[0] R[171] ☐ | Two Pointer (1) [Fundamental] | Question / Practice: Session 1 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[172] ☐ | Two Pointer (2) [Pointer Movement - Intuition Building] | Question / Practice: Session 2 (Concept + Intuition)  (a[i] + b[j] <=k) (a[i] + b[j] will always be <=k) Sol (C++): Q
+T[0] R[173] ☐ | Two Pointer (3) [Pointer Movement - Intuition Building] | Question / Practice: HomeWork Problem  Same as session 2 but now a[i] + b[j] > k is also possible.  https://practice.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1  (a[i]+b[j] can be greater than k) Sol (C++): https://practice.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1
+T[0] R[174] ☐ | Two Pointer (4) [Classical] | Question / Practice: Two Pointer Session 4 Sol (C++): doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[175] ☐ | Two Pointer Master-class + Template Building(5)  [(i…j)<=k trick ] | Question / Practice: Two Pointer Master (5) Sol (C++): Very Imp Doc
+T[0] R[176] ☐ | Two Pointer(6) [Classical] | Question / Practice: Interview Level Two Pointer Sol (C++): Very Imp Doc
+T[0] R[177] ☐ | Two Pointer(7) [(i…j)<=k trick ] | Question / Practice: Strong Foundational Vi  Google Interview Session. Sol (C++): doc
+T[0] R[178] ☐ | Two Pointer(8) [Classical] | Question / Practice: Microsoft OA Sol (C++): doc
+T[0] R[179] ☐ | Two Pointer (9) [Prefix/Suffix + (i..j)<=trick] | Question / Practice: Google SDE-3 Interview Part 1 Sol (C++): doc
+T[0] R[180] ☐ | Two Pointer (10) [Prefix/Suffix + (i..j)<=trick] | Question / Practice: Google SDE-3 Interview Part 2 Sol (C++): doc
+T[0] R[181] ☐ | Two Pointer(11) (You can use the same template of session above) [(i..j)<=trick] | Question / Practice: Flipkart SDE Interview Part - 1  Part - 2 (11) Sol (C++): Q Sol (Java): c++ Sol (Python): java Other: py
+T[0] R[182] ☐ | Two Pointer (12) [(i..j)<=trick] | Question / Practice: Amazon SDE Interview Session Part - 1  Part - 2 Sol (C++): Two Pointers Masterclass Doc  Amazon SDE Interview Doc Sol (Java): https://ideone.com/5aX6O3 Sol (Python): https://ideone.com/vSNv6M Other: https://ideone.com/YkobIO
+T[0] R[183] ☐ | Two Pointer (13) [String Subset Trick] | Question / Practice: VI0  VI1 Sol (C++): Google OA
+T[0] R[184] ☐ | Two Pointer (14) [String Subset Trick + Prefix/Suffix Concept] | Question / Practice: Salesforce SDE Interview. Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[185] ☐ | Two Pointer (15) [(i..j)<=trick] | Question / Practice: Microsoft SDE2 Interview Problem Session! Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[186] ☐ | Two pointer (16) [(i..j)<=trick] | Question / Practice: Concept Building + LC Contest Sol (C++): Q
+T[0] R[187] ☐ | Two Pointer (17) [(i..j)<=trick] | Question / Practice: Leetcode Contest Problem Sol (C++): Q
+T[0] R[188] ☐ | Two Pointer (18) [(i..j)<=k trick] | Question / Practice: Part - 1 :- Session 1  Part - 2 :- Session 2  Thought Process Doc :- https://docs.google.com/document/d/1RrD47OfXpZwFBcJ7qJpAz6v6ow4w1GTDf3SKcm5g-oA/edit Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[189] ☐ | Two Pointer (19) [(i..j)<=k trick] | Question / Practice: Google Coding Interview Problem - Part-1 :- Session  Part-2:- Session  Thought Process Doc :- https://docs.google.com/document/d/1RrD47OfXpZwFBcJ7qJpAz6v6ow4w1GTDf3SKcm5g-oA/edit Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[190] ☐ | Two Pointer (20) [(i..j)<=k trick] | Question / Practice: Session 12 Part - 1 :- https://drive.google.com/file/d/1ln3NlLuln5ov6gUdYiKBweX_3wGZ6HvA/view?usp=sharing  Session 12 Part - 2 :- https://drive.google.com/file/d/1xZa3VbTpPIeihnAzODF30lKVMNH3-dhb/view?usp=sharing  Thought Process Doc :- https://docs.google.com/document/d/1RrD47OfXpZwFBcJ7qJpAz6v6ow4w1GTDf3SKcm5g-oA/edit Sol (C++): Find number of subarrays in an array with sum<=k (All array elements >=0)  Last Question of this doc  https://docs.google.com/document/d/1RrD47OfXpZwFBcJ7qJpAz6v6ow4w1GTDf3SKcm5g-oA/edit Sol (Java): Sol Sol (Python): Sol
+T[0] R[191] ☐ | Two Pointer | Question / Practice: Practice Question-> Do it :) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[192] ☐ | Two Pointer | Question / Practice: Practice Question-> Do it :) Sol (C++): Q {Learn to do it using multiple approaches}
+T[0] R[193] ☐ | Two Pointer (21) [(i..j)<=k trick] | Question / Practice: Google SDE Interview Sol (C++): https://docs.google.com/document/d/1VoGtWvX3URyxl_JU8kHqrjmqxE1XFDBzuRIr-c6QPKc/edit
+T[0] R[194] ☐ | Two Pointers | Question / Practice: Expedia OA Sol (C++): Q Sol (Java): C++ Sol (Python): JAVA Other: PY
+T[0] R[195] ☐ | Two Pointer | Question / Practice: Session Bny Mellon Interview Question Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[196] ☐ | Two Pointer | Question / Practice: Amazon SDE 2 OA. (Watch the first two sessions of binary search to understand this session.) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[197] ☐ | Two Pointer | Question / Practice: Leetcode Contest Problem Session Sol (C++): Doc
+T[0] R[198] ☐ | Two Pointer | Question / Practice: Rubrik OA Session. Sol (C++): https://docs.google.com/document/d/1qJm45nHXryDn2FPldVQUvFcUtP0c152ubx7CtXeYycw/edit?addon_store Sol (Java): In doc Sol (Python): In doc Other: In doc
+T[0] R[199] ☐ | Two Pointer | Question / Practice: Interview Level Problem; Sol (C++): https://leetcode.com/problems/trapping-rain-water/description/ Sol (Java): https://drive.google.com/file/d/1V1cNNI_q6hpYu3gb-uzOOzOXjCmq2JKq/view?usp=sharing Sol (Python): https://drive.google.com/file/d/1V1cNNI_q6hpYu3gb-uzOOzOXjCmq2JKq/view?usp=sharing Other: https://drive.google.com/file/d/1V1cNNI_q6hpYu3gb-uzOOzOXjCmq2JKq/view?usp=sharing
+T[0] R[200] ☐ | Two Pointers | Question / Practice: Winzo OA Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[201] ☐ | Two Pointers | Question / Practice: Google OA Session  Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[202] ☐ | Two Pointers | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[203] ☐ | Two Pointer + Greedy | Question / Practice: Amazon OA First Part  Amazon OA Second Part Sol (C++): Doc
+T[0] R[204] ☐ | Bit Manipulation + Two Pointer + Binary Search | Question / Practice: TikTok OA P0  TikTok OA P1 TikTok OA P5 Sol (C++): doc
+T[0] R[205] ☐ | Two Pointers + Sliding Window | 
+T[0] R[206] ☐ | Two Pointers + Sliding Window | Question / Practice: Session 1 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[207] ☐ | Two Pointers + Sliding Window | Question / Practice: Session 2 Interview + OA Level (Amazon) Sol (C++): Q  Que Image DOC Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[208] ☐ | Two Pointers + Sliding Window | Question / Practice: Session 3 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[209] ☐ | Sliding Window. | Question / Practice: Session 4 Meesho OA. Sol (C++): Q.
+T[0] R[210] ☐ | Two Pointers Sliding Window | Question / Practice: Session 5 Interview Level  Notes Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[211] ☐ | Two Pointers Sliding Window | Question / Practice: Session 6 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[212] ☐ | Two Pointers Sliding Window | Question / Practice: Session 7 Interview Level  Notes  Homework Sol (C++): Q1  Q2  Q3 Sol (Java): Sol 1  Sol 2  Sol 3 Sol (Python): Sol 1  Sol 2  Sol 3 Other: Sol 1  Sol 2  Sol 3
+T[0] R[213] ☐ | Two Pointers Sliding Window | Question / Practice: Session 8 Interview Level BNY Mellon Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[214] ☐ | Two Pointers Sliding Window | Question / Practice: Session 9 OA Level Amazon Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[215] ☐ | Two Pointers Sliding Window | Question / Practice: Session 10 OA Level Amazon Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[216] ☐ | Two Pointers Sliding Window | Question / Practice: Session 11 OA Level Amazon Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[217] ☐ | Two Pointers Sliding Window | Question / Practice: Session 12 OA Level JP Morgan  Thought Process Sol (C++): Q Sol (Java): Sol (Brute)  Sol (Efficient) Sol (Python): Sol (Brute)  Sol (Efficient) Other: Sol (Brute)  Sol (Efficient)
+T[0] R[218] ☐ | Two Pointers Sliding Window | Question / Practice: Session 13 Amazon SDE Intern Interview Problem. Sol (C++): Que Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[219] ☐ | Implementation + Observation. + Constructive Algorithms. | 
+T[0] R[220] ☐ | Implementation +Observation. | Question / Practice: Cisco OA Session 1 Sol (C++): Q
+T[0] R[221] ☐ | Implementation +Observation. | Question / Practice: Amazon OA Session 2. Sol (C++): Q
+T[0] R[222] ☐ | Implementation +Observation. | Question / Practice: Amazon OA Session 3. Sol (C++): Q
+T[0] R[223] ☐ | Implementation +Observation. | Question / Practice: Amazon OA Session 4 Sol (C++): Q Sol (Java): https://www.onlinegdb.com/yxlVrsuIe Sol (Python): https://onlinegdb.com/ht_TqVZnC Other: https://onlinegdb.com/tCpbgJXz7
+T[0] R[224] ☐ | Implementation + Observation. | Question / Practice: Amazon OA Session 5 Sol (C++): Q Sol (Java): https://drive.google.com/file/d/1SVXH46vZflQPIDGKfl4PwARCzXaFSmK4/view?usp=sharing Sol (Python): https://drive.google.com/file/d/1SVXH46vZflQPIDGKfl4PwARCzXaFSmK4/view?usp=sharing
+T[0] R[225] ☐ | Implementation + Observation. | Question / Practice: Amazon OA Session 6. Sol (C++): https://www.desiqna.in/15339/amazon-oa-sde-intern-india-coding-set-136 Sol (Java): https://onlinegdb.com/2b0E6dz9_ Sol (Python): https://onlinegdb.com/_DVF-84gT Other: https://onlinegdb.com/cDm3ek_J6
+T[0] R[226] ☐ | Implementation + Observation. | Question / Practice: Amazon OA Session 7. Sol (C++): https://www.desiqna.in/15416/amazon-oa-sde-dublin-india-coding-set-140 Sol (Java): https://onlinegdb.com/OhgHubtNF6 Sol (Python): https://onlinegdb.com/yk_0DJ1LZ Other: https://onlinegdb.com/lYhjs4JXY
+T[0] R[227] ☐ | Implementation + Observation. | Question / Practice: Google OA Session. 8 Sol (C++): https://www.desiqna.in/15646/google-oa-sde-august Sol (Java): https://ideone.com/IyjKTJ Sol (Python): https://ideone.com/6X5Izk Other: https://ideone.com/Nlu6mb
+T[0] R[228] ☐ | Implementation + Observation. | Question / Practice: Linkedin OA Session 9. Sol (C++): https://www.desiqna.in/15865/linkedin-oa-sde-september-2023-coding-question Sol (Java): https://onlinegdb.com/nult28nEW Sol (Python): https://onlinegdb.com/Ey4HN6VT9 Other: https://onlinegdb.com/CvUdyaluu
+T[0] R[229] ☐ | Implementation + Observation. | Question / Practice: Linkedin OA Session 10 Sol (C++): https://www.desiqna.in/15866/linkedin-oa-sde-september-2023-coding-question-pivot Sol (Java): https://www.onlinegdb.com/rYqF2xORXy Sol (Python): https://onlinegdb.com/N3OMBCap4 Other: https://onlinegdb.com/1Wi68YzIb
+T[0] R[230] ☐ | Implementation + Observation. | Question / Practice: Codechef Contest Session 11 Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[231] ☐ | Implementation + Observation. | Question / Practice: Flipkart OA Sol (C++): Doc
+T[0] R[232] ☐ | Constructive Algorithm. | Question / Practice: Codechef Contest Sol (C++): Doc
+T[0] R[233] ☐ | Heap | 
+T[0] R[234] ☐ | Heap | Question / Practice: Session 1 Introduction  Thought Process Sol (C++): Q  Homework Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[235] ☐ | Heap | Question / Practice: Session 2 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[236] ☐ | Heap | Question / Practice: Session 3 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[237] ☐ | Heap | Question / Practice: Session 4 OA Level JP Morgan Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[238] ☐ | Heap | Question / Practice: Session 5 OA Level BNY Mellon. Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[239] ☐ | Heap + Hashing | Question / Practice: De Shaw OA Session 6 Sol (C++): DOC Sol (Java): Sol Sol (Python): java Other: py
+T[0] R[240] ☐ | Heap + Hashing | Question / Practice: ZScaler OASession 7(Hard)  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[241] ☐ | Heap | Question / Practice: Google SDE Interview 8. Sol (C++): Q. Sol (Java): https://drive.google.com/file/d/1EoEbbvHqtwWi28jry1F2OjNdPIPpcM6D/view Sol (Python): https://drive.google.com/file/d/1EoEbbvHqtwWi28jry1F2OjNdPIPpcM6D/view Other: https://drive.google.com/file/d/1EoEbbvHqtwWi28jry1F2OjNdPIPpcM6D/view
+T[0] R[242] ☐ | Heap | Question / Practice: Atlassian OA 9 Sol (C++): Q. Sol (Java): https://ideone.com/xkU37K Sol (Python): https://ideone.com/ycW3vS Other: https://www.jdoodle.com/ia/R1O
+T[0] R[243] ☐ | Heap | Question / Practice: Atlassian SDE Interview Session 10  Part-2-> Coming Soon! Sol (C++): https://docs.google.com/document/d/1eSxjSUAbLwWn-OlW0NlnxUgcWTT31mYXfxfbkuX7Y1A/edit Sol (Java): https://ideone.com/9IiHt2 Sol (Python): https://ideone.com/NTarlD Other: https://ideone.com/PJzOd8
+T[0] R[244] ☐ | Heap + Greedy + Subset | Question / Practice: Amazon OA Session 11 P1  Amazon OA Session 11 P2. Sol (C++): Thought Process.
+T[0] R[245] ☐ | Heap | Question / Practice: Zscaler OA Session 12  Part - 2 Sol (C++): Q Sol (Java): Refer in Doc Sol (Python): Refer in Doc Other: Refer in Doc
+T[0] R[246] ☐ | Heap | Question / Practice: Cisco OA Session 13 Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[247] ☐ | Stack | 
+T[0] R[248] ☐ | Stack (1) | Question / Practice: Session 1 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[249] ☐ | Stack (2) | Question / Practice: Stack Masterclass. Sol (C++): Q.
+T[0] R[250] ☐ | Stack (3) | Question / Practice: Atlassian OA. Sol (C++): q.
+T[0] R[251] ☐ | Stack (4) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[252] ☐ | Stack (5) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[253] ☐ | Stack (6) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[254] ☐ | Stack (7) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[255] ☐ | Stack (8) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[256] ☐ | Stack (9) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[257] ☐ | Stack (10) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[258] ☐ | Stack (11) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[259] ☐ | Stack (12) | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[260] ☐ | Stack (13) | Question / Practice: Session Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[261] ☐ | Stack(14) | Question / Practice: Session Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[262] ☐ | Stack(15) | Question / Practice: Atlassian SDE Interview Session 1  Part-2-> Coming Soon!(Yes!) Sol (C++): https://docs.google.com/document/d/1eSxjSUAbLwWn-OlW0NlnxUgcWTT31mYXfxfbkuX7Y1A/edit Sol (Java): https://ideone.com/9IiHt2 Sol (Python): https://ideone.com/NTarlD Other: https://ideone.com/PJzOd8
+T[0] R[263] ☐ | Stack (16) | Question / Practice: Session  Deutsche Bank OA. Sol (C++): https://docs.google.com/document/d/1nmpNCjuqppPXTZMMVa1UFhQJ5Q4bfs01XH8T6rEu9k0/edit
+T[0] R[264] ☐ | Stack (17.) | Question / Practice: Now solve these practice questions!
+T[0] R[265] ☐ |  | Question / Practice: Queue
+T[0] R[266] ☐ | Queue | Question / Practice: Session 1 Sol (C++): Q Sol (Java): https://ideone.com/bLj1jm Sol (Python): https://ideone.com/oeZefj Other: https://ideone.com/RZ51hh
+T[0] R[267] ☐ | Queue | Question / Practice: Session 2 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[268] ☐ | Queue. | Question / Practice: Now solve these practice questions!
+T[0] R[269] ☐ | Graph | 
+T[0] R[270] ☐ | Graph | 
+T[0] R[271] ☐ | Graph (1) | Question / Practice: Intro to graphs. Sol (C++): Doc Sol (Java): https://ideone.com/6Xina4  https://ideone.com/bpDBbh Sol (Python): https://ideone.com/oXm5kN  https://ideone.com/RIVq6E. Other: https://ideone.com/q4qlWs.  https://ideone.com/36dbmJ.
+T[0] R[272] ☐ | Graph (2) | Question / Practice: Session 2 BFS and its applications Sol (C++): BFS on Graph Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[273] ☐ | Graph (3) | Question / Practice: BFS - Graph OA based level  Thoughts + Intuition  (In this session Kumar K teaches secret tricks so focus on it) Sol (C++): BFS on Graph  Q1  Q2(For each node  in the graph find if its reachable or not from the source node)  Q3(Number of shortest paths from the source node to all other nodes) Sol (Java): Sol  Sol  Sol Sol (Python): Sol  Sol  Sol Other: Sol  Sol   Sol
+T[0] R[274] ☐ | Graph (4) | Question / Practice: DFS Master 4 Session By Kumar K  Thoughts + Process + Intuition  Prerequisite - DFS and Recursion are same thing Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[275] ☐ | Graph (5) | Question / Practice: BFS + DFS 5 Recap
+T[0] R[276] ☐ | Graph (6) [Connected Components] | Question / Practice: Session 6 Connected ReCap Components Sol (C++): Q. Sol (Java): https://ideone.com/f6k1mA. Sol (Python): https://ideone.com/wfDVff. Other: https://ideone.com/wzso2y
+T[0] R[277] ☐ | Graph (7) [Connected Components] | Question / Practice: Cisco OA Session Part - 1  Part - 2  part - 3 Sol (C++): Doc
+T[0] R[278] ☐ | Graph(8) [Math + Connected Component] | Question / Practice: Media.Net OA P1 Sol (C++): https://docs.google.com/document/d/15XtlwH_BEuJZ-Gll_Nwn5Bs7I1oPfmhwgdZlkg0UmeI/edit?tab=t.0
+T[0] R[279] ☐ | Graph(9) [Math + Connected Component] | Question / Practice: Media.Net OA P2 Sol (C++): https://docs.google.com/document/d/15XtlwH_BEuJZ-Gll_Nwn5Bs7I1oPfmhwgdZlkg0UmeI/edit?tab=t.0
+T[0] R[280] ☐ | Graph (10) [Connected Components] | Question / Practice: Codeforces Contest Sol (C++): https://docs.google.com/document/d/1KHY255aL8hK7C7SzWEMVaOzYekXtX1G6lGvqUAMA6hc/edit?tab=t.0
+T[0] R[281] ☐ | Graph (11) [Connected Components] | Question / Practice: Codeforces Contest Connected Components Problem Sol (C++): Doc
+T[0] R[282] ☐ | Graph. (12) [Connected Components] | Question / Practice: Session 6 Google OA. Sol (C++): Q.
+T[0] R[283] ☐ | Graph. (13) [TopoSort] | Question / Practice: PayPal OA Topological sorting Sol (C++): Q. Sol (Java): https://ideone.com/O5f44i Sol (Python): https://ideone.com/OMHyHN. Other: https://ideone.com/fXt3Z7,
+T[0] R[284] ☐ | Graph (14) [TopoSort] | Question / Practice: Microsoft OA. Sol (C++): Microsoft OA Doc
+T[0] R[285] ☐ | Graph(15) [DAG + Binary Search + Topo] | Question / Practice: Google Interview 1  Google Interview 2. Sol (C++): Q. Sol (Java): https://ideone.com/CJyCYl Sol (Python): https://ideone.com/flIWQa. Other: https://ideone.com/SLLcAr
+T[0] R[286] ☐ | Graph[Directed Graph + Connected Components] [16] | Question / Practice: Codeforces Graph-F Problem Session. Sol (C++): doc
+T[0] R[287] ☐ | Graph[Connected Components] | Question / Practice: Salesforce AMTS OA Sol (C++): doc
+T[0] R[288] ☐ | Graph[Flood Fill] | Question / Practice: Session 17 Sol (C++): Q Sol (Java): c++ Sol (Python): java Other: Py
+T[0] R[289] ☐ | Graph[Multisource BFS] | Question / Practice: Microsoft SDE-1 Interview 51L Sol (C++): Doc
+T[0] R[290] ☐ | Graph[Multisource BFS] | Question / Practice: Uber SWE Interview Sol (C++): Doc
+T[0] R[291] ☐ | Graph[Standard Problem] | Question / Practice: Session 18 Sol (C++): Q1  Q2 Sol (Java): c++  C++ Sol (Python): java  java Other: py  py
+T[0] R[292] ☐ | Graph[Standard Problem] | Question / Practice: Session 19 Sol (C++): Q1  Q2 Sol (Java): C++  C++ Sol (Python): java  java Other: Py  py
+T[0] R[293] ☐ | Graph[Standard Problem] | Question / Practice: Session 20 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[294] ☐ | Graph [Shortest Path Concept] | Question / Practice: Session 21 OA Level Uber(Based on BFS shortest path.) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[295] ☐ | Graph [Shortest Path Concept] | Question / Practice: Session 22 Google Intern Interview. (Based on BFS shortest path.) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[296] ☐ | Graph[23] [Shortest Path Concept] | Question / Practice: Session 23 Google Intern Interview. Sol (C++): https://docs.google.com/document/d/1sW9GwFVPJtQLAQqy87i53V6mtBUeKiXrKKOVvwPf3f0/edit?usp=sharing Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[297] ☐ | Graph[24] (With Twist of Binary Search!) | Question / Practice: Google OA Part1  Google OA Part2. Sol (C++): https://docs.google.com/document/d/1yAsHL5MdIkKD4yH90MeS-zLXnBp0bG0t_MhnOegSVcQ/edit
+T[0] R[298] ☐ | Graph[25] + Binary Search + Math | Question / Practice: Codechef 2200+ Rating Problem Recording Sol (C++): doc
+T[0] R[299] ☐ | Graph[26] + Math[LCM] | Question / Practice: Tower Research OA P1 Sol (C++): DOC
+T[0] R[300] ☐ | Graph[27] + Constructive Algorithms[Prime number concept] | Question / Practice: Rubrik OA P1  Rubrik OA P2 Sol (C++): doc
+T[0] R[301] ☐ | Graph[28] (Multisource BFS) | Question / Practice: Atlassian SDE 2 Interview 1st part Sol (C++): doc
+T[0] R[302] ☐ | Graph[29] (Multisource BFS) | Question / Practice: Atlassian SDE 2 Interview 2nd Part Sol (C++): doc
+T[0] R[303] ☐ | Graph[30] (Multisource BFS) | Question / Practice: Atlassian SDE 2 Interview 3rd Part Sol (C++): doc
+T[0] R[304] ☐ | Graph[31] (Multisource BFS + DP) | Question / Practice: De Shaw OA Sol (C++): doc
+T[0] R[305] ☐ | Graph[32] (BiPartite Graphs) | Question / Practice: Foundational Sol (C++): Doc
+T[0] R[306] ☐ | Graph [Dijkstra Algorithm] | Question / Practice: P0  P1  (Dijkstra’s algorithm.) Sol (C++): doc Sol (Java): https://ideone.com/Kd6rVD. Sol (Python): https://ideone.com/BLMvnP. Other: https://ideone.com/J6vyqt
+T[0] R[307] ☐ | Graph [Dijkstra Algorithm] (DP on Graphs) | Question / Practice: LeetCode Weekly Contest Sol (C++): Doc
+T[0] R[308] ☐ | Graph [Dijkstra Algorithm] | Question / Practice: Swiggy SDE2 OA P1  Swiggy SDE2 OA P2 Sol (C++): doc
+T[0] R[309] ☐ | Graph | Question / Practice: (Based on BFS;Dijkstra’s algorithm and DP) Sol (C++): Coming Soon Sol (Java): Coming Soon. Sol (Python): Coming Soon Other: Coming Soon.
+T[0] R[310] ☐ | Graph(DSU) | Question / Practice: Disjoint Set Union Sol (C++): Doc Sol (Java): https://ideone.com/Ho8mlj. Sol (Python): https://ideone.com/EltnQL. Other: https://ideone.com/5eKFl7.
+T[0] R[311] ☐ | Graph(DSU) | Question / Practice: Google SWE Intern OA Sol (C++): Doc
+T[0] R[312] ☐ |  | Question / Practice: Prep these graph problems for - easy level interview!
+T[0] R[313] ☐ |  | Question / Practice: Prepare these for a hard level Interview!
+T[0] R[314] ☐ | Practice Problems!! | Question / Practice: Do it
+T[0] R[315] ☐ | N-ary Trees(General Trees) | 
+T[0] R[316] ☐ | Trees[1] | Question / Practice: Session 1 Sol (C++): Q Sol (Java): Sol1  Sol2 Sol (Python): Sol1  Sol2 Other: Sol1  Sol2
+T[0] R[317] ☐ | Trees[2] | Question / Practice: Session 2 Sol (C++): Q Sol (Java): https://ideone.com/FHL0F4 Sol (Python): https://ideone.com/wfkQzy Other: https://ideone.com/5thjxI
+T[0] R[318] ☐ | Trees[3] | Question / Practice: Google SWE Intern OA Session 3 Sol (C++): Doc
+T[0] R[319] ☐ | Trees[4] | Question / Practice: Session 4 Sol (C++): Q Sol (Java): https://ideone.com/W8t1yD Sol (Python): https://ideone.com/LIzhdb Other: https://ideone.com/ytv8Ga
+T[0] R[320] ☐ | Trees[5] | Question / Practice: VmWare OA Session 5 Sol (C++): Q Sol (Java): https://ideone.com/xMBTaY Sol (Python): https://ideone.com/VdYekK Other: https://ideone.com/9dyfNP
+T[0] R[321] ☐ | Trees + BFS[6] | Question / Practice: Juspay OA Video Sol (C++): doc
+T[0] R[322] ☐ | Trees + BFS[7] | Question / Practice: CF - E - Problem Solving Sol (C++): https://docs.google.com/document/d/19lIrYRBmYaOLoDA6PLozDOfu2_YbodKXHjPx2HOrzjM/edit?tab=t.0
+T[0] R[323] ☐ | Trees + DFS DP[8] | Question / Practice: Swiggy SDE-2 OA P1  Swiggy SDE-2 OA P2 Sol (C++): DOC
+T[0] R[324] ☐ | Trees[10] | Question / Practice: Service Now OA . Sol (C++): Doc
+T[0] R[325] ☐ | Trees[11] | Question / Practice: Google OA . Sol (C++): Doc
+T[0] R[326] ☐ | Trees[12] | Question / Practice: Rubrik OA 6 Sol (C++): Doc
+T[0] R[327] ☐ | Trees[13] | Question / Practice: Watch pre-requisite video - Link  Google SDE 3 Interview P0  Google SDE 3 Interview P1 Sol (C++): Doc
+T[0] R[328] ☐ | Trees[15] | Question / Practice: Session DFS variation- 10 Sol (C++): Doc
+T[0] R[329] ☐ | Trees[16] | Question / Practice: Session Google SDE-3 Interview 8 Sol (C++): Doc
+T[0] R[330] ☐ | Read this code and feel it C++ Java. Py. | 
+T[0] R[331] ☐ | Tree + Special DFS [17] | Question / Practice: Meesho OA 2024 Recording Sol (C++): doc
+T[0] R[332] ☐ | Tree + Special DFS [18] | Question / Practice: Meesho OA 2025 Recording Sol (C++): doc
+T[0] R[333] ☐ | Tree + Special DFS [19] | Question / Practice: De Shaw OA Sol (C++): doc
+T[0] R[334] ☐ | Tree DP + Combinatorics + Maths[20] | Question / Practice: Zomato OA Sol (C++): doc
+T[0] R[335] ☐ | Tree DP + Combinatorics + Maths[21] | Question / Practice: Codeforces Div3 E Problem Session P1  Codeforces Div3 E Problem Session P2 Sol (C++): doc
+T[0] R[336] ☐ | Tree + DP[22] | Question / Practice: Google SWE3 Interview Part1 Sol (C++): doc
+T[0] R[337] ☐ | Tree + DP [23] | Question / Practice: Google Interview P0 Sol (C++): doc
+T[0] R[338] ☐ | Tree + DP [24] | Question / Practice: Google Interview P1 Sol (C++): doc
+T[0] R[339] ☐ | Tree + DP [25] | Question / Practice: Google SDE Interview P0 Sol (C++): doc
+T[0] R[340] ☐ | Tree + DP [26] | Question / Practice: Google Interview P1 Sol (C++): doc
+T[0] R[341] ☐ | Tree + DP[27] | Question / Practice: Uber OA P1 Sol (C++): doc
+T[0] R[342] ☐ | Tree + DP[28] | Question / Practice: Uber OA P2 Sol (C++): doc
+T[0] R[343] ☐ | Tree + DP[29] | Question / Practice: Uber OA P3 Sol (C++): doc
+T[0] R[344] ☐ | Tree + DP[30] | Question / Practice: Google SWE OA Sol (C++): doc
+T[0] R[345] ☐ | Tree + DP[Upward DP] [31] | Question / Practice: Meesho OA P1 Sol (C++): doc
+T[0] R[346] ☐ | Tree + DP[Upward DP] [32] | Question / Practice: Meesho OA P2 Sol (C++): doc
+T[0] R[347] ☐ | Tree + DP[Upward DP] [33] | Question / Practice: Meesho OA P5 Sol (C++): doc
+T[0] R[348] ☐ | Tree DP + Re-rooting DP[34] | Question / Practice: Google SWE Interview P1  Google SWE Interview P2 Sol (C++): DOC
+T[0] R[349] ☐ | Tree + DP + Greedy [35] | Question / Practice: Zomato OA P1 Sol (C++): doc
+T[0] R[350] ☐ | Tree + DP + Greedy [36] | Question / Practice: Zomato OA P2 Sol (C++): doc
+T[0] R[351] ☐ | Tree + Pruning [37] | Question / Practice: Cisco OA P1  Cisco OA P2 Sol (C++): doc
+T[0] R[352] ☐ | Trees(BFS + Greedy) [38] | Question / Practice: Samsung OA P0  P1 Sol (C++): Doc
+T[0] R[353] ☐ | Trees + BFS [39] | Question / Practice: Codeforces E Problem Solving Sol (C++): doc
+T[0] R[354] ☐ | Trees(BFS + Bottom up DFS) [40] | Question / Practice: LC Contest P0  LC Contest P1  LC Contest P2. Sol (C++): doc
+T[0] R[355] ☐ | Trees + Combinatorics [41] | Question / Practice: Codeforces Problem F Tree + Math Solving Sol (C++): doc
+T[0] R[356] ☐ | Trees [42] | Question / Practice: Leetcode Contest Problem Sol (C++): Doc
+T[0] R[357] ☐ | Trees [43] | Question / Practice: Infosys OA. Sol (C++): Q.
+T[0] R[358] ☐ | Trees [44] | Question / Practice: Uber OA. Sol (C++): Q.
+T[0] R[359] ☐ | Trees(BFS + DFS + Greedy + Constructive Algorithm) [45] | Question / Practice: Codechef 6 star P0  Codechef 6 star P1
+T[0] R[360] ☐ | Trees + Math; [46] | Question / Practice: Codeforces - F - Problem Solving Sol (C++): Doc
+T[0] R[361] ☐ | Trees(BFS + Greedy + Constructive Algorithm) [47] | Question / Practice: Codechef 7 star Rated Problem. Sol (C++): Doc
+T[0] R[362] ☐ | Tree[Euler Tour + Flattening] [48] | Question / Practice: Intuit OA P1  Intuit OA P2 Sol (C++): Doc
+T[0] R[363] ☐ | Linked List | 
+T[0] R[364] ☐ | Linked list | Question / Practice: Session 1 Sol (C++): Intro
+T[0] R[365] ☐ | Linked List | Question / Practice: Session 2 Sol (C++): Q
+T[0] R[366] ☐ | Linked list | Question / Practice: Session 3 Sol (C++): Q
+T[0] R[367] ☐ | Linked list | Question / Practice: Session 4 Part - 1  Part - 2 Sol (C++): Q
+T[0] R[368] ☐ | Linked list | Question / Practice: Session 5 pp Sol (C++): Q
+T[0] R[369] ☐ | Linked list | Question / Practice: Session 6 Part - 1  Part - 2 Sol (C++): Q  Q2pp
+T[0] R[370] ☐ | Linked List | Question / Practice: Session 7 Sol (C++): Q
+T[0] R[371] ☐ | Linked list | Question / Practice: Session 8 Sol (C++): Qpp
+T[0] R[372] ☐ | Linked list | Question / Practice: Session 9 Sol (C++): Q
+T[0] R[373] ☐ | Linked list | Question / Practice: Session 10 Part - 1  Part - 2 Sol (C++): Q
+T[0] R[374] ☐ | Linked list | Question / Practice: Session 11 Sol (C++): Q
+T[0] R[375] ☐ | Linked list | Question / Practice: Session 12 Sol (C++): Q
+T[0] R[376] ☐ | Linked list | Question / Practice: Session 13 Sol (C++): Qpp
+T[0] R[377] ☐ | Linked list | Question / Practice: Session 14 Sol (C++): Qpp
+T[0] R[378] ☐ | Linked list | Question / Practice: Session 15 Sol (C++): Qpp
+T[0] R[379] ☐ | Linkedlist | Question / Practice: Session 16 Sol (C++): Qpp
+T[0] R[380] ☐ | Linkedlist | Sol (C++): Qpp
+T[0] R[381] ☐ | Recursion | 
+T[0] R[382] ☐ | Recursion | Question / Practice: Session 1 Introduction Explanation by Kumar K Sol (C++): Que Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[383] ☐ | Recursion. | Question / Practice: Session 2 Sol (C++): Doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[384] ☐ | Recursion | Question / Practice: Session 3 Sol (C++): Doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[385] ☐ | Recursion | Question / Practice: Session 4 Sol (C++): Doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[386] ☐ | Dynamic Programming | 
+T[0] R[387] ☐ | 📌Kumar K has taught DP in a totally different fashion ; you will realize what a gem it is 🔥 | 
+T[0] R[388] ☐ | DP (1) [Simple Pattern] | Question / Practice: Complete this written tutorial then move forward
+T[0] R[389] ☐ | DP (2) [Simple Pattern] | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[390] ☐ | DP (3) [Simple Pattern] | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[391] ☐ | DP (4) [Simple Pattern] | Question / Practice: Session Interview Level Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[392] ☐ | DP (5) [Simple Pattern] | Question / Practice: Amazon OA. Sol (C++): Q. Sol (Java): Code Sol (Python): Code Other: https://ideone.com/xkhWiS
+T[0] R[393] ☐ | Dynamic Programming (6) [Simple Pattern] | Question / Practice: PayPal OA. Session 5 Sol (C++): doc
+T[0] R[394] ☐ | DP (7) [Simple Pattern] | Question / Practice: AtCoder DP  Thought Process. Sol (C++): Q1  Q2 Sol (Java): Code  Code Sol (Python): Code  Code Other: Code  Code
+T[0] R[395] ☐ | DP (8) [Simple Pattern] | Question / Practice: Google SWE Intern Interview Sol (C++): Q.
+T[0] R[396] ☐ | DP (9) [Simple Pattern] | Question / Practice: Infosys OA 21Lakhs CTC Sol (C++): Doc
+T[0] R[397] ☐ | DP (10) [Simple Pattern] | Question / Practice: AtCoder DP  Thought Process. Sol (C++): Q Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[398] ☐ | DP (11) [Simple Pattern] | Question / Practice: Google Interview P0   P1 Sol (C++): Thought Process. Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[399] ☐ | DP (12) [Simple Pattern] | Question / Practice: Google SDE3 Interview Sol (C++): Q Sol (Java): Code. Sol (Python): Code. Other: Code.
+T[0] R[400] ☐ | DP (13) [Simple Pattern] | Question / Practice: Uber OA. Sol (C++): doc
+T[0] R[401] ☐ | DP (14) [Simple Pattern] | Question / Practice: Uber OA Session Sol (C++): Q Sol (Java): c++ Sol (Python): java Other: py
+T[0] R[402] ☐ | DP (15) [Simple Pattern] [House Robber Variation] | Question / Practice: Google SDE3 Interview Sol (C++): Doc
+T[0] R[403] ☐ | DP (16) [Simple Pattern] [House Robber Variation] | Question / Practice: Google SDE3 Interview Sol (C++): Doc
+T[0] R[404] ☐ | DP (17) [Simple Pattern] | Question / Practice: GoldMan Sachs OA. Sol (C++): Thought Process. Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[405] ☐ | DP (18) [Simple Pattern] | Question / Practice: Atlassian OA Session Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol'
+T[0] R[406] ☐ | DP (19) [Simple Pattern] | Question / Practice: Google SDE3 Interview Sol (C++): Q. Sol (Java): Sol’ Sol (Python): Sol Other: Sol
+T[0] R[407] ☐ | DP (20) [Simple Pattern] | Question / Practice: OA Level Uber Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[408] ☐ | DP (21) [Simple Pattern] | Question / Practice: OA Level Barclays Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[409] ☐ | DP (22) [Simple Pattern] | Question / Practice: Uber SDE Interview Sol (C++): Q.
+T[0] R[410] ☐ | DP (23) [Simple Pattern] | Question / Practice: Microsoft OA Session Sol (C++): Doc
+T[0] R[411] ☐ | DP (24) [Simple Pattern] | Question / Practice: Meesho OA. Sol (C++): DOC
+T[0] R[412] ☐ | DP (25) [Simple Pattern] | Question / Practice: AirBnB OA P0  AirBnB OA P1 Sol (C++): Q. (You can use the exact same method of session 21 -> just assume A=[0,0,0,....]) Sol (Java): Sol Sol (Python): Sol
+T[0] R[413] ☐ | Dp(26) [Simple Pattern] | Question / Practice: Phonepe OA Sol (C++): Doc
+T[0] R[414] ☐ | DP (27) [Simple Pattern] | Question / Practice: Google OA 1  Google OA 2. Sol (C++): Q.
+T[0] R[415] ☐ | DP (28) [Simple Pattern] | Question / Practice: Deutsche Bank OA Session Part - 1  Part - 2  Part - 3 Sol (C++): Doc Sol (Java): Sol. Sol (Python): Sol. Other: Sol
+T[0] R[416] ☐ | DP (29) [Simple Pattern] | Question / Practice: Tower Research OA Part - 1  Part - 2 Sol (C++): Doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[417] ☐ | DP (30) [Simple Pattern] | Question / Practice: Leetcode Contest Sol (C++): doc
+T[0] R[418] ☐ | DP (31) [Multidimensional DP] | Question / Practice: Uber OA Sol (C++): doc
+T[0] R[419] ☐ | DP (32) [Subarray DP] | Question / Practice: Session Interview Level Subarray - a Sol (C++): Q Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[420] ☐ | DP (33) [Subarray DP] | Question / Practice: Session Interview Level Subarray - a Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[421] ☐ | DP (34) [Subarray DP] | Question / Practice: Session Interview Level Subarray - a Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[422] ☐ | DP (35) [Subarray DP] | Question / Practice: Google OA P - 1  P2 Sol (C++): Google OA Doc
+T[0] R[423] ☐ | DP (36) [Subarray DP] | Question / Practice: Leetcode Contest P0  Leetcode Contest P1 Sol (C++): doc
+T[0] R[424] ☐ | DP (37) [Subarray DP] | Question / Practice: Session Google SDE Interview Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[425] ☐ | DP (38) [Subarray DP] | Question / Practice: Rubrik OA Sol (C++): Q.
+T[0] R[426] ☐ | DP (39) [Subarray DP] | Question / Practice: DP Leetcode Session Video Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[427] ☐ | DP (40) [Subarray DP] | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[428] ☐ | DP (41) [Subarray DP] | Question / Practice: Microsoft OA Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: sol
+T[0] R[429] ☐ | DP (42) [Partition DP] | Question / Practice: Google SDE3 Interview Problem Solving Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[430] ☐ | DP (43) [Partition DP] | Question / Practice: Google SDE-3 Part1  Google SDE-3 Part2 Sol (C++): doc
+T[0] R[431] ☐ | DP (44) [Partition DP] | Question / Practice: Session  LeetCode Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): sol Other: sol
+T[0] R[432] ☐ | DP (45) [Partition DP] | Question / Practice: Linkedin OA Session Sol (C++): Doc
+T[0] R[433] ☐ | DP (46) [Partition DP] | Question / Practice: Leetcode Contest Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Python
+T[0] R[434] ☐ | DP (47) [Partition DP] | Question / Practice: Cisco IdeaThon OA Sol (C++): Q
+T[0] R[435] ☐ | DP (48) [Partition DP] | Question / Practice: Google SWE Intern OA Sol (C++): Q
+T[0] R[436] ☐ | DP (49) [Partition DP] | Question / Practice: Google SWE Intern OA. Sol (C++): Q Other: Sol
+T[0] R[437] ☐ | DP (50) [Partition DP] | Question / Practice: Google OA Prime String Sol (C++): Doc
+T[0] R[438] ☐ | DP (51) [Partition DP] | Question / Practice: Microsoft OA Sol (C++): Q
+T[0] R[439] ☐ | DP (52) [Partition DP] | Question / Practice: TechGiG Semifinal Session Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[440] ☐ | DP (53) [Partition DP] | Question / Practice: Leetcode Contest Link Sol (C++): doc Sol (Java): Sol.
+T[0] R[441] ☐ | DP (54) [Partition DP] | Question / Practice: Amazon OA P0 P1 P5 Sol (C++): Doc
+T[0] R[442] ☐ | DP (55) [Partition DP] | Question / Practice: Google SWE Intern.  Part - 2  Part - 3 Sol (C++): Doc
+T[0] R[443] ☐ | DP (56) [Partition DP] | Question / Practice: Google OA  Part - 1 Part - 2 Sol (C++): Doc
+T[0] R[444] ☐ | DP (57) [Partition DP] | Question / Practice: Google SDE3 OA Sol (C++): Q.
+T[0] R[445] ☐ | DP (58) [Partition DP] | Question / Practice: Codeforces Part - 1 part - 2 Sol (C++): DOC
+T[0] R[446] ☐ | DP (59) [Partition DP] | Question / Practice: Uber OA Part - 1 part - 2 Sol (C++): Doc
+T[0] R[447] ☐ | DP (60) [Partition DP] | Question / Practice: Meesho OA Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[448] ☐ | DP (61) [Partition DP] | Question / Practice: Intuit OA Session. Sol (C++): Q. Sol (Java): Sol. Sol (Python): Sol Other: Sol
+T[0] R[449] ☐ | DP (62) [Partition DP] | Question / Practice: Myntra OA Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[450] ☐ | DP (63) [Partition DP] | Question / Practice: Google OA Part 0  Google OA Part 1 Sol (C++): Doc
+T[0] R[451] ☐ | DP on Ranges [DP + Binary Search] [64] | Question / Practice: Salesforce SWE Intern P1  Salesforce SWE Intern P2 Sol (C++): Doc
+T[0] R[452] ☐ | DP (65) [Counting DP] | Question / Practice: Tower Research OA Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[453] ☐ | DP (66) [Simple Pattern DP] | Question / Practice: Session Google OA. Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[454] ☐ | DP (67) [KnapsackDP] | Question / Practice: Session OA Level Sol (C++): Q Sol (Java): Sol  Sol Sol (Python): Sol  Sol Other: Sol  Sol
+T[0] R[455] ☐ | DP (68) [KnapsackDP] | Question / Practice: De Shaw OA Sol (C++): Q Sol (Java): Sol Sol (Python): Sol
+T[0] R[456] ☐ | DP (69) [KnapsackDP+ Unbounded KnapsackDP] | Question / Practice: OA Level Sol (C++): Q1  Q2 Sol (Java): Sol 1  Sol 2 Sol (Python): Sol 1  Sol 2 Other: Sol 1  Sol 2
+T[0] R[457] ☐ | DP (70) [KnapsackDP+ Unbounded KnapsackDP] | Question / Practice: Foundational Video Sol (C++): doc
+T[0] R[458] ☐ | DP (71) [KnapsackDP+Subset-DP] | Question / Practice: Leetcode Weekly Contest Sol (C++): doc
+T[0] R[459] ☐ | DP (72) [KnapsackDP+Subset-DP] | Question / Practice: Google + Deutsche Bank OA. Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[460] ☐ | DP (73) [KnapsackDP+Subset-DP] | Question / Practice: Google OA P0 P1 Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol. Other: Sol
+T[0] R[461] ☐ | DP (74) [KnapsackDP+Subset-DP] | Question / Practice: Uber OA Sol (C++): Doc
+T[0] R[462] ☐ | DP (75) [Knapsack-Merging DP] | Question / Practice: Foundational Sol (C++): Doc
+T[0] R[463] ☐ | DP (76) [Subset DP + Multi-dimensional DP] | Question / Practice: Coinswitch OA P0  Coin Switch OA P1  Coin Switch OA P2. Sol (C++): Doc
+T[0] R[464] ☐ | DP (77) [Subset DP + Knapsack DP Multi-dimensional DP] | Question / Practice: Atlassian SDE Interview P0  Atlassian SDE Interview P1  Atlassian SDE Interview P11  Atlassian SDE Interview P21 Sol (C++): Doc
+T[0] R[465] ☐ | DP + Combinatorics + Optimization (78) | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[466] ☐ | DP (79) [LIS] | Question / Practice: LIS DP Sol (C++): Q1 or Q  Q2 Sol (Java): Sol 1  Sol 2 Sol (Python): Sol 1  Sol 2 Other: Sol 1  Sol 2
+T[0] R[467] ☐ | DP (80) [LIS] | Question / Practice: LIS DP Sol (C++): Doc
+T[0] R[468] ☐ | DP (81) [LIS] | Question / Practice: Amazon OA Sol (C++): Q Sol (Java): C++ Sol (Python): JAVA Other: PY
+T[0] R[469] ☐ | DP (82) [LIS] | Question / Practice: Walmart OA Session.  Q Sol (C++): Q. Sol (Java): Code. Sol (Python): Code. Other: Code.
+T[0] R[470] ☐ | DP (83) [LIS] | Question / Practice: Microsoft OA Practice Question;  Q  Q Sol (C++): Q,
+T[0] R[471] ☐ | DP (84) [LIS] | Question / Practice: Google OA. Sol (C++): Q.
+T[0] R[472] ☐ | DP (85) [LIS] | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[473] ☐ | DP (86) [LIS DP + Optimization] | Question / Practice: Atlassian OA Sol (C++): Doc
+T[0] R[474] ☐ | DP (87) [LIS] | Question / Practice: Microsoft OA Sol (C++): Doc
+T[0] R[475] ☐ | DP (88) [LIS DP + Segment Tree] | Question / Practice: Leetcode Contest P1  Leetcode Contest P2 Sol (C++): Doc
+T[0] R[476] ☐ | [89] [LIS DP + Segment Tree] | Question / Practice: Leetcode Contest P1  Leetcode Contest P2  Leetcode Contest P3 Sol (C++): Doc
+T[0] R[477] ☐ | DP (90) [Multidimensional DP + Optimization] | Question / Practice: Salesforce OA P1  Salesforce OA P2 Sol (C++): Doc
+T[0] R[478] ☐ | DP (91) [Multidimensional DP + Optimization] | Question / Practice: Atlassian SDE Interview. Sol (C++): Q.
+T[0] R[479] ☐ | DP (92) [Multidimensional DP + Optimization] | Question / Practice: Phonepe OA Sol (C++): Doc
+T[0] R[480] ☐ | DP (93) [Multidimensional DP + Optimization] | Question / Practice: Morgan Stanley Part - 1  Part - 2 Sol (C++): Doc Sol (Java): Sol. Sol (Python): Sol. Other: Sol
+T[0] R[481] ☐ | DP(94)[Multidimensional DP + Optimization] | Question / Practice: Meesho OA Session Sol (C++): Doc
+T[0] R[482] ☐ | DP(95)[Multidimensional DP] | Question / Practice: Rubrik OA Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[483] ☐ | DP(96)[Multidimensional DP] | Question / Practice: Google OA. Sol (C++): Doc
+T[0] R[484] ☐ | DP(97)[Multidimensional DP + Optimization] | Question / Practice: TikTok OA P0  TikTok OA P1 Sol (C++): doc
+T[0] R[485] ☐ | DP(98)[Multidimensional DP + Optimization] | Question / Practice: Leetcode Contest Sol (C++): doc
+T[0] R[486] ☐ | DP(99)[Multidimensional DP + Pair DP] | Question / Practice: Amazon SDE2 OA Sol (C++): DOC
+T[0] R[487] ☐ | DP (100) [Inversion DP] | Question / Practice: DP on Inversion Count Sol (C++): Doc
+T[0] R[488] ☐ | DP (101) [Grid DP] | Question / Practice: Session OA Level CISCO Traditional Matrix DP  Q Sol (C++): Q Sol (Java): Sol 1  Sol 2 Sol (Python): Sol 1  Sol 2 Other: Sol 1  Sol 2
+T[0] R[489] ☐ | DP (102) [Grid DP] | Question / Practice: Session OA Level Cisco Matrix DP  Thought Process. Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[490] ☐ | DP (103) [Tiling DP] | Question / Practice: OA Level  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[491] ☐ | DP (104) [Tiling DP] | Question / Practice: Google SWE Intern Interview Sol (C++): Doc
+T[0] R[492] ☐ | DP (105) [Tiling DP] | Question / Practice: Tower Research OA Level  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[493] ☐ | DP (106) [Tiling DP] | Question / Practice: Leetcode Contest + OA Level  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[494] ☐ | DP(107) [Tiling DP] | Question / Practice: Codeforces Edu Round 189 Div2 C Sol (C++): Doc
+T[0] R[495] ☐ | DP (108) [Tiling DP] | Question / Practice: OA Level ServiceNow Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[496] ☐ | DP (109) [Tiling DP] | Question / Practice: Session Homework Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[497] ☐ | DP (110) [Bit Manipulation DP] | Question / Practice: Uber SDE Interview 2026 Sol (C++): Doc
+T[0] R[498] ☐ | DP (111) [Bit Manipulation DP] | Question / Practice: Session OA level CodeNation Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[499] ☐ | DP (112) [Game Theory DP] | Question / Practice: OA Level Google Sol (C++): Q Sol (Java): Sol Sol (Python): Sol  Sol Other: Sol
+T[0] R[500] ☐ | DP (113) [Greedy + DP] | Question / Practice: OA Level CodeNation Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[501] ☐ | DP (114) [Multidimensional DP + Optimization] | Question / Practice: Google OA. Sol (C++): Q
+T[0] R[502] ☐ | DP (115) [Bit Manipulation DP + Optimization] | Question / Practice: Session Media.net OA. Sol (C++): Q
+T[0] R[503] ☐ | DP (116) [Bit Manipulation DP + Optimization] | Question / Practice: Tower Research OA. Sol (C++): Tower Research OA.
+T[0] R[504] ☐ | DP (117) [Homework] | Question / Practice: Will be uploaded. Sol (C++): Q.  Q Sol (Java): Will be uploaded soon, Sol (Python): Will be uploaded soon. Other: Will be uploaded soon.
+T[0] R[505] ☐ | DP (118) [Broken DP + Optimization] | Question / Practice: Leetcode Contest Hard Problem Sol (C++): Q.
+T[0] R[506] ☐ | DP with Strings | 
+T[0] R[507] ☐ | DP(119) [String DP] | Question / Practice: lcs Sol (C++): Doc
+T[0] R[508] ☐ | DP(120) [String DP] | Question / Practice: Edit Distance. Sol (C++): Doc
+T[0] R[509] ☐ | DP(121) [String DP] | Question / Practice: Google SDE3. Sol (C++): Doc
+T[0] R[510] ☐ | DP(122) [String DP] | Question / Practice: Amazon OA Sol (C++): Doc
+T[0] R[511] ☐ | DP(123) [String DP variation + Multi-dimensional DP optimization] | Question / Practice: Atlassian SDE1 Interview P1  Atlassian SDE1 Interview P2 Sol (C++): DOC
+T[0] R[512] ☐ | DP(124) [String DP] | Question / Practice: Rubrik OA Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[513] ☐ | DP (125) [Homework] | Question / Practice: Solve these. (please.)
+T[0] R[514] ☐ |  | Question / Practice: Now you will have the strength within you :)
+T[0] R[515] ☐ |  | Question / Practice: Digit DP with Kumar K
+T[0] R[516] ☐ | Digit DP | Question / Practice: Introductory Session 1 Sol (C++): doc
+T[0] R[517] ☐ | Digit DP | Question / Practice: Introductory Session 2 Sol (C++): doc
+T[0] R[518] ☐ | Digit DP | Question / Practice: Google SDE Interview Session Sol (C++): doc
+T[0] R[519] ☐ | Digit DP | Question / Practice: Introductory Session 3 Sol (C++): doc
+T[0] R[520] ☐ | Bit Manipulation | 
+T[0] R[521] ☐ | Bit Manipulation | Question / Practice: Session 1 Introduction Sol (C++): Q1 Q2 Sol (Java): Sol (Q1) Sol (Q2) Sol (Python): Sol  (Q1) Sol (Q2) Other: Sol (Q1) Sol (Q2)
+T[0] R[522] ☐ | Bit Manipulation | Question / Practice: Session 2 Leetcode Contest Sol (C++): Q. Sol (Java): C++ Sol (Python): Java. Other: Py
+T[0] R[523] ☐ | Bit Manipulation | Question / Practice: Session 3 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[524] ☐ | Bit Manipulation | Question / Practice: Session 4 OA Level Sol (C++): Q1  Q2 Sol (Java): Sol 1  Sol 2 Sol (Python): Sol 1  Sol 2 Other: Sol 1  Sol 2
+T[0] R[525] ☐ | Bit Manipulation | Question / Practice: Session 5 OA Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[526] ☐ | Bit Manipulation | Question / Practice: Session 6 OA Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[527] ☐ | Bit Manipulation | Question / Practice: Session 7 OA Level CodeNation Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[528] ☐ | Bit Manipulation | Question / Practice: Session 8 OA Level CodeNation Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[529] ☐ | Bit Manipulation | Question / Practice: Session 9 (Hard) OA Level  Part-2 Sol (C++): Doc Sol (Java): https://ideone.com/Iv2qpA Sol (Python): https://ideone.com/qZy578 Other: https://ideone.com/Y8qAMq
+T[0] R[530] ☐ | Bit Manipulation | Question / Practice: Salesforce OA Sol (C++): Q. Sol (Java): https://ideone.com/mPiDlp Sol (Python): https://ideone.com/I0pZMh Other: https://ideone.com/JSAx9D
+T[0] R[531] ☐ | Bit Manipulation | Question / Practice: Session 11 Atlassian OA. Sol (C++): Q.
+T[0] R[532] ☐ | Bit Manipulation | Question / Practice: Session 12 Google OA. Sol (C++): Q. Sol (Java): https://ideone.com/NJMwbV Sol (Python): https://ideone.com/zJSyz0 Other: https://ideone.com/vt2wVK
+T[0] R[533] ☐ | Bit Manipulation | Question / Practice: Walmart OA Session. Sol (C++): q.
+T[0] R[534] ☐ | Bit Manipulation | Question / Practice: Tower Research SDE Interview Sol (C++): doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[535] ☐ | Bit Manipulation | Question / Practice: Session 15 OA Level Razorpay Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[536] ☐ | [Bit Manipulation + DP] | Question / Practice: Uber SDE Interview 2026 Sol (C++): Doc
+T[0] R[537] ☐ | Bit Manipulation | Question / Practice: Atlassian OA Part1  Atlassian OA Part 2. Sol (C++): Q. Sol (Java): Sol. Sol (Python): Sol. Other: Sol.
+T[0] R[538] ☐ | Bit Manipulation | Question / Practice: Session (Hard) OA Level Google Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[539] ☐ | Bit Manipulation | Question / Practice: Atlassian OA Thought Process. Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[540] ☐ | Bit Manipulation | Question / Practice: Google OA  Thought Process Sol (C++): Q Sol (Java): Sol
+T[0] R[541] ☐ | Bit Manipulation | Question / Practice: Google OA Sol (C++): Q Sol (Java): https://ideone.com/dROEi9 Sol (Python): https://ideone.com/Z9UzAG Other: https://ideone.com/IHcNyJ
+T[0] R[542] ☐ | Bit Manipulation | Question / Practice: Google Interview Session Sol (C++): Q. Sol (Java): https://drive.google.com/file/d/1i5ZE3GcxYX_jKj_evI6dEWaKWfVUcYWH/view Sol (Python): https://drive.google.com/file/d/1i5ZE3GcxYX_jKj_evI6dEWaKWfVUcYWH/view Other: https://drive.google.com/file/d/1i5ZE3GcxYX_jKj_evI6dEWaKWfVUcYWH/view
+T[0] R[543] ☐ | Bit Manipulation | Question / Practice: Session OA Level CodeNation Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[544] ☐ | Bit Manipulation | Question / Practice: Google OA Sol (C++): Q.
+T[0] R[545] ☐ | Bit Manipulation | Question / Practice: Atlassian OA Session - 24  Part-2 Sol (C++): Doc Sol (Java): https://ideone.com/Iv2qpA Sol (Python): https://ideone.com/zc0KUX Other: https://ideone.com/wySZTD
+T[0] R[546] ☐ | Bit Manipulation | Question / Practice: Atlassian OA Session Sol (C++): Doc Sol (Java): https://ideone.com/P0EyJ3. Sol (Python): https://ideone.com/6Ej5x3. Other: https://ideone.com/42B1Ip
+T[0] R[547] ☐ | Bit Manipulation | Question / Practice: Uber OA Session Sol (C++): Doc Sol (Java): c++ Sol (Python): java Other: py
+T[0] R[548] ☐ | Bit Manipulation | Question / Practice: Leetcode Contest HARD Problem Session Sol (C++): Doc Sol (Java): Refer the Doc in left Sol (Python): Refer the Doc in left Other: Refer the Doc in left
+T[0] R[549] ☐ | Bit Manipulation | Question / Practice: Google OA Session Sol (C++): Doc Sol (Java): Refer the Doc in left Sol (Python): Refer the Doc in left Other: Refer the Doc in left
+T[0] R[550] ☐ | Bit Manipulation | Question / Practice: Codechef 2400 Rated Contest Problem Session Sol (C++): Doc Sol (Java): Refer the Doc in left Sol (Python): Refer the Doc in left Other: Refer the Doc in left
+T[0] R[551] ☐ | Bit Manipulation (31) | Question / Practice: Codechef 3000 Rated Contest Problem Session 30 Part - 1  Part - 2 Sol (C++): Doc Sol (Java): Refer the Doc in left Sol (Python): Refer the Doc in left Other: Refer the Doc in left
+T[0] R[552] ☐ | Bit Manipulation (32) | Question / Practice: Amazon ML Summer School OA Session Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[553] ☐ | Bit Manipulation (33) | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[554] ☐ | Bit Manipulation (34) | Question / Practice: GamesKraft OA Part - 1 Part - 2 Part - 3 Sol (C++): Doc
+T[0] R[555] ☐ | Bit Manipulation (35) | Question / Practice: Apple OA Sol (C++): Doc
+T[0] R[556] ☐ | Bit Manipulation + Combinatorics 12 (36) | Question / Practice: Apple OA Sol (C++): Doc
+T[0] R[557] ☐ | Bit Manipulation + Binary Search (37) | Question / Practice: Infosys OA P0  Infosys OA P1 Sol (C++): doc
+T[0] R[558] ☐ | Bit Manipulation + Two Pointer + Binary Search (38) | Question / Practice: TikTok OA P0  TikTok OA P1 TikTok OA P5 Sol (C++): doc
+T[0] R[559] ☐ | Greedy | 
+T[0] R[560] ☐ | Greedy | Question / Practice: Intro  Leetcode Contest Sol (C++): Doc0  Doc 1
+T[0] R[561] ☐ | Greedy | Question / Practice: Codeforces(D) Problem Solving Sol (C++): Doc
+T[0] R[562] ☐ | Greedy | Question / Practice: Codechef 1900+ Rated Problem Solving Sol (C++): Doc
+T[0] R[563] ☐ | Greedy | Question / Practice: IBM OA Sol (C++): Doc
+T[0] R[564] ☐ | Greedy | Question / Practice: Codechef Problem Session Sol (C++): Doc
+T[0] R[565] ☐ | Greedy + Intuition + Two Pointer | Question / Practice: GoldMan Sachs OA Sol (C++): Read it
+T[0] R[566] ☐ | Greedy + Math. Analysis. | Question / Practice: Atlassian 70LPA SDE Interview Sol (C++): Read it
+T[0] R[567] ☐ | Greedy | Question / Practice: Atlassian OA Sol (C++): Doc
+T[0] R[568] ☐ | Median. + Greedy | Question / Practice: Salesforce OA P1  Salesforce OA P11 Sol (C++): Doc
+T[0] R[569] ☐ | Greedy | Question / Practice: Session 8 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[570] ☐ | Greedy + Hashing | Question / Practice: Google OA Session 9. Sol (C++): Q
+T[0] R[571] ☐ | Greedy + Hashing | Question / Practice: Intuit OA Session 10 (With Variation.) Sol (C++): Q
+T[0] R[572] ☐ | Greedy | Question / Practice: Session 11 Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[573] ☐ | Greedy | Question / Practice: Session 12 Intuit OA. Sol (C++): https://www.desiqna.in/15561/intuit-oa-sde-1-2023-august Sol (Java): Sol Sol (Python): Sol Other: https://ideone.com/z2HFyr
+T[0] R[574] ☐ | Greedy | Question / Practice: Session 13 ZS OA. Sol (C++): https://docs.google.com/document/d/1kRWPEzCqavLgT0xMTLE4YudeHkO9DlhJ2ES5icu84aA/edit Sol (Java): https://ideone.com/UBZbKp Sol (Python): https://ideone.com/jCYnxO Other: https://ideone.com/Yfh6Lq
+T[0] R[575] ☐ | Greedy | Question / Practice: Session 14 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[576] ☐ | Greedy | Question / Practice: Session 15 Interview Level Sol (C++): Q1  Q2 Sol (Java): Sol 1  Sol 2 Sol (Python): Sol 2  Sol 2 Other: Sol 1  Sol 2
+T[0] R[577] ☐ | Greedy | Question / Practice: Session 16 OA Level (BNY Mellon) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[578] ☐ | Greedy | Question / Practice: Session 17 OA Level (BNY Mellon) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[579] ☐ | Greedy | Question / Practice: Session 18 PayPal OA. Sol (C++): https://docs.google.com/document/d/170bYy4p1NMdvMeR4getm5KsNGg-vyzfNM1fAqPco8x0/edit
+T[0] R[580] ☐ | Greedy + Hashing | Question / Practice: Visa Intern + SDE OA Session 19  (P0)  Visa SDE + Intern OA. (P1)  HW :-> Now solve this question using the greedy technique learnt -> link Sol (C++): doc
+T[0] R[581] ☐ | Greedy | Question / Practice: Session 21 Amazon Interview. Sol (C++): https://leetcode.com/problems/gas-station/ Sol (Java): https://drive.google.com/file/d/1jrzF3DAHyNeY2mm-iGMPZHRVs7n1N3hU/view?usp=sharing Sol (Python): https://drive.google.com/file/d/1jrzF3DAHyNeY2mm-iGMPZHRVs7n1N3hU/view?usp=sharing Other: https://drive.google.com/file/d/1jrzF3DAHyNeY2mm-iGMPZHRVs7n1N3hU/view?usp=sharing
+T[0] R[582] ☐ | Greedy | Question / Practice: Session 22 LeetCode Contest Sol (C++): https://leetcode.com/contest/weekly-contest-366/problems/minimum-processing-time/ Sol (Java): https://ideone.com/5WiUUX Sol (Python): https://ideone.com/6lMiPQ Other: https://ideone.com/dfivEq
+T[0] R[583] ☐ | Greedy | Question / Practice: Amazon OA Sol (C++): doc
+T[0] R[584] ☐ | Greedy | Question / Practice: Tower Research SDE Interview Sol (C++): Q
+T[0] R[585] ☐ | Greedy | Question / Practice: Session  Google OA. Sol (C++): https://www.desiqna.in/16112/google-oa-sde1 Sol (Java): https://ideone.com/otWjk9 Sol (Python): https://ideone.com/1iI2Qi Other: https://ideone.com/XIi5hE
+T[0] R[586] ☐ | Greedy | Question / Practice: Session Nutanix OA. Sol (C++): https://www.desiqna.in/16088/nutanix-oa-sde1-ctc-54-lac Sol (Java): https://ideone.com/iAYAbx Sol (Python): https://ideone.com/66oz7s Other: https://ideone.com/UiJ7uF
+T[0] R[587] ☐ | Greedy | Question / Practice: Session OA Level (BNY Mellon)  Pre - requisite :- https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/  Formula :- (a-b)%m = (a%m  - b%m + m)%m Sol (C++): Q Sol (Java): https://ideone.com/Rf95Gu Sol (Python): https://ideone.com/s5iBBm Other: https://ideone.com/Up3NIL
+T[0] R[588] ☐ | Greedy | Question / Practice: Session Interview + OA Level (Amazon) Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[589] ☐ | Greedy | Question / Practice: Amazon OA Session.(Greedy+Subset)  Part2. Sol (C++): https://docs.google.com/document/d/14YeOCELYf1m8A4kjpMYohf-1gu6BGINNrnlOzdA0qMM/edit Sol (Java): https://ideone.com/xMp7zC Sol (Python): https://ideone.com/B156jk Other: https://ideone.com/uszAiB
+T[0] R[590] ☐ | Greedy | Question / Practice: Session Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[591] ☐ | Greedy | Question / Practice: Session  31 LC Contest Level  Thought Process Sol (C++): Q Sol (Java): https://ideone.com/6E87aH Sol (Python): https://ideone.com/T3GSvY Other: https://ideone.com/toi47k
+T[0] R[592] ☐ | Greedy | Question / Practice: Session 32 LeetCode Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[593] ☐ | Greedy | Question / Practice: Session 33 OA Level JP Morgan Sol (C++): Q1 Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[594] ☐ | Greedy | Question / Practice: Session 34 ZScaler OA  Thought Process Sol (C++): Q Sol (Java): Sol C++ Sol (Python): Sol Java Other: Sol Python.
+T[0] R[595] ☐ | Greedy | Question / Practice: Session 35 ZScaler OA  Need to fix. Sol (C++): https://www.desiqna.in/13627/zscaler-oa-sde1-may-2023-hashing-greedy Sol (Java): Fix. Sol (Python): Fix. Other: Fix.
+T[0] R[596] ☐ | Greedy | Question / Practice: Session 36 ZScaler OA Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Fix. Other: Sol Fix.
+T[0] R[597] ☐ | Greedy | Question / Practice: Session 37 BNY Mellon OA. Sol (C++): Q
+T[0] R[598] ☐ | Greedy | Question / Practice: Session 38 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[599] ☐ | Greedy | Question / Practice: Session 39 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[600] ☐ | Greedy | Question / Practice: Session 40 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[601] ☐ | Greedy | Question / Practice: Session 41 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[602] ☐ | Greedy | Question / Practice: Session 42 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[603] ☐ | Greedy | Question / Practice: Session 43 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[604] ☐ | Greedy | Question / Practice: Session 44 Zeta OA. Sol (C++): https://docs.google.com/document/d/1wWBtIsrGE4ro1OJbO7p8epoGICPLRQzEBtPDM6fZdTE/edit Sol (Java): https://ideone.com/M2qNjP Sol (Python): https://ideone.com/hZgOrh Other: https://ideone.com/Sc44pn
+T[0] R[605] ☐ | Greedy | Question / Practice: Session 45 De Shaw OA. Sol (C++): doc Sol (Java): https://ideone.com/ZsRKyA Sol (Python): https://ideone.com/v7XUvJ Other: https://ideone.com/8A3DgF
+T[0] R[606] ☐ | Greedy | Question / Practice: Session 46 Microsoft OA [Range Interval]  Thought Process.  Sol (C++): Q Sol (Java): https://ideone.com/fkkFKb Sol (Python): https://ideone.com/Cj0dzb Other: https://ideone.com/rmQhhy
+T[0] R[607] ☐ | Greedy (Range Interval + Sorting + Set) | Question / Practice: Amazon OA P1  Amazon OA P11 Sol (C++): Doc
+T[0] R[608] ☐ |  | Question / Practice: DE Shaw OA 49 Session Part - 1  Part - 2  Part - 3 Sol (C++): Doc
+T[0] R[609] ☐ | Greedy | Question / Practice: Session 51 Interval Based Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[610] ☐ | Greedy | Question / Practice: Session 52 Interval Based Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[611] ☐ | Greedy | Question / Practice: Session 53 Interval Based Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[612] ☐ | Greedy | Question / Practice: Session 54 Interval Based Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[613] ☐ | Greedy | Question / Practice: Session 55 Interview Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[614] ☐ | Greedy | Question / Practice: Session 56 Interval Based Interview Level  Thought Process Sol (C++): Q. Sol (Java): Sol
+T[0] R[615] ☐ | Greedy | Question / Practice: Session 57 Interval Based Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[616] ☐ | Greedy | Question / Practice: Session 58 Interval Based Contest Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[617] ☐ | Greedy | Question / Practice: Session 59 [Interval Based] OA / Contest Level Expedia  Thought Process  Thought Process Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[618] ☐ | Some sessions here are same but were asked in different exam with different constraint so different thought process | Question / Practice: Session 29 OA Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[619] ☐ | Greedy | Question / Practice: Session 60 OA Level Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[620] ☐ | Greedy | Question / Practice: Session 61 OA Level Greedy & 2-ptr  Thought Process  Pseudo Code Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[621] ☐ | Greedy | Question / Practice: Session 62 OA level Greedy & 2-ptr  Thought Process  PseudoCode Sol (C++): Q1 Log In Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[622] ☐ | Greedy | Question / Practice: Session 63 OA level Greedy & 2-ptr  Thought Process  PseudoCode Sol (C++): Q2 Log In Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[623] ☐ | Greedy | Question / Practice: Session 64 OA level Greedy & 2-ptr  Thought Process  PseudoCode Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[624] ☐ | Greedy | Question / Practice: Session 65 OA Level Walmart Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[625] ☐ | Greedy | Question / Practice: Session 66 OA Level JP Morgan Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[626] ☐ | Greedy | Question / Practice: Session 67 OA Level Codenation Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[627] ☐ | Greedy + Observation. | Question / Practice: Session 68 OA Level TikTok Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[628] ☐ | Greedy +  Observation. | Question / Practice: Session 69 Deutsche Bank OA. Sol (C++): Q
+T[0] R[629] ☐ | Greedy + Observation. | Question / Practice: Session 70 CodeKaze Round 2  Thought Process Sol (C++): Q Sol (Java): https://ideone.com/0AK0L4 Sol (Python): https://ideone.com/9xVIto Other: https://ideone.com/XZR1D6
+T[0] R[630] ☐ | Greedy + Observation. | Question / Practice: Session 71 GFG Job a thon Contest  Thought Process. Sol (C++): https://practice.geeksforgeeks.org/contest/job-a-thon-20-hiring-challenge/problems
+T[0] R[631] ☐ | Binary Search + Greedy | Question / Practice: BlackRock OA Session 72  Thought Process. Sol (C++): Q Sol (Java): https://ideone.com/WdoNtT Sol (Python): https://ideone.com/fr6Ue6 Other: https://ideone.com/ttyIgF
+T[0] R[632] ☐ | Greedy + Observation! | Question / Practice: CodeNation OA Session 73 Sol (C++): Q
+T[0] R[633] ☐ | Binary Search + Greedy | Question / Practice: Session 74 Google SWE Intern OA. Sol (C++): Q
+T[0] R[634] ☐ | Greedy + String | Question / Practice: Session 75 Atlassian OA. Sol (C++): Doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[635] ☐ | Greedy + Binary Search. | Question / Practice: Session 76 Google OA. Sol (C++): Q.
+T[0] R[636] ☐ | Greedy + Hashing + Two Pointer | Question / Practice: Rubrik OA Session. 77 Sol (C++): https://docs.google.com/document/d/1qJm45nHXryDn2FPldVQUvFcUtP0c152ubx7CtXeYycw/edit?addon_store Sol (Java): In doc Sol (Python): In doc Other: In doc
+T[0] R[637] ☐ | Greedy + Hashing | Question / Practice: Session 78 Amazon OA SDE2. Sol (C++): https://docs.google.com/document/d/1-TYMJDQNpwvSCXEwv4oRC_xui9Odl4kueMJ4Ue6oXIc/edit Sol (Java): https://ideone.com/L7LAcc Sol (Python): https://ideone.com/F7sqnA Other: https://ideone.com/TH2SkX
+T[0] R[638] ☐ | Greedy + Math. | Question / Practice: Session 79 Paypal OA. Sol (C++): https://docs.google.com/document/d/13PVf0JcoZnRjaWKUhd29QsC8OPxzT3f_6UYTNX05tcM/edit Sol (Java): https://ideone.com/Pveo7S Sol (Python): https://ideone.com/fQFyEu Other: https://ideone.com/jR31qd
+T[0] R[639] ☐ | Heap + Greedy + Subset | Question / Practice: Amazon OA Session 80 P1  Amazon OA Session 81 P2. Sol (C++): Thought Process.
+T[0] R[640] ☐ | Greedy + Binary Search! | Question / Practice: Tiktok OA Part1 Tiktok OA Part2 Sol (C++): Q.
+T[0] R[641] ☐ | Binary Search + Greedy + Geometry | Question / Practice: Session Amazon OA. Sol (C++): Q. Sol (Java): https://ideone.com/KHSgHi Sol (Python): https://ideone.com/NuLl2n Other: https://ideone.com/MNrBD3.
+T[0] R[642] ☐ | Greedy + String | Question / Practice: Atlassian Sol (C++): Doc
+T[0] R[643] ☐ | Greedy + String | Question / Practice: Microsoft OA Part-1  Part - 2 Sol (C++): Q
+T[0] R[644] ☐ | Greedy + String | Question / Practice: Microsoft OA Session Sol (C++): Doc
+T[0] R[645] ☐ | Greedy + Binary Search | Question / Practice: Google OA Session  Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[646] ☐ | Greedy | Question / Practice: Atlassian OA Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[647] ☐ | Greedy + Combinatorics | Question / Practice: Codechef Contest part 1  Part - 2 Sol (C++): Doc
+T[0] R[648] ☐ | Binary Search + Range Concept + Greedy | Question / Practice: Codechef Contest P0  Codechef Contest P1 Sol (C++): Doc
+T[0] R[649] ☐ | Greedy + Observation. + Sorting | Question / Practice: Amazon OA P0  Amazon OA P1   (Session 98) Sol (C++): doc
+T[0] R[650] ☐ | Popular Array Interview Problems. | 
+T[0] R[651] ☐ | Array1 | Question / Practice: Array Session1 Sol (C++): https://leetcode.com/problems/first-missing-positive/description/ Sol (Java): https://drive.google.com/file/d/1AIEEXqqzICiqfDR4NqeexFPd6Cmd568l/view?usp=sharing Sol (Python): https://drive.google.com/file/d/1AIEEXqqzICiqfDR4NqeexFPd6Cmd568l/view?usp=sharing Other: https://drive.google.com/file/d/1AIEEXqqzICiqfDR4NqeexFPd6Cmd568l/view?usp=sharing
+T[0] R[652] ☐ | Array2 | Question / Practice: Array Session2 Sol (C++): https://leetcode.com/problems/single-number/description/ Sol (Java): https://drive.google.com/file/d/1Fx7ystnbEXt6ufMPMBJTqFfWTfv8zfIo/view?usp=sharing Sol (Python): https://drive.google.com/file/d/1Fx7ystnbEXt6ufMPMBJTqFfWTfv8zfIo/view?usp=sharing Other: https://drive.google.com/file/d/1Fx7ystnbEXt6ufMPMBJTqFfWTfv8zfIo/view?usp=sharing
+T[0] R[653] ☐ | Array3 | Question / Practice: Array Session 3 Sol (C++): https://leetcode.com/problems/squares-of-a-sorted-array/description/ Sol (Java): https://drive.google.com/file/u/4/d/1XvdJe9UhygYYL2DodV5p0sn6l7kOOf-I/view?usp=sharing Sol (Python): https://drive.google.com/file/u/4/d/1XvdJe9UhygYYL2DodV5p0sn6l7kOOf-I/view?usp=sharing Other: https://drive.google.com/file/u/4/d/1XvdJe9UhygYYL2DodV5p0sn6l7kOOf-I/view?usp=sharing
+T[0] R[654] ☐ |  | Sol (C++): https://leetcode.com/discuss/interview-question/4191011/Meta-E5-Phonescreen
+T[0] R[655] ☐ |  | Sol (C++): https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+T[0] R[656] ☐ | Binary Tree | 
+T[0] R[657] ☐ | Binary Tree Session 0 | Question / Practice: First watch 7. Sessions of N-Ary Trees  Watch This
+T[0] R[658] ☐ | Session 1 | Question / Practice: Introduction to Binary Trees Sol (C++): Doc
+T[0] R[659] ☐ | Session 2 | Question / Practice: Level Order Traversal Sol (C++): Doc
+T[0] R[660] ☐ | Session 3 | Question / Practice: Modified Level Order Traversal Sol (C++): Doc
+T[0] R[661] ☐ | Session 4 | Question / Practice: Reverse Level Order Traversal Sol (C++): Doc
+T[0] R[662] ☐ | Session 5 | Question / Practice: Second way of level order Traversal Sol (C++): Doc
+T[0] R[663] ☐ | Session 6 | Question / Practice: Zigzag Level Order Traversal Sol (C++): Doc
+T[0] R[664] ☐ | Binary Tree.7 | Question / Practice: PreOrder Traversal Sol (C++): Doc
+T[0] R[665] ☐ | Binary Tree.8 | Question / Practice: Inorder Traversal Sol (C++): Doc
+T[0] R[666] ☐ | Binary Tree. 9 | Question / Practice: PostOrder Traversal Sol (C++): Doc
+T[0] R[667] ☐ | Binary Tree. 10 | Question / Practice: Height Sol (C++): Doc
+T[0] R[668] ☐ | Binary Tree. 11 | Question / Practice: Diameter Sol (C++): Doc
+T[0] R[669] ☐ | Binary Tree. 12 | Question / Practice: Height Balanced Binary Tree Sol (C++): Doc
+T[0] R[670] ☐ | Binary Tree. 13 | Question / Practice: Subtree Sum + Maximum Subtree Sum Sol (C++): Doc
+T[0] R[671] ☐ | Binary Tree. 14 | Question / Practice: Top View Sol (C++): Doc
+T[0] R[672] ☐ | Binary Tree. 15 | Question / Practice: Bottom View Sol (C++): Doc
+T[0] R[673] ☐ | Binary Tree. 16 | Question / Practice: Left View Sol (C++): Doc
+T[0] R[674] ☐ | Binary Tree. 17 | Question / Practice: Right View Sol (C++): Doc
+T[0] R[675] ☐ | Binary Tree. 18 | Question / Practice: Google SDE Interview Problem! Sol (C++): Q Sol (Java): https://ideone.com/ZDY0gJ. Sol (Python): https://ideone.com/g1FuXM. Other: https://ideone.com/QYbY01
+T[0] R[676] ☐ | Binary Tree - 19 | Question / Practice: Uber SDE 2 Interview P1  Uber SDE2 Interview P2 Sol (C++): Doc
+T[0] R[677] ☐ | Binary Search Tree | 
+T[0] R[678] ☐ | Session 1 | Question / Practice: Introduction Sol (C++): Doc
+T[0] R[679] ☐ | Session 2 | Question / Practice: Check if Binary Tree is BST or Not Sol (C++): Doc
+T[0] R[680] ☐ | String | 
+T[0] R[681] ☐ | STRING (Basic concept of string) | Question / Practice: Session 1 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[682] ☐ | STRING (Basic concept of string) | Question / Practice: Session 2 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[683] ☐ | STRING (Basic concept of string) | Question / Practice: Session 3 Sol (C++): Q  Why String is Immutable in Java? Sol (Java): Sol  Why String is Immutable in Java? Sol (Python): Sol  Why String is Immutable in Java? Other: Sol  Why String is Immutable in Java?
+T[0] R[684] ☐ | STRING (Hashing + String) | Question / Practice: Session 4 OA Level Amazon Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[685] ☐ | STRING (String Manipulation) | Question / Practice: Session 5 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[686] ☐ | STRING (String Manipulation) | Question / Practice: Session 6 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[687] ☐ | STRING (String Manipulation) | Question / Practice: Session 7 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[688] ☐ | STRING (String Manipulation) | Question / Practice: Session 8 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[689] ☐ | STRING (String + Lexicographic concept) | Question / Practice: Session 9 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[690] ☐ | STRING (String + Stack) | Question / Practice: Session 10 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[691] ☐ | STRING (String + Two Ptr) | Question / Practice: Session 11 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[692] ☐ | STRING (String + Priority Queue) | Question / Practice: Session 12 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[693] ☐ | STRING (String + Game Theory) | Question / Practice: Session 13 IBM OA.  (Game Theory + Observation.) Sol (C++): Q. Sol (Java): Code. Sol (Python): Code.. Other: Sol
+T[0] R[694] ☐ | STRING (String + Observation + Hashing) | Question / Practice: Walmart OA Session 14. Sol (C++): Q. Sol (Java): Code. Sol (Python): Code. Other: https://www.jdoodle.com/iembed/v0/TWC
+T[0] R[695] ☐ | STRING (String + Hashing + Sorting) | Question / Practice: Session 15 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[696] ☐ | STRING (String + Two Ptr Subset Concept) | Question / Practice: Amazon OA Session 16 Sol (C++): Doc
+T[0] R[697] ☐ | STRING (String + Two Ptr Subset Concept) | Question / Practice: Amazon + Intuit Interview17. Sol (C++): Q. Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[698] ☐ | STRING (String + Hashing) | Question / Practice: Session 18 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[699] ☐ | STRING (String + Two Ptr Subset Concept) | Question / Practice: Session 19 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[700] ☐ | STRING (String + Sorting) | Question / Practice: Session 20 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[701] ☐ | STRING (String + Two Ptr) | Question / Practice: Session 21 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[702] ☐ | STRING (Sliding Window + Prefix Sum + Binary Search) | Question / Practice: Session 22 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[703] ☐ | STRING (String + Observation + Hashing) | Question / Practice: Session 23 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[704] ☐ | STRING (String + Two Ptr) | Question / Practice: Session 24 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[705] ☐ | STRING (String + Greedy) | Question / Practice: Session 25 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[706] ☐ | STRING (String + Two Ptr) | Question / Practice: Session 26 (This question means if string p has f[b] = 2; the the substring you select in string s should have f[b]>=2 ; f[y] = frequency of char “y” Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[707] ☐ | STRING (String + Two Ptr) | Question / Practice: Session 26 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[708] ☐ | STRING (String + High Level Hashing) | Question / Practice: Session 27 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[709] ☐ | STRING (Greedy +Lexicographic + Greedy) | Question / Practice: Google OA Session. 28 Sol (C++): doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[710] ☐ | STRING (String + GREEDY + Lexicographic + Stack) | Question / Practice: EXPEDIA OA Sol (C++): Q Sol (Java): C++ Sol (Python): JAVA Other: PY
+T[0] R[711] ☐ | STRING  (Greedy + String) | Question / Practice: Session 30 Atlassian OA. Sol (C++): doc Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[712] ☐ | STRING  String + Greedy | Question / Practice: Atlassian Sol (C++): Doc
+T[0] R[713] ☐ | STRING  String + Z-Algorithm. | Question / Practice: Barclays OA Session 32  Z-algorithm:- z[i] = number of characters at index “i” same as start characters of the given string Sol (C++): Doc
+T[0] R[714] ☐ | STRING (LPS + Z-algo) | Question / Practice: Session 33 Sol (C++): Q Sol (Java): Sol Sol (Python): Sol Other: Sol
+T[0] R[715] ☐ | STRING (String + Optimization) | Question / Practice: EXPEDIA OA Sol (C++): Q Sol (Java): https://ideone.com/cLRQsz Sol (Python): https://ideone.com/omzmIh Other: https://ideone.com/fxBj6I
+T[0] R[716] ☐ | STRING  (Palindromic + Lexicographic) | Question / Practice: ServiceNow OA Session.1  ServiceNow OA Session.2 Sol (C++): https://docs.google.com/document/d/1acierEzRXhC8ojN-Cr0shJK2iVumS09R5huCVIPmit0/edit Sol (Java): https://ideone.com/T1Nton. Sol (Python): https://ideone.com/2MpyYV. Other: https://ideone.com/9nPfhD.
+T[0] R[717] ☐ | STRING  (Greedy) | Question / Practice: Microsoft OA. Sol (C++): doc
+T[0] R[718] ☐ | STRING  (Greedy) | Question / Practice: Microsoft OA Part-1  Part - 2
+T[0] R[719] ☐ | STRING  (Greedy) | Question / Practice: Microsoft OA Session Sol (C++): Doc
+T[0] R[720] ☐ | STRING  (Lexicographic + Two Ptr) | Question / Practice: Leetcode Contest Video Sol (C++): Doc
+T[0] R[721] ☐ | STRING (Greedy + Observation) | Question / Practice: Swiggy OA. 0  Swiggy OA. Part 1 Sol (C++): Doc
+T[0] R[722] ☐ | String + Lexicographic concept | Question / Practice: Amazon ML SummerSchool OA Part1  Amazon ML SummerSchool Part2 Sol (C++): Doc
+T[0] R[723] ☐ | String (Manacher’s Algorithm) | Question / Practice: LC Weekly Contest Sol (C++): Doc
+T[0] R[724] ☐ | Math and Combinatorics | 
+T[0] R[725] ☐ | Math. (1) | Question / Practice: Modulo Knowledge. Sol (C++): https://docs.google.com/document/d/1H8obAFY6lkBeJus2cBe0FYtvoXgvyGmdhgaovr1N28A/edit Sol (Java): https://ideone.com/Dy1xM2 Sol (Python): https://ideone.com/Q9fLUy Other: https://ideone.com/OIOpQU
+T[0] R[726] ☐ | Math. (2) | Question / Practice: Rubrik OA Session. Sol (C++): https://docs.google.com/document/d/1hKnZz9FYjr2j0BykQhd38xypRq5DwQ0WtwZC3fVvpp0/edit Sol (Java): https://ideone.com/UmiqRp Sol (Python): https://ideone.com/XynOBP Other: https://ideone.com/gVqx0P
+T[0] R[727] ☐ | Math. (Prime Number + Factor)(3) | Question / Practice: Walmart OA Session. Sol (C++): Q. Sol (Java): https://ideone.com/m6paZ3. Sol (Python): https://ideone.com/JhTP7r Other: https://ideone.com/VHgSpA.
+T[0] R[728] ☐ | Math(4) (GCD) | Question / Practice: Uber OA P0 Sol (C++): doc
+T[0] R[729] ☐ | Math(5) (GCD) | Question / Practice: Uber OA P1 Sol (C++): doc
+T[0] R[730] ☐ | Math(6) | Question / Practice: DBS OA Sol (C++): DOC Sol (Java): Refer in DOC Sol (Python): Refer in DOC Other: Refer in DOC
+T[0] R[731] ☐ | Math(nCR) | Question / Practice: Foundational Concept Sol (C++): Doc
+T[0] R[732] ☐ | Greedy + Math. + Distribution. (8) | Question / Practice: Session! Paypal OA. Sol (C++): https://docs.google.com/document/d/13PVf0JcoZnRjaWKUhd29QsC8OPxzT3f_6UYTNX05tcM/edit?tab=t.0
+T[0] R[733] ☐ | Math(9) | Question / Practice: Leetcode Contest Session Sol (C++): Doc
+T[0] R[734] ☐ | Math(10) | Question / Practice: Flipkart OA Sol (C++): Doc
+T[0] R[735] ☐ | Greedy + Math. (11) | Question / Practice: Codechef Contest Sol (C++): https://docs.google.com/document/d/1-ijXBg-koUzCAtLnRD1tBq1kzWs_e-DpUHY-zW9rvfg/edit
+T[0] R[736] ☐ | Math. + Factors. (12) | Question / Practice: Intuit OA Session 1  Intuit OA Session 2.  Intuit OA Session 3. Sol (C++): Q. Sol (Java): https://ideone.com/gMSQ9Y Sol (Python): https://ideone.com/leOjB6 Other: https://ideone.com/bzhCxG
+T[0] R[737] ☐ | Math. 13 (Combinatorics) | Question / Practice: Google OA Session Part - 1  Part - 2 Sol (C++): Doc
+T[0] R[738] ☐ | Factor + Prime Factor | Question / Practice: Intro 0 Sol (C++): Doc
+T[0] R[739] ☐ | Factor + Prime Factor | Question / Practice: Intro 1 Sol (C++): Doc
+T[0] R[740] ☐ | Factor + Prime Factor | Question / Practice: Codechef Contest P0  Codechef Contest P1 Sol (C++): Doc
+T[0] R[741] ☐ | Factor + Prime Factor | Question / Practice: Codechef Contest P5 Sol (C++): Doc
+T[0] R[742] ☐ | Factor Optimization | Question / Practice: Google SDE-2 Interview P0  Google SDE-2 Interview P1  Google SDE-2 Interview P2 Sol (C++): https://docs.google.com/document/d/1lL9K7c5REKXIl6PKm7AV__hH5n6jU5B8XJTNus9Km5s/edit?tab=t.0
+T[0] R[743] ☐ | Greedy + Combinatorics 19 | Question / Practice: Codechef Contest part 1  Part - 2 Sol (C++): Doc
+T[0] R[744] ☐ | Bit Manipulation + Combinatorics 20 | Question / Practice: Apple OA Sol (C++): Doc
+T[0] R[745] ☐ | DP + Combinatorics 21 | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[746] ☐ | Combinatorics 22 | Question / Practice: Codechef Contest Sol (C++): Doc
+T[0] R[747] ☐ | DP + Combinatorics. (23) | Question / Practice: Leetcode Contest Sol (C++): Doc
+T[0] R[748] ☐ | Math + Distribution (24) | Question / Practice: Codechef 2100 Rating Problem  Session Contest Sol (C++): Doc
+T[0] R[749] ☐ | Math + Distribution      (25) | Question / Practice: Rubrik OA. Sol (C++): Analysis Doc
+T[0] R[750] ☐ | Math + nCR   (26) | Question / Practice: Atlassian OA . Sol (C++): Doc
+T[0] R[751] ☐ | Math + nCR   (27) | Question / Practice: 6 star Codechef Problem Contest P0  6 star Problem Contest P1 Sol (C++): Doc
+T[0] R[752] ☐ | Math + nCR (28) | Question / Practice: 6 star Codechef Problem Contest Sol (C++): Doc
+T[0] R[753] ☐ | Math + nCR (29) | Question / Practice: Rubrik OA . Sol (C++): Doc
+T[0] R[754] ☐ | Math + nCR + Star and Bar (30) | Question / Practice: Rubrik OA Hard. Sol (C++): Doc
+T[0] R[755] ☐ |  | Question / Practice: Bit Masking Please do the full Bit Manipulation course before doing this.
+T[0] R[756] ☐ | BitMasking | Question / Practice: Microsoft OA Session 1 Sol (C++): Q. Sol (Java): https://ideone.com/lujW8u Sol (Python): https://ideone.com/S8c7fP. Other: https://ideone.com/cUdzDm.
+T[0] R[757] ☐ |  | Question / Practice: Matrix + Geometry
+T[0] R[758] ☐ | Matrix. | Question / Practice: Prefix Sum on Matrix. Sol (C++): Thought
+T[0] R[759] ☐ | Matrix. | Question / Practice: Intuit OA. Sol (C++): Q.
+T[0] R[760] ☐ | Matrix. | Question / Practice: Intuit OA. Sol (C++): Q.
+T[0] R[761] ☐ | Matrix. | Question / Practice: Google SWE Interview Part - 1 Part-2 Part-3 Sol (C++): Q.
+T[0] R[762] ☐ | Matrix. | Question / Practice: Google OA Session. Sol (C++): doc
+T[0] R[763] ☐ | Matrix. | Question / Practice: Leetcode Contest Sol (C++): Q.
+T[0] R[764] ☐ | Matrix | Question / Practice: Leetcode Contest Problem Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[765] ☐ |  | Question / Practice: Trie
+T[0] R[766] ☐ | Intro | Question / Practice: Intro Video Sol (C++): Doc Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[767] ☐ |  | Question / Practice: Implementation Video Sol (C++): Doc Sol (Java): Code Sol (Python): Code Other: Code
+T[0] R[768] ☐ |  | Question / Practice: Segment Trees
+T[0] R[769] ☐ | Intro | Question / Practice: Introduction Session 1 Sol (C++): Doc
+T[0] R[770] ☐ | Intro | Question / Practice: Introduction Session 2 Sol (C++): Doc
+T[0] R[771] ☐ | Foundational | Question / Practice: Session 3 Sol (C++): Doc
+T[0] R[772] ☐ | Foundational | Question / Practice: Session 4 Sol (C++): Doc
+T[0] R[773] ☐ | Segment Tree [5] | Question / Practice: Google SDE3 interview 5 Sol (C++): Doc
+T[0] R[774] ☐ | Segment Tree [6] | Question / Practice: Leetcode Biweekly Contest Session Sol (C++): Doc Sol (Java): C++1 C++2 Sol (Python): Java1 Java2 Other: Py1
+T[0] R[775] ☐ | [7] [LIS DP + Segment Tree] | Question / Practice: Leetcode Contest P1  Leetcode Contest P2 Sol (C++): Doc
+T[0] R[776] ☐ | [8] [LIS DP + Segment Tree] | Question / Practice: Leetcode Contest P1  Leetcode Contest P2  Leetcode Contest P3 Sol (C++): Doc
+T[0] R[777] ☐ |  | Question / Practice: Sorted Set
+T[0] R[778] ☐ | Intro[1] | Question / Practice: Introduction Session 1 Sol (C++): Doc
+T[0] R[779] ☐ | Problem Solving[2] | Question / Practice: Atlassian SDE-2 OA Session! Sol (C++): Doc
+T[0] R[780] ☐ | Problem Solving[3] | Question / Practice: Amazon HackOn OA Session Sol (C++): Doc
+T[0] R[781] ☐ | Problem Solving[4] | Question / Practice: Google OA Session 0  Google OA Session 1 Sol (C++): Doc
+T[0] R[782] ☐ | Greedy (Range Interval + Sorting + Set)[5] | Question / Practice: Amazon OA P1  Amazon OA P11 Sol (C++): Doc
+T[0] R[783] ☐ | DP + Sorted Set[6] | Question / Practice: Microsoft OA P1  Microsoft OA P2 Sol (C++): Doc
+T[0] R[784] ☐ | String + Sorted Set[7] | Question / Practice: Amazon OA P1  Amazon OA P2 Sol (C++): Doc
+T[0] R[785] ☐ |  | Question / Practice: Inversion Count + Permutation
+T[0] R[786] ☐ | Session 1 | Question / Practice: Uber SDE Interview Session  Part - 2 Sol (C++): Doc Sol (Java): C++ Sol (Python): Java Other: Py
+T[0] R[787] ☐ | Session 2 | Question / Practice: Segment Tree(Upcoming)
+T[0] R[788] ☐ | Session 3 | Question / Practice: DP(Upcoming)
+T[0] R[789] ☐ | Session 4. | Question / Practice: Codechef Contest Session Sol (C++): Doc
+T[0] R[790] ☐ | Session 5 (Permutation. -> Graph. cycles.) | Question / Practice: Codechef Contest Sol (C++): Doc

@@ -1,0 +1,4978 @@
+[
+  {
+    "topic": "Hashing | Prefix Sum | Suffix Sum",
+    "sessions": [
+      {
+        "title": "Hashing [0] [Basic Fundamentals]",
+        "details": "Question / Practice: Watch this video  Hashing Part 0  Watch this video Hashing Part 1  Watch this video Hashing Part 2.Sol (C++): Read this document while watching video",
+        "links": [],
+        "id": "Hashing0BasicFundamentals0"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [1]",
+        "details": "Question / Practice: Watch itSol (C++): Analysis Doc",
+        "links": [],
+        "id": "HashingBasicFundamentals11"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [2]",
+        "details": "Question / Practice: SessionSol (C++): DOC",
+        "links": [],
+        "id": "HashingBasicFundamentals22"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [3]",
+        "details": "Question / Practice: SessionSol (C++): DOC",
+        "links": [],
+        "id": "HashingBasicFundamentals33"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [4]",
+        "details": "Question / Practice: SessionSol (C++): DOC",
+        "links": [],
+        "id": "HashingBasicFundamentals44"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [5]",
+        "details": "Question / Practice: SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingBasicFundamentals55"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [6]",
+        "details": "Question / Practice: SessionSol (C++): DOC",
+        "links": [],
+        "id": "HashingBasicFundamentals66"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [7]",
+        "details": "Question / Practice: SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingBasicFundamentals77"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [8]",
+        "details": "Question / Practice: SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingBasicFundamentals88"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [9]",
+        "details": "Question / Practice: SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingBasicFundamentals99"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [10]",
+        "details": "Question / Practice: SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingBasicFundamentals1010"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [11]",
+        "details": "Question / Practice: Session Interview LevelSol (C++): Q1  Q2  Q3Sol (Java): Sol  Sol2Sol (Python): SolOther: Sol1",
+        "links": [],
+        "id": "HashingBasicFundamentals1111"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] [12]",
+        "details": "Question / Practice: Session Interview Level  Q.3 Part - 2Sol (C++): Q1  Q2  Q3",
+        "links": [],
+        "id": "HashingBasicFundamentals1212"
+      },
+      {
+        "title": "Recap[Basic Fundamentals] (13)",
+        "details": "Question / Practice: WatchSol (C++): Doc",
+        "links": [],
+        "id": "RecapBasicFundamentals1313"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] (14)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): Q1  Q2",
+        "links": [],
+        "id": "HashingBasicFundamentals1414"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] (15)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingBasicFundamentals1515"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] (16)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): Q1  Q2",
+        "links": [],
+        "id": "HashingBasicFundamentals1616"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] (17)",
+        "details": "Question / Practice: Session Contest LevelSol (C++): Q",
+        "links": [],
+        "id": "HashingBasicFundamentals1717"
+      },
+      {
+        "title": "Hashing [Basic Fundamentals] (18)",
+        "details": "Question / Practice: Session Contest LevelSol (C++): Q1  Q2",
+        "links": [],
+        "id": "HashingBasicFundamentals1818"
+      },
+      {
+        "title": "Hashing [Kadane + Prefix/Suffix Concept] [19]",
+        "details": "Question / Practice: Amazon OA Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "HashingKadanePrefixSuffixConcept1919"
+      },
+      {
+        "title": "Hashing[Basic Fundamentals] [20]",
+        "details": "Question / Practice: Zscaler OA.Sol (C++): Doc",
+        "links": [],
+        "id": "HashingBasicFundamentals2020"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (21)",
+        "details": "Question / Practice: Microsoft OA  Thought Process  Practice Problem :- Sol (C++): Q",
+        "links": [
+          "https://leetcode.com/problems/count-number-of-nice-subarrays/"
+        ],
+        "id": "Hashingijconcept2121"
+      },
+      {
+        "title": "Hashing [Frequency concept] (22)",
+        "details": "Question / Practice: Amazon OA  Thoughts ProcessSol (C++): Q",
+        "links": [],
+        "id": "HashingFrequencyconcept2222"
+      },
+      {
+        "title": "Hashing [Frequency concept] (23)",
+        "details": "Question / Practice: Amazon OA.Sol (C++): QSol (Java): Sol (Python): Other: .",
+        "links": [
+          "https://ideone.com/oK4lWC",
+          "https://ideone.com/skfqfv",
+          "https://ideone.com/Nj8w1J"
+        ],
+        "id": "HashingFrequencyconcept2323"
+      },
+      {
+        "title": "Hashing [Range Update Trick] (24)",
+        "details": "Question / Practice: Range Update Trick + Google Girl Hackathon OA SessionSol (C++): Q  doc",
+        "links": [],
+        "id": "HashingRangeUpdateTrick2424"
+      },
+      {
+        "title": "Hashing - 25 [i\u2026j + Mathematical formula concept]",
+        "details": "Question / Practice: Amazon OA 2025 P1Sol (C++): Doc",
+        "links": [],
+        "id": "Hashing25ijMathematicalformulaconcept25"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix concept over subsequences concept] - 26",
+        "details": "Question / Practice: Leetcode Contest P1  Leetcode Contest P2Sol (C++): Doc",
+        "links": [],
+        "id": "HashingPrefixSuffixconceptoversubsequencesconcept2626"
+      },
+      {
+        "title": "Hashing [Range Update Trick] (27)",
+        "details": "Question / Practice: Visa Intern + SDE OA SessionSol (C++): QSol (Java): Sol (Python): .Other:",
+        "links": [
+          "https://ideone.com/bZKP7t",
+          "https://ideone.com/0T7iYD",
+          "https://ideone.com/4QlpEC"
+        ],
+        "id": "HashingRangeUpdateTrick2727"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept] (28)",
+        "details": "Question / Practice: Rubrik SDE InterviewSol (C++): Q",
+        "links": [],
+        "id": "HashingijMathematicalformulaconcept2828"
+      },
+      {
+        "title": "Hashing [Range Update Trick] (29)",
+        "details": "Question / Practice: Hackerrank OA SessionSol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/09Bi5Z",
+          "https://ideone.com/tzM3Nf",
+          "https://ideone.com/vcnXcZ"
+        ],
+        "id": "HashingRangeUpdateTrick2929"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (30)",
+        "details": "Question / Practice: Session OA / Contest  LevelSol (C++): Q",
+        "links": [],
+        "id": "Hashingijconcept3030"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (31)",
+        "details": "Question / Practice: HomeworkSol (C++): Q",
+        "links": [],
+        "id": "Hashingijconcept3131"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (32)",
+        "details": "Question / Practice: Google OA  Thought ProcessSol (C++): Q",
+        "links": [],
+        "id": "Hashingijconcept3232"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (33)",
+        "details": "Question / Practice: Media.Net OASol (C++): Q",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept3333"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept + Case Analysis] (34)",
+        "details": "Question / Practice: DE Shaw OA  Part - 2Sol (C++): Q",
+        "links": [],
+        "id": "HashingijMathematicalformulaconceptCaseAnalysis3434"
+      },
+      {
+        "title": "Hashing [Frequency Concept + Observation Analysis] (35)",
+        "details": "Question / Practice: Arcesium OA  Thought ProcessSol (C++): Q",
+        "links": [],
+        "id": "HashingFrequencyConceptObservationAnalysis3535"
+      },
+      {
+        "title": "Hashing [Classical] (36)",
+        "details": "Question / Practice: Google Interview Session 22Sol (C++): Q",
+        "links": [],
+        "id": "HashingClassical3636"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix+ Optimization Concept] (37)",
+        "details": "Question / Practice: Google SDE3 Interview SessionSol (C++): Q",
+        "links": [],
+        "id": "HashingPrefixSuffixOptimizationConcept3737"
+      },
+      {
+        "title": "Hashing [Classical + Optimization Concept] (38)",
+        "details": "Question / Practice: NUTANIX OA SessionSol (C++): DOCSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "HashingClassicalOptimizationConcept3838"
+      },
+      {
+        "title": "Hashing [Classical + Frequency Optimization Concept] (39)",
+        "details": "Question / Practice: Uber SDE Interview Session Part -1  Part - 2  Part - 3Sol (C++): Doc",
+        "links": [],
+        "id": "HashingClassicalFrequencyOptimizationConcept3939"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (40)",
+        "details": "Question / Practice: Amazon SDE Intern part -1 part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept4040"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (41)",
+        "details": "Question / Practice: Atlassian SDE Interview SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept4141"
+      },
+      {
+        "title": "Hashing [Classical + i\u2026j concept] (42)",
+        "details": "Question / Practice: Amazon SDE2-InterviewSol (C++): DocSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/UVed9e",
+          "https://ideone.com/oWQjoi"
+        ],
+        "id": "HashingClassicalijconcept4242"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (43)",
+        "details": "Question / Practice: Microsoft OA SessionSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept4343"
+      },
+      {
+        "title": "Hashing [Classical + Optimization Concept] (44)",
+        "details": "Question / Practice: Microsoft SDE2 Interview  part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "HashingClassicalOptimizationConcept4444"
+      },
+      {
+        "title": "Hashing [Classical + Optimization Concept] (45)",
+        "details": "Question / Practice: Codechef ContestSol (C++): Doc",
+        "links": [],
+        "id": "HashingClassicalOptimizationConcept4545"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (46)",
+        "details": "Question / Practice: Amazon HackOn OASol (C++): QSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "Hashingijconcept4646"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (47)",
+        "details": "Question / Practice: Uber OA SessionSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "Hashingijconcept4747"
+      },
+      {
+        "title": "Hashing [Classical + Frequency Concept] (48)",
+        "details": "Question / Practice: Google OA SWE Intern SessionSol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/994773551/",
+          "https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/994775714/",
+          "https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/994776651/"
+        ],
+        "id": "HashingClassicalFrequencyConcept4848"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (49)",
+        "details": "Question / Practice: Session  LeetCode ContestSol (C++): Q",
+        "links": [],
+        "id": "Hashingijconcept4949"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (50)",
+        "details": "Question / Practice: Session  Google SDE Interview Problem.Sol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept5050"
+      }
+    ]
+  },
+  {
+    "topic": "Solve this list of problems:- Set A + B + C Before going ahead :- Link",
+    "sessions": [
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (51)",
+        "details": "Question / Practice: Google SDE2 InterviewSol (C++): QSol (Java): CodeSol (Python): Code.Other:",
+        "links": [
+          "https://ideone.com/b1GjzI"
+        ],
+        "id": "HashingPrefixSuffixConcept510"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Kadane Concept] (52)",
+        "details": "Question / Practice: Session  Google SDE Interview Problem.Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/nx6nYU",
+          "https://ideone.com/OIoQG4",
+          "https://ideone.com/bQJu52"
+        ],
+        "id": "HashingPrefixSuffixKadaneConcept521"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept] (53)",
+        "details": "Question / Practice: Leetcode Weekly ContestSol (C++): Q",
+        "links": [],
+        "id": "HashingijMathematicalformulaconcept532"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept] (54)",
+        "details": "Question / Practice: Zscaler OA SessionSol (C++): QSol (Java): In the doc on leftSol (Python): In the doc On leftOther: In the doc on left",
+        "links": [],
+        "id": "HashingijMathematicalformulaconcept543"
+      }
+    ]
+  },
+  {
+    "topic": "If you enjoyed your journey till here and have now realized the uniqueness of our course; then make sure to make a Linkedin Post sharing your progress and learnings like this :-  https://www.linkedin.com/posts/purvansh-pratap-singh_rubrik-dsa-interviewpreparation-activity-7255592043584839680-ZCfZ?utm_source=share&utm_medium=member_desktop",
+    "sessions": [
+      {
+        "title": "Hashing [Prefix/Suffix + Frequency Concept] (55)",
+        "details": "Question / Practice: Sprinklr OA SessionSol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://onlinegdb.com/X6Et5moGT",
+          "https://onlinegdb.com/rkOrIhgIV",
+          "https://onlinegdb.com/urHZWLdXs"
+        ],
+        "id": "HashingPrefixSuffixFrequencyConcept550"
+      },
+      {
+        "title": "Hashing [i\u2026j concept] (56)",
+        "details": "Question / Practice: Atlassian OA SessionSol (C++): QSol (Java): In the doc on leftSol (Python): In the doc on leftOther: In the doc on left",
+        "links": [],
+        "id": "Hashingijconcept561"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept] (57)",
+        "details": "Question / Practice: Watch this as a prerequisite  Amazon IreLand Australia OA SessionSol (C++): q",
+        "links": [],
+        "id": "HashingijMathematicalformulaconcept572"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Optimization Concept] (58)",
+        "details": "Question / Practice: Google SWE Intern Interview SessionSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixOptimizationConcept583"
+      },
+      {
+        "title": "Hashing [Classical Thinking] (59)",
+        "details": "Question / Practice: Intuit OA SessionSol (C++): Q",
+        "links": [],
+        "id": "HashingClassicalThinking594"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept + Case Analysis]  (60)",
+        "details": "Question / Practice: Uber SDE Interview SessionSol (C++): doc",
+        "links": [],
+        "id": "HashingijMathematicalformulaconceptCaseAnalysis605"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept] (61)",
+        "details": "Question / Practice: Atlassian SDE Interview SessionSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingijMathematicalformulaconcept616"
+      },
+      {
+        "title": "Hashing [Prefix/ Suffix + Analysis Concept] (62)",
+        "details": "Question / Practice: De Shaw OA SessionSol (C++): docSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixAnalysisConcept627"
+      },
+      {
+        "title": "Hashing [Contribution Trick + Mathematical Concept] (63)",
+        "details": "Question / Practice: Uber SDE Interview Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "HashingContributionTrickMathematicalConcept638"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (64)",
+        "details": "Question / Practice: Google Interview Problem SessionSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept649"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept + Analysis] (65)",
+        "details": "Question / Practice: Codechef ContestSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixConceptAnalysis6510"
+      },
+      {
+        "title": "Hashing [Classical Thinking] (66)",
+        "details": "Question / Practice: GoldMan Sachs OA SessionSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingClassicalThinking6611"
+      },
+      {
+        "title": "Hashing [Classical + Observation Concept + Implementation] (67)",
+        "details": "Question / Practice: Leetcode ContestSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingClassicalObservationConceptImplementation6712"
+      },
+      {
+        "title": "Hashing [Matrix/Grid] (68)",
+        "details": "Question / Practice: Leetcode ContestSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingMatrixGrid6813"
+      },
+      {
+        "title": "Hashing [Matrix/Grid] (69)",
+        "details": "Question / Practice: Leetcode ContestSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingMatrixGrid6914"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula concept] (70)",
+        "details": "Question / Practice: Google Software Engineering Intern DSA SessionSol (C++): docSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/eEVNG7",
+          "https://ideone.com/dMkcDp",
+          "https://ideone.com/WvGNIL"
+        ],
+        "id": "HashingijMathematicalformulaconcept7015"
+      },
+      {
+        "title": "Hashing [Matrix/Grid] (71)",
+        "details": "Question / Practice: Session OA / Contest LevelSol (C++): Question link not available currently - Watch the video to know the question.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingMatrixGrid7116"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical Modulo formula concept + Matrix/Grid Concept] (72)",
+        "details": "Question / Practice: Session Watch itSol (C++): Q1  Q2Sol (Java): Sol 1  Sol 2Sol (Python): Sol 1  Sol 2Other: Sol 1  Sol 2",
+        "links": [],
+        "id": "HashingijMathematicalModuloformulaconceptMatrixGridConcept7217"
+      },
+      {
+        "title": "Hashing [Contribution Trick + Mathematical Concept] (73)",
+        "details": "Question / Practice: Session Sprinklr OASol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/v2iNDa",
+          "https://ideone.com/OQLqY3",
+          "https://ideone.com/1v9mAR"
+        ],
+        "id": "HashingContributionTrickMathematicalConcept7318"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Optimization Concept] (74)",
+        "details": "Question / Practice: Google OASol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1lINhL8Wi-LO1nfbWXGyXLUXycwBvIzH0dMR2R619oGc/edit?tab=t.0"
+        ],
+        "id": "HashingPrefixSuffixOptimizationConcept7419"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Analysis Concept] (75)",
+        "details": "Question / Practice: Uber OA SessionSol (C++): Q",
+        "links": [],
+        "id": "HashingPrefixSuffixAnalysisConcept7520"
+      },
+      {
+        "title": "Hashing [Miscellaneous] (76)",
+        "details": "Question / Practice: Session Cisco OASol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingMiscellaneous7621"
+      },
+      {
+        "title": "Hashing [Classical] (77)",
+        "details": "Question / Practice: Session  Axis Bank OASol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingClassical7722"
+      },
+      {
+        "title": "Hashing [Greedy + Contribution Trick] (78)",
+        "details": "Question / Practice: De Shaw Ultra Hard OASol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingGreedyContributionTrick7823"
+      },
+      {
+        "title": "Hashing [Greedy + Prefix/Suffix Concept] (79)",
+        "details": "Question / Practice: Session OA Level AtlassianSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingGreedyPrefixSuffixConcept7924"
+      },
+      {
+        "title": "Hashing [i..j Trick + Mathematical Concept] (80)",
+        "details": "Question / Practice: Intuit OA SessionSol (C++): QSol (Java): CodeSol (Python): Code'Other: Code",
+        "links": [],
+        "id": "HashingijTrickMathematicalConcept8025"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (81)",
+        "details": "Question / Practice: Session  OA Level  VMWARESol (C++): QSol (Java): SolSol (Python): SolOther: Sol.",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept8126"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept + Contribution Trick] (82)",
+        "details": "Question / Practice: Amazon Dublin OA SessionSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixConceptContributionTrick8227"
+      },
+      {
+        "title": "Hashing [Classical] (83)",
+        "details": "Question / Practice: Session OA Level JP MorganSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingClassical8328"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Frequency concept] (84)",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Q1  Q2Sol (Java): Sol 1  Sol 2Sol (Python): Sol  Sol 2Other: Sol 1  Sol 2",
+        "links": [],
+        "id": "HashingPrefixSuffixFrequencyconcept8429"
+      },
+      {
+        "title": "Hashing [Range Update Trick] (85)",
+        "details": "Question / Practice: Session OA Level AdobeSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingRangeUpdateTrick8530"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Analysis] (86)",
+        "details": "Question / Practice: Session OA Level AmazonSol (C++): Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [
+          "https://www.hackerrank.com/contests/desiqna-oa-practice-contest-00/challenges/a-356"
+        ],
+        "id": "HashingPrefixSuffixAnalysis8631"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Sorted Set] (87)",
+        "details": "Question / Practice: Amazon OA Part 1  Amazon OA Part 2Sol (C++): Doc",
+        "links": [],
+        "id": "HashingPrefixSuffixSortedSet8732"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Sorted Set] (88)",
+        "details": "Question / Practice: Session OA Level Google  Extra Video :-   Thought ProcessSol (C++): Q  (You will have to use sorted set to solve real version of this problem)  (\u201cSorted Set\u201d Topic you can search in this course and watch first two videos on it then come back to this question)Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [
+          "https://www.youtube.com/watch?v=TNbnKRSmhXI&t=4s&ab_channel=KumarK"
+        ],
+        "id": "HashingPrefixSuffixSortedSet8833"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Heap] (89)",
+        "details": "Question / Practice: ZScaler OASession (Hard)  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingPrefixSuffixHeap8934"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Binary Search] (90)",
+        "details": "Question / Practice: Apple OA SessionSol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1xN1WjfKvz_JvkXs3xtNdtWNunYI5-gASzJiYWt88d4w/edit"
+        ],
+        "id": "HashingPrefixSuffixBinarySearch9035"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Binary Search] (91)",
+        "details": "Question / Practice: De Shaw Hard OA Session  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingPrefixSuffixBinarySearch9136"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Optimization Concept] (92)",
+        "details": "Question / Practice: Google OA  Thoughts + AnalysisSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixOptimizationConcept9237"
+      },
+      {
+        "title": "Hashing [i..j + observation concept]  (93)",
+        "details": "Question / Practice: Amazon OA London Set  Thoughts + AnalysisSol (C++): Doc [Watch video to know the exact question]",
+        "links": [],
+        "id": "Hashingijobservationconcept9338"
+      },
+      {
+        "title": "Hashing [i..j + analysis concept]   (94)",
+        "details": "Question / Practice: Uber SDE Interview Session  Part - 2Sol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "Hashingijanalysisconcept9439"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Kadane Concept]  (95)",
+        "details": "Question / Practice: OA Level CodeNation  Thought Process  (Clears up the concept of Kadane as well)Sol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "HashingPrefixSuffixKadaneConcept9540"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Bit Manipulation] (96)",
+        "details": "Question / Practice: Video Part - 1  Session  part 2  OA Level CodeNation  Prerequisite (You will understand this session if you have watched first 10 sessions of Bit Manipulation topic from this course)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HashingPrefixSuffixBitManipulation9641"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Observation + Case Analysis] (97)",
+        "details": "Question / Practice: Session Amazon OA SDE2Sol (C++): QSol (Java): Sol (Python): .Other:",
+        "links": [
+          "https://ideone.com/wu1XVO",
+          "https://ideone.com/lwLgm0",
+          "https://ideone.com/CLzggk"
+        ],
+        "id": "HashingPrefixSuffixObservationCaseAnalysis9742"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Optimization Concept] (98)",
+        "details": "Question / Practice: Amazon OASol (C++): DocSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/DtqfGd",
+          "https://ideone.com/LsRolT",
+          "https://ideone.com/2xDDWw"
+        ],
+        "id": "HashingPrefixSuffixOptimizationConcept9843"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Optimization Concept] (99)",
+        "details": "Question / Practice: Codechef Contest HARDSol (C++): DOCSol (Java): Refer in DOCSol (Python): Refer in DOCOther: Refer in DOC",
+        "links": [],
+        "id": "HashingPrefixSuffixOptimizationConcept9944"
+      },
+      {
+        "title": "Hashing [Miscellaneous] (100)",
+        "details": "Question / Practice: Amazon SDE 2 OASol (C++): docSol (Java): Sol (Python):  .Other:",
+        "links": [
+          "https://ideone.com/KywKDp",
+          "https://ideone.com/fsKyII",
+          "https://ideone.com/Esa65r"
+        ],
+        "id": "HashingMiscellaneous10045"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Kadane + Case Analysis] (101)",
+        "details": "Question / Practice: Codechef Contest SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingPrefixSuffixKadaneCaseAnalysis10146"
+      },
+      {
+        "title": "Hashing [i\u2026j + Mathematical formula + Optimization concept] (102)",
+        "details": "Question / Practice: Codechef Contest Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "HashingijMathematicalformulaOptimizationconcept10247"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix Concept] (103)",
+        "details": "Question / Practice: Google OA SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingPrefixSuffixConcept10348"
+      },
+      {
+        "title": "Hashing [Prefix/Suffix + Mathematical Analysis Concept] (104)",
+        "details": "Question / Practice: Codechef Problem SessionSol (C++): Doc",
+        "links": [],
+        "id": "HashingPrefixSuffixMathematicalAnalysisConcept10449"
+      },
+      {
+        "title": "Hashing(105) [Miscellaneous]",
+        "details": "Question / Practice: Amazon OASol (C++): Doc",
+        "links": [],
+        "id": "Hashing105Miscellaneous50"
+      },
+      {
+        "title": "Hashing(106) [i..j + optimization + observation concept]",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "Hashing106ijoptimizationobservationconcept51"
+      },
+      {
+        "title": "Hashing(107) [Prefix/Suffix + Bit Manipulation]",
+        "details": "Question / Practice: GamesKraft OA Part - 1 Part - 2 Part - 3Sol (C++): Doc",
+        "links": [],
+        "id": "Hashing107PrefixSuffixBitManipulation52"
+      },
+      {
+        "title": "Hashing(108) [Miscellaneous]",
+        "details": "Question / Practice: Codechef Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "Hashing108Miscellaneous53"
+      },
+      {
+        "title": "Hashing(109) [Prefix/Suffix + Case Analysis Concept]",
+        "details": "Question / Practice: Codechef ContestSol (C++): Doc",
+        "links": [],
+        "id": "Hashing109PrefixSuffixCaseAnalysisConcept54"
+      }
+    ]
+  },
+  {
+    "topic": "We will upload extra session here for practice We will never compromise with the quality and top level updated material",
+    "sessions": [
+      {
+        "title": "Hashing(110) [i..j + Mathematical formula concept]",
+        "details": "Question / Practice: Codechef ContestSol (C++): Doc",
+        "links": [],
+        "id": "Hashing110ijMathematicalformulaconcept0"
+      },
+      {
+        "title": "Hashing(111) [Prefix/Suffix + Kadane + Greedy + Observation Concept]",
+        "details": "Question / Practice: Salesforce SDE Interview Part1  Salesforce SDE Interview Part 2Sol (C++): Doc",
+        "links": [],
+        "id": "Hashing111PrefixSuffixKadaneGreedyObservationConcept1"
+      }
+    ]
+  },
+  {
+    "topic": "[Binary Search]",
+    "sessions": [
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 1 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch0"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 2 Part 1  Session Part 2Sol (C++): QSol (Java): Sol  In C++ there is a direct inbuilt function; so we don\u2019t need to write the full algorithm.Sol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch1"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 3 By Kumar KSol (C++): Doc",
+        "links": [],
+        "id": "BinarySearch2"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 4 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch3"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 5 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch4"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 6 Interview Level (Part1)  Part2 is comingSol (C++): Q.Sol (Java): C++Sol (Python): Java.Other: Py",
+        "links": [],
+        "id": "BinarySearch5"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Leetcode contest session 1  Leetcode contest session 2.Sol (C++): Q.Sol (Java): C++Sol (Python): Java.Other: Py",
+        "links": [],
+        "id": "BinarySearch6"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Amazon SDE 2 OASol (C++): QSol (Java): c++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "BinarySearch7"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Amazon SDE InterviewSol (C++): Doc",
+        "links": [],
+        "id": "BinarySearch8"
+      },
+      {
+        "title": "Binary Search (9)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch99"
+      },
+      {
+        "title": "Binary Search (10)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch1010"
+      },
+      {
+        "title": "Binary Search (11)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch1111"
+      },
+      {
+        "title": "Binary Search (12)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch1212"
+      },
+      {
+        "title": "Binary Search (13)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch1313"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 14 Interview LevelSol (C++): Q.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch14"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 15 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch15"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 16 Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch16"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 17 Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch17"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 18 Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch18"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 19 Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch19"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: De Shaw OA Session 20  Thought Process.Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch20"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Microsoft OA 21Sol (C++): doc",
+        "links": [],
+        "id": "BinarySearch21"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: De Shaw OA Session 22  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch22"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Salesforce OA Session 23Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch23"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: DE Shaw OA Session 24Sol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "BinarySearch24"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session Zscaler OA LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch25"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Amazon OA Part - 1  Part - 2 Part - 3 Part - 4Sol (C++): Doc",
+        "links": [],
+        "id": "BinarySearch26"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session 27 Amazon Super Hard OASol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch27"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Super Hard PayPal 28 OA  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch28"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: PayPal OA Session 29Sol (C++): Q.Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/gO2Uzs",
+          "https://ideone.com/aUL5gw",
+          "https://ideone.com/5hGxez"
+        ],
+        "id": "BinarySearch29"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: RubriKO A Session 30Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch30"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: BlackRock OA Session 31  Thought Process.Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch31"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: BNY Mellon OA Session 32Sol (C++): Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [
+          "https://docs.google.com/document/d/1aUZLNxW5Gnu0NeuBYeblxI7Vna8gXNa7J7ZS10-q538/edit?usp=sharing"
+        ],
+        "id": "BinarySearch32"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Codechef Contest Problem Session PART - 1  Part - 2  Part - 3Sol (C++): Doc",
+        "links": [],
+        "id": "BinarySearch33"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Cisco OA SESSION 34Sol (C++): DOC",
+        "links": [],
+        "id": "BinarySearch34"
+      },
+      {
+        "title": "[Double Binary Search] [+Hashing(Prefix)]",
+        "details": "Question / Practice: LC Contest P01  LC Contest P02Sol (C++): Doc",
+        "links": [],
+        "id": "DoubleBinarySearchHashingPrefix35"
+      },
+      {
+        "title": "Binary Search.",
+        "details": "Question / Practice: Twilio OA SessionSol (C++): Sol (Java): Sol (Python): .Other: .",
+        "links": [
+          "https://docs.google.com/document/d/1Smp8Xfo5zCvvj6VHYrvP6itSzmyG6lDOxivoTimN9JM/edit?usp=sharing",
+          "https://ideone.com/N8HAmV",
+          "https://ideone.com/0uRkc6",
+          "https://ideone.com/coOtKh"
+        ],
+        "id": "BinarySearch36"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Winzo OA Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "BinarySearch37"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Session OA Level InfosysSol (C++): Q  Thought ProcessSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch38"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: Amazon SDE 2 OASol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch39"
+      },
+      {
+        "title": "Binary Search",
+        "details": "Question / Practice: DE Shaw SDE  Interview ProblemSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BinarySearch40"
+      },
+      {
+        "title": "Binary Search.",
+        "details": "Question / Practice: Rubrik OA SessionSol (C++): Q.",
+        "links": [],
+        "id": "BinarySearch41"
+      },
+      {
+        "title": "Binary Search!",
+        "details": "Question / Practice: Session  Google SWE Intern OA.Sol (C++): Q",
+        "links": [],
+        "id": "BinarySearch42"
+      },
+      {
+        "title": "Binary Search!",
+        "details": "Question / Practice: Session  Amazon OA.Sol (C++): Q.Sol (Java): Sol (Python): Other: .",
+        "links": [
+          "https://ideone.com/KHSgHi",
+          "https://ideone.com/NuLl2n",
+          "https://ideone.com/MNrBD3"
+        ],
+        "id": "BinarySearch43"
+      },
+      {
+        "title": "Binary Search!",
+        "details": "Question / Practice: Tiktok OA Part1 Tiktok OA Part2Sol (C++): Q.",
+        "links": [],
+        "id": "BinarySearch44"
+      },
+      {
+        "title": "Binary Search!",
+        "details": "Question / Practice: Google OA Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "BinarySearch45"
+      },
+      {
+        "title": "Binary Search on answer",
+        "details": "Question / Practice: Juspay OA 2025Sol (C++): Doc",
+        "links": [],
+        "id": "BinarySearchonanswer46"
+      },
+      {
+        "title": "Greedy + Binary Search on Matrix + Greedy",
+        "details": "Question / Practice: De Shaw OA P1  De Shaw OA P2Sol (C++): Doc",
+        "links": [],
+        "id": "GreedyBinarySearchonMatrixGreedy47"
+      },
+      {
+        "title": "Binary Search + Range Concept + Greedy [48]",
+        "details": "Question / Practice: Codechef Contest P0  Codechef Contest P1Sol (C++): Doc",
+        "links": [],
+        "id": "BinarySearchRangeConceptGreedy4848"
+      },
+      {
+        "title": "Binary Search [Advanced] [49]",
+        "details": "Question / Practice: Infosys OA.Sol (C++): doc",
+        "links": [],
+        "id": "BinarySearchAdvanced4949"
+      },
+      {
+        "title": "Binary Search [50]",
+        "details": "Question / Practice: Leetcode ContestSol (C++): doc",
+        "links": [],
+        "id": "BinarySearch5050"
+      },
+      {
+        "title": "Binary Search [51]",
+        "details": "Question / Practice: Amazon OA 2025 P1  Amazon OA 2025 P2Sol (C++): doc",
+        "links": [],
+        "id": "BinarySearch5151"
+      }
+    ]
+  },
+  {
+    "topic": "Two Pointer Algorithmic Mastery",
+    "sessions": [
+      {
+        "title": "Two Pointer (1) [Fundamental]",
+        "details": "Question / Practice: Session 1 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointer1Fundamental0"
+      },
+      {
+        "title": "Two Pointer (2) [Pointer Movement - Intuition Building]",
+        "details": "Question / Practice: Session 2 (Concept + Intuition)  (a[i] + b[j] <=k) (a[i] + b[j] will always be <=k)Sol (C++): Q",
+        "links": [],
+        "id": "TwoPointer2PointerMovementIntuitionBuilding1"
+      },
+      {
+        "title": "Two Pointer (3) [Pointer Movement - Intuition Building]",
+        "details": "Question / Practice: HomeWork Problem  Same as session 2 but now a[i] + b[j] > k is also possible.    (a[i]+b[j] can be greater than k)Sol (C++):",
+        "links": [
+          "https://practice.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1"
+        ],
+        "id": "TwoPointer3PointerMovementIntuitionBuilding2"
+      },
+      {
+        "title": "Two Pointer (4) [Classical]",
+        "details": "Question / Practice: Two Pointer Session 4Sol (C++): docSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointer4Classical3"
+      },
+      {
+        "title": "Two Pointer Master-class + Template Building(5)  [(i\u2026j)<=k trick ]",
+        "details": "Question / Practice: Two Pointer Master (5)Sol (C++): Very Imp Doc",
+        "links": [],
+        "id": "TwoPointerMasterclassTemplateBuilding5ijktrick4"
+      },
+      {
+        "title": "Two Pointer(6) [Classical]",
+        "details": "Question / Practice: Interview Level Two PointerSol (C++): Very Imp Doc",
+        "links": [],
+        "id": "TwoPointer6Classical5"
+      },
+      {
+        "title": "Two Pointer(7) [(i\u2026j)<=k trick ]",
+        "details": "Question / Practice: Strong Foundational Vi  Google Interview Session.Sol (C++): doc",
+        "links": [],
+        "id": "TwoPointer7ijktrick6"
+      },
+      {
+        "title": "Two Pointer(8) [Classical]",
+        "details": "Question / Practice: Microsoft OASol (C++): doc",
+        "links": [],
+        "id": "TwoPointer8Classical7"
+      },
+      {
+        "title": "Two Pointer (9) [Prefix/Suffix + (i..j)<=trick]",
+        "details": "Question / Practice: Google SDE-3 Interview Part 1Sol (C++): doc",
+        "links": [],
+        "id": "TwoPointer9PrefixSuffixijtrick8"
+      },
+      {
+        "title": "Two Pointer (10) [Prefix/Suffix + (i..j)<=trick]",
+        "details": "Question / Practice: Google SDE-3 Interview Part 2Sol (C++): doc",
+        "links": [],
+        "id": "TwoPointer10PrefixSuffixijtrick9"
+      },
+      {
+        "title": "Two Pointer(11) (You can use the same template of session above) [(i..j)<=trick]",
+        "details": "Question / Practice: Flipkart SDE Interview Part - 1  Part - 2 (11)Sol (C++): QSol (Java): c++Sol (Python): javaOther: py",
+        "links": [],
+        "id": "TwoPointer11Youcanusethesametemplateofsessionaboveijtrick10"
+      },
+      {
+        "title": "Two Pointer (12) [(i..j)<=trick]",
+        "details": "Question / Practice: Amazon SDE Interview Session Part - 1  Part - 2Sol (C++): Two Pointers Masterclass Doc  Amazon SDE Interview DocSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/5aX6O3",
+          "https://ideone.com/vSNv6M",
+          "https://ideone.com/YkobIO"
+        ],
+        "id": "TwoPointer12ijtrick11"
+      },
+      {
+        "title": "Two Pointer (13) [String Subset Trick]",
+        "details": "Question / Practice: VI0  VI1Sol (C++): Google OA",
+        "links": [],
+        "id": "TwoPointer13StringSubsetTrick12"
+      },
+      {
+        "title": "Two Pointer (14) [String Subset Trick + Prefix/Suffix Concept]",
+        "details": "Question / Practice: Salesforce SDE Interview.Sol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "TwoPointer14StringSubsetTrickPrefixSuffixConcept13"
+      },
+      {
+        "title": "Two Pointer (15) [(i..j)<=trick]",
+        "details": "Question / Practice: Microsoft SDE2 Interview Problem Session!Sol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "TwoPointer15ijtrick14"
+      },
+      {
+        "title": "Two pointer (16) [(i..j)<=trick]",
+        "details": "Question / Practice: Concept Building + LC ContestSol (C++): Q",
+        "links": [],
+        "id": "Twopointer16ijtrick15"
+      },
+      {
+        "title": "Two Pointer (17) [(i..j)<=trick]",
+        "details": "Question / Practice: Leetcode Contest ProblemSol (C++): Q",
+        "links": [],
+        "id": "TwoPointer17ijtrick16"
+      },
+      {
+        "title": "Two Pointer (18) [(i..j)<=k trick]",
+        "details": "Question / Practice: Part - 1 :- Session 1  Part - 2 :- Session 2  Thought Process Doc :- Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [
+          "https://docs.google.com/document/d/1RrD47OfXpZwFBcJ7qJpAz6v6ow4w1GTDf3SKcm5g-oA/edit"
+        ],
+        "id": "TwoPointer18ijktrick17"
+      },
+      {
+        "title": "Two Pointer (19) [(i..j)<=k trick]",
+        "details": "Question / Practice: Google Coding Interview Problem - Part-1 :- Session  Part-2:- Session  Thought Process Doc :- Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [
+          "https://docs.google.com/document/d/1RrD47OfXpZwFBcJ7qJpAz6v6ow4w1GTDf3SKcm5g-oA/edit"
+        ],
+        "id": "TwoPointer19ijktrick18"
+      },
+      {
+        "title": "Two Pointer (20) [(i..j)<=k trick]",
+        "details": "Question / Practice: Session 12 Part - 1 :-   Session 12 Part - 2 :-   Thought Process Doc :- Sol (C++): Find number of subarrays in an array with sum<=k (All array elements >=0)  Last Question of this doc  Sol (Java): SolSol (Python): Sol",
+        "links": [
+          "https://drive.google.com/file/d/1ln3NlLuln5ov6gUdYiKBweX_3wGZ6HvA/view?usp=sharing",
+          "https://drive.google.com/file/d/1xZa3VbTpPIeihnAzODF30lKVMNH3-dhb/view?usp=sharing",
+          "https://docs.google.com/document/d/1RrD47OfXpZwFBcJ7qJpAz6v6ow4w1GTDf3SKcm5g-oA/edit"
+        ],
+        "id": "TwoPointer20ijktrick19"
+      },
+      {
+        "title": "Two Pointer",
+        "details": "Question / Practice: Practice Question-> Do it :)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointer20"
+      },
+      {
+        "title": "Two Pointer",
+        "details": "Question / Practice: Practice Question-> Do it :)Sol (C++): Q {Learn to do it using multiple approaches}",
+        "links": [],
+        "id": "TwoPointer21"
+      },
+      {
+        "title": "Two Pointer (21) [(i..j)<=k trick]",
+        "details": "Question / Practice: Google SDE InterviewSol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1VoGtWvX3URyxl_JU8kHqrjmqxE1XFDBzuRIr-c6QPKc/edit"
+        ],
+        "id": "TwoPointer21ijktrick22"
+      },
+      {
+        "title": "Two Pointers",
+        "details": "Question / Practice: Expedia OASol (C++): QSol (Java): C++Sol (Python): JAVAOther: PY",
+        "links": [],
+        "id": "TwoPointers23"
+      },
+      {
+        "title": "Two Pointer",
+        "details": "Question / Practice: Session Bny Mellon Interview QuestionSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointer24"
+      },
+      {
+        "title": "Two Pointer",
+        "details": "Question / Practice: Amazon SDE 2 OA. (Watch the first two sessions of binary search to understand this session.)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointer25"
+      },
+      {
+        "title": "Two Pointer",
+        "details": "Question / Practice: Leetcode Contest Problem SessionSol (C++): Doc",
+        "links": [],
+        "id": "TwoPointer26"
+      },
+      {
+        "title": "Two Pointer",
+        "details": "Question / Practice: Rubrik OA Session.Sol (C++): Sol (Java): In docSol (Python): In docOther: In doc",
+        "links": [
+          "https://docs.google.com/document/d/1qJm45nHXryDn2FPldVQUvFcUtP0c152ubx7CtXeYycw/edit?addon_store"
+        ],
+        "id": "TwoPointer27"
+      },
+      {
+        "title": "Two Pointer",
+        "details": "Question / Practice: Interview Level Problem;Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://leetcode.com/problems/trapping-rain-water/description/",
+          "https://drive.google.com/file/d/1V1cNNI_q6hpYu3gb-uzOOzOXjCmq2JKq/view?usp=sharing"
+        ],
+        "id": "TwoPointer28"
+      },
+      {
+        "title": "Two Pointers",
+        "details": "Question / Practice: Winzo OA Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "TwoPointers29"
+      },
+      {
+        "title": "Two Pointers",
+        "details": "Question / Practice: Google OA Session  Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "TwoPointers30"
+      },
+      {
+        "title": "Two Pointers",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "TwoPointers31"
+      },
+      {
+        "title": "Two Pointer + Greedy",
+        "details": "Question / Practice: Amazon OA First Part  Amazon OA Second PartSol (C++): Doc",
+        "links": [],
+        "id": "TwoPointerGreedy32"
+      },
+      {
+        "title": "Bit Manipulation + Two Pointer + Binary Search",
+        "details": "Question / Practice: TikTok OA P0  TikTok OA P1 TikTok OA P5Sol (C++): doc",
+        "links": [],
+        "id": "BitManipulationTwoPointerBinarySearch33"
+      }
+    ]
+  },
+  {
+    "topic": "Two Pointers + Sliding Window",
+    "sessions": [
+      {
+        "title": "Two Pointers + Sliding Window",
+        "details": "Question / Practice: Session 1 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow0"
+      },
+      {
+        "title": "Two Pointers + Sliding Window",
+        "details": "Question / Practice: Session 2 Interview + OA Level (Amazon)Sol (C++): Q  Que Image DOCSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow1"
+      },
+      {
+        "title": "Two Pointers + Sliding Window",
+        "details": "Question / Practice: Session 3 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow2"
+      },
+      {
+        "title": "Sliding Window.",
+        "details": "Question / Practice: Session 4 Meesho OA.Sol (C++): Q.",
+        "links": [],
+        "id": "SlidingWindow3"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 5 Interview Level  NotesSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow4"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 6 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow5"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 7 Interview Level  Notes  HomeworkSol (C++): Q1  Q2  Q3Sol (Java): Sol 1  Sol 2  Sol 3Sol (Python): Sol 1  Sol 2  Sol 3Other: Sol 1  Sol 2  Sol 3",
+        "links": [],
+        "id": "TwoPointersSlidingWindow6"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 8 Interview Level BNY MellonSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow7"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 9 OA Level AmazonSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow8"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 10 OA Level AmazonSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow9"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 11 OA Level AmazonSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow10"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 12 OA Level JP Morgan  Thought ProcessSol (C++): QSol (Java): Sol (Brute)  Sol (Efficient)Sol (Python): Sol (Brute)  Sol (Efficient)Other: Sol (Brute)  Sol (Efficient)",
+        "links": [],
+        "id": "TwoPointersSlidingWindow11"
+      },
+      {
+        "title": "Two Pointers Sliding Window",
+        "details": "Question / Practice: Session 13 Amazon SDE Intern Interview Problem.Sol (C++): QueSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "TwoPointersSlidingWindow12"
+      }
+    ]
+  },
+  {
+    "topic": "Implementation + Observation. + Constructive Algorithms.",
+    "sessions": [
+      {
+        "title": "Implementation +Observation.",
+        "details": "Question / Practice: Cisco OA Session 1Sol (C++): Q",
+        "links": [],
+        "id": "ImplementationObservation0"
+      },
+      {
+        "title": "Implementation +Observation.",
+        "details": "Question / Practice: Amazon OA Session 2.Sol (C++): Q",
+        "links": [],
+        "id": "ImplementationObservation1"
+      },
+      {
+        "title": "Implementation +Observation.",
+        "details": "Question / Practice: Amazon OA Session 3.Sol (C++): Q",
+        "links": [],
+        "id": "ImplementationObservation2"
+      },
+      {
+        "title": "Implementation +Observation.",
+        "details": "Question / Practice: Amazon OA Session 4Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.onlinegdb.com/yxlVrsuIe",
+          "https://onlinegdb.com/ht_TqVZnC",
+          "https://onlinegdb.com/tCpbgJXz7"
+        ],
+        "id": "ImplementationObservation3"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Amazon OA Session 5Sol (C++): QSol (Java): Sol (Python):",
+        "links": [
+          "https://drive.google.com/file/d/1SVXH46vZflQPIDGKfl4PwARCzXaFSmK4/view?usp=sharing"
+        ],
+        "id": "ImplementationObservation4"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Amazon OA Session 6.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.desiqna.in/15339/amazon-oa-sde-intern-india-coding-set-136",
+          "https://onlinegdb.com/2b0E6dz9_",
+          "https://onlinegdb.com/_DVF-84gT",
+          "https://onlinegdb.com/cDm3ek_J6"
+        ],
+        "id": "ImplementationObservation5"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Amazon OA Session 7.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.desiqna.in/15416/amazon-oa-sde-dublin-india-coding-set-140",
+          "https://onlinegdb.com/OhgHubtNF6",
+          "https://onlinegdb.com/yk_0DJ1LZ",
+          "https://onlinegdb.com/lYhjs4JXY"
+        ],
+        "id": "ImplementationObservation6"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Google OA Session. 8Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.desiqna.in/15646/google-oa-sde-august",
+          "https://ideone.com/IyjKTJ",
+          "https://ideone.com/6X5Izk",
+          "https://ideone.com/Nlu6mb"
+        ],
+        "id": "ImplementationObservation7"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Linkedin OA Session 9.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.desiqna.in/15865/linkedin-oa-sde-september-2023-coding-question",
+          "https://onlinegdb.com/nult28nEW",
+          "https://onlinegdb.com/Ey4HN6VT9",
+          "https://onlinegdb.com/CvUdyaluu"
+        ],
+        "id": "ImplementationObservation8"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Linkedin OA Session 10Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.desiqna.in/15866/linkedin-oa-sde-september-2023-coding-question-pivot",
+          "https://www.onlinegdb.com/rYqF2xORXy",
+          "https://onlinegdb.com/N3OMBCap4",
+          "https://onlinegdb.com/1Wi68YzIb"
+        ],
+        "id": "ImplementationObservation9"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Codechef Contest Session 11 Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "ImplementationObservation10"
+      },
+      {
+        "title": "Implementation + Observation.",
+        "details": "Question / Practice: Flipkart OASol (C++): Doc",
+        "links": [],
+        "id": "ImplementationObservation11"
+      },
+      {
+        "title": "Constructive Algorithm.",
+        "details": "Question / Practice: Codechef ContestSol (C++): Doc",
+        "links": [],
+        "id": "ConstructiveAlgorithm12"
+      }
+    ]
+  },
+  {
+    "topic": "Heap",
+    "sessions": [
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Session 1 Introduction  Thought ProcessSol (C++): Q  HomeworkSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Heap0"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Session 2 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Heap1"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Session 3 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Heap2"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Session 4 OA Level JP MorganSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Heap3"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Session 5 OA Level BNY Mellon.Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Heap4"
+      },
+      {
+        "title": "Heap + Hashing",
+        "details": "Question / Practice: De Shaw OA Session 6Sol (C++): DOCSol (Java): SolSol (Python): javaOther: py",
+        "links": [],
+        "id": "HeapHashing5"
+      },
+      {
+        "title": "Heap + Hashing",
+        "details": "Question / Practice: ZScaler OASession 7(Hard)  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "HeapHashing6"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Google SDE Interview 8.Sol (C++): Q.Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://drive.google.com/file/d/1EoEbbvHqtwWi28jry1F2OjNdPIPpcM6D/view"
+        ],
+        "id": "Heap7"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Atlassian OA 9Sol (C++): Q.Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/xkU37K",
+          "https://ideone.com/ycW3vS",
+          "https://www.jdoodle.com/ia/R1O"
+        ],
+        "id": "Heap8"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Atlassian SDE Interview Session 10  Part-2-> Coming Soon!Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/1eSxjSUAbLwWn-OlW0NlnxUgcWTT31mYXfxfbkuX7Y1A/edit",
+          "https://ideone.com/9IiHt2",
+          "https://ideone.com/NTarlD",
+          "https://ideone.com/PJzOd8"
+        ],
+        "id": "Heap9"
+      },
+      {
+        "title": "Heap + Greedy + Subset",
+        "details": "Question / Practice: Amazon OA Session 11 P1  Amazon OA Session 11 P2.Sol (C++): Thought Process.",
+        "links": [],
+        "id": "HeapGreedySubset10"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Zscaler OA Session 12  Part - 2Sol (C++): QSol (Java): Refer in DocSol (Python): Refer in DocOther: Refer in Doc",
+        "links": [],
+        "id": "Heap11"
+      },
+      {
+        "title": "Heap",
+        "details": "Question / Practice: Cisco OA Session 13Sol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "Heap12"
+      }
+    ]
+  },
+  {
+    "topic": "Stack",
+    "sessions": [
+      {
+        "title": "Stack (1)",
+        "details": "Question / Practice: Session 1 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack10"
+      },
+      {
+        "title": "Stack (2)",
+        "details": "Question / Practice: Stack Masterclass.Sol (C++): Q.",
+        "links": [],
+        "id": "Stack21"
+      },
+      {
+        "title": "Stack (3)",
+        "details": "Question / Practice: Atlassian OA.Sol (C++): q.",
+        "links": [],
+        "id": "Stack32"
+      },
+      {
+        "title": "Stack (4)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack43"
+      },
+      {
+        "title": "Stack (5)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack54"
+      },
+      {
+        "title": "Stack (6)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack65"
+      },
+      {
+        "title": "Stack (7)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack76"
+      },
+      {
+        "title": "Stack (8)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack87"
+      },
+      {
+        "title": "Stack (9)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack98"
+      },
+      {
+        "title": "Stack (10)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack109"
+      },
+      {
+        "title": "Stack (11)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack1110"
+      },
+      {
+        "title": "Stack (12)",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack1211"
+      },
+      {
+        "title": "Stack (13)",
+        "details": "Question / Practice: Session Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack1312"
+      },
+      {
+        "title": "Stack(14)",
+        "details": "Question / Practice: Session Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Stack1413"
+      },
+      {
+        "title": "Stack(15)",
+        "details": "Question / Practice: Atlassian SDE Interview Session 1  Part-2-> Coming Soon!(Yes!)Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/1eSxjSUAbLwWn-OlW0NlnxUgcWTT31mYXfxfbkuX7Y1A/edit",
+          "https://ideone.com/9IiHt2",
+          "https://ideone.com/NTarlD",
+          "https://ideone.com/PJzOd8"
+        ],
+        "id": "Stack1514"
+      },
+      {
+        "title": "Stack (16)",
+        "details": "Question / Practice: Session  Deutsche Bank OA.Sol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1nmpNCjuqppPXTZMMVa1UFhQJ5Q4bfs01XH8T6rEu9k0/edit"
+        ],
+        "id": "Stack1615"
+      },
+      {
+        "title": "Stack (17.)",
+        "details": "Question / Practice: Now solve these practice questions!",
+        "links": [],
+        "id": "Stack1716"
+      },
+      {
+        "title": "Queue",
+        "details": "Question / Practice: Session 1Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/bLj1jm",
+          "https://ideone.com/oeZefj",
+          "https://ideone.com/RZ51hh"
+        ],
+        "id": "Queue17"
+      },
+      {
+        "title": "Queue",
+        "details": "Question / Practice: Session 2Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Queue18"
+      },
+      {
+        "title": "Queue.",
+        "details": "Question / Practice: Now solve these practice questions!",
+        "links": [],
+        "id": "Queue19"
+      }
+    ]
+  },
+  {
+    "topic": "Graph",
+    "sessions": [
+      {
+        "title": "Graph (1)",
+        "details": "Question / Practice: Intro to graphs.Sol (C++): DocSol (Java):   Sol (Python):   .Other: .  .",
+        "links": [
+          "https://ideone.com/6Xina4",
+          "https://ideone.com/bpDBbh",
+          "https://ideone.com/oXm5kN",
+          "https://ideone.com/RIVq6E",
+          "https://ideone.com/q4qlWs",
+          "https://ideone.com/36dbmJ"
+        ],
+        "id": "Graph10"
+      },
+      {
+        "title": "Graph (2)",
+        "details": "Question / Practice: Session 2 BFS and its applicationsSol (C++): BFS on GraphSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Graph21"
+      },
+      {
+        "title": "Graph (3)",
+        "details": "Question / Practice: BFS - Graph OA based level  Thoughts + Intuition  (In this session Kumar K teaches secret tricks so focus on it)Sol (C++): BFS on Graph  Q1  Q2(For each node  in the graph find if its reachable or not from the source node)  Q3(Number of shortest paths from the source node to all other nodes)Sol (Java): Sol  Sol  SolSol (Python): Sol  Sol  SolOther: Sol  Sol   Sol",
+        "links": [],
+        "id": "Graph32"
+      },
+      {
+        "title": "Graph (4)",
+        "details": "Question / Practice: DFS Master 4 Session By Kumar K  Thoughts + Process + Intuition  Prerequisite - DFS and Recursion are same thingSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Graph43"
+      },
+      {
+        "title": "Graph (5)",
+        "details": "Question / Practice: BFS + DFS 5 Recap",
+        "links": [],
+        "id": "Graph54"
+      },
+      {
+        "title": "Graph (6) [Connected Components]",
+        "details": "Question / Practice: Session 6 Connected ReCap ComponentsSol (C++): Q.Sol (Java): .Sol (Python): .Other:",
+        "links": [
+          "https://ideone.com/f6k1mA",
+          "https://ideone.com/wfDVff",
+          "https://ideone.com/wzso2y"
+        ],
+        "id": "Graph6ConnectedComponents5"
+      },
+      {
+        "title": "Graph (7) [Connected Components]",
+        "details": "Question / Practice: Cisco OA Session Part - 1  Part - 2  part - 3Sol (C++): Doc",
+        "links": [],
+        "id": "Graph7ConnectedComponents6"
+      },
+      {
+        "title": "Graph(8) [Math + Connected Component]",
+        "details": "Question / Practice: Media.Net OA P1Sol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/15XtlwH_BEuJZ-Gll_Nwn5Bs7I1oPfmhwgdZlkg0UmeI/edit?tab=t.0"
+        ],
+        "id": "Graph8MathConnectedComponent7"
+      },
+      {
+        "title": "Graph(9) [Math + Connected Component]",
+        "details": "Question / Practice: Media.Net OA P2Sol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/15XtlwH_BEuJZ-Gll_Nwn5Bs7I1oPfmhwgdZlkg0UmeI/edit?tab=t.0"
+        ],
+        "id": "Graph9MathConnectedComponent8"
+      },
+      {
+        "title": "Graph (10) [Connected Components]",
+        "details": "Question / Practice: Codeforces ContestSol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1KHY255aL8hK7C7SzWEMVaOzYekXtX1G6lGvqUAMA6hc/edit?tab=t.0"
+        ],
+        "id": "Graph10ConnectedComponents9"
+      },
+      {
+        "title": "Graph (11) [Connected Components]",
+        "details": "Question / Practice: Codeforces Contest Connected Components ProblemSol (C++): Doc",
+        "links": [],
+        "id": "Graph11ConnectedComponents10"
+      },
+      {
+        "title": "Graph. (12) [Connected Components]",
+        "details": "Question / Practice: Session 6 Google OA.Sol (C++): Q.",
+        "links": [],
+        "id": "Graph12ConnectedComponents11"
+      },
+      {
+        "title": "Graph. (13) [TopoSort]",
+        "details": "Question / Practice: PayPal OA Topological sortingSol (C++): Q.Sol (Java): Sol (Python): .Other: ,",
+        "links": [
+          "https://ideone.com/O5f44i",
+          "https://ideone.com/OMHyHN",
+          "https://ideone.com/fXt3Z7"
+        ],
+        "id": "Graph13TopoSort12"
+      },
+      {
+        "title": "Graph (14) [TopoSort]",
+        "details": "Question / Practice: Microsoft OA.Sol (C++): Microsoft OA Doc",
+        "links": [],
+        "id": "Graph14TopoSort13"
+      },
+      {
+        "title": "Graph(15) [DAG + Binary Search + Topo]",
+        "details": "Question / Practice: Google Interview 1  Google Interview 2.Sol (C++): Q.Sol (Java): Sol (Python): .Other:",
+        "links": [
+          "https://ideone.com/CJyCYl",
+          "https://ideone.com/flIWQa",
+          "https://ideone.com/SLLcAr"
+        ],
+        "id": "Graph15DAGBinarySearchTopo14"
+      },
+      {
+        "title": "Graph[Directed Graph + Connected Components] [16]",
+        "details": "Question / Practice: Codeforces Graph-F Problem Session.Sol (C++): doc",
+        "links": [],
+        "id": "GraphDirectedGraphConnectedComponents1615"
+      },
+      {
+        "title": "Graph[Connected Components]",
+        "details": "Question / Practice: Salesforce AMTS OASol (C++): doc",
+        "links": [],
+        "id": "GraphConnectedComponents16"
+      },
+      {
+        "title": "Graph[Flood Fill]",
+        "details": "Question / Practice: Session 17Sol (C++): QSol (Java): c++Sol (Python): javaOther: Py",
+        "links": [],
+        "id": "GraphFloodFill17"
+      },
+      {
+        "title": "Graph[Multisource BFS]",
+        "details": "Question / Practice: Microsoft SDE-1 Interview 51LSol (C++): Doc",
+        "links": [],
+        "id": "GraphMultisourceBFS18"
+      },
+      {
+        "title": "Graph[Multisource BFS]",
+        "details": "Question / Practice: Uber SWE InterviewSol (C++): Doc",
+        "links": [],
+        "id": "GraphMultisourceBFS19"
+      },
+      {
+        "title": "Graph[Standard Problem]",
+        "details": "Question / Practice: Session 18Sol (C++): Q1  Q2Sol (Java): c++  C++Sol (Python): java  javaOther: py  py",
+        "links": [],
+        "id": "GraphStandardProblem20"
+      },
+      {
+        "title": "Graph[Standard Problem]",
+        "details": "Question / Practice: Session 19Sol (C++): Q1  Q2Sol (Java): C++  C++Sol (Python): java  javaOther: Py  py",
+        "links": [],
+        "id": "GraphStandardProblem21"
+      },
+      {
+        "title": "Graph[Standard Problem]",
+        "details": "Question / Practice: Session 20Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "GraphStandardProblem22"
+      },
+      {
+        "title": "Graph [Shortest Path Concept]",
+        "details": "Question / Practice: Session 21 OA Level Uber(Based on BFS shortest path.)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "GraphShortestPathConcept23"
+      },
+      {
+        "title": "Graph [Shortest Path Concept]",
+        "details": "Question / Practice: Session 22 Google Intern Interview. (Based on BFS shortest path.)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "GraphShortestPathConcept24"
+      },
+      {
+        "title": "Graph[23] [Shortest Path Concept]",
+        "details": "Question / Practice: Session 23 Google Intern Interview.Sol (C++): Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [
+          "https://docs.google.com/document/d/1sW9GwFVPJtQLAQqy87i53V6mtBUeKiXrKKOVvwPf3f0/edit?usp=sharing"
+        ],
+        "id": "Graph23ShortestPathConcept25"
+      },
+      {
+        "title": "Graph[24] (With Twist of Binary Search!)",
+        "details": "Question / Practice: Google OA Part1  Google OA Part2.Sol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1yAsHL5MdIkKD4yH90MeS-zLXnBp0bG0t_MhnOegSVcQ/edit"
+        ],
+        "id": "Graph24WithTwistofBinarySearch26"
+      },
+      {
+        "title": "Graph[25] + Binary Search + Math",
+        "details": "Question / Practice: Codechef 2200+ Rating Problem RecordingSol (C++): doc",
+        "links": [],
+        "id": "Graph25BinarySearchMath27"
+      },
+      {
+        "title": "Graph[26] + Math[LCM]",
+        "details": "Question / Practice: Tower Research OA P1Sol (C++): DOC",
+        "links": [],
+        "id": "Graph26MathLCM28"
+      },
+      {
+        "title": "Graph[27] + Constructive Algorithms[Prime number concept]",
+        "details": "Question / Practice: Rubrik OA P1  Rubrik OA P2Sol (C++): doc",
+        "links": [],
+        "id": "Graph27ConstructiveAlgorithmsPrimenumberconcept29"
+      },
+      {
+        "title": "Graph[28] (Multisource BFS)",
+        "details": "Question / Practice: Atlassian SDE 2 Interview 1st partSol (C++): doc",
+        "links": [],
+        "id": "Graph28MultisourceBFS30"
+      },
+      {
+        "title": "Graph[29] (Multisource BFS)",
+        "details": "Question / Practice: Atlassian SDE 2 Interview 2nd PartSol (C++): doc",
+        "links": [],
+        "id": "Graph29MultisourceBFS31"
+      },
+      {
+        "title": "Graph[30] (Multisource BFS)",
+        "details": "Question / Practice: Atlassian SDE 2 Interview 3rd PartSol (C++): doc",
+        "links": [],
+        "id": "Graph30MultisourceBFS32"
+      },
+      {
+        "title": "Graph[31] (Multisource BFS + DP)",
+        "details": "Question / Practice: De Shaw OASol (C++): doc",
+        "links": [],
+        "id": "Graph31MultisourceBFSDP33"
+      },
+      {
+        "title": "Graph[32] (BiPartite Graphs)",
+        "details": "Question / Practice: FoundationalSol (C++): Doc",
+        "links": [],
+        "id": "Graph32BiPartiteGraphs34"
+      },
+      {
+        "title": "Graph [Dijkstra Algorithm]",
+        "details": "Question / Practice: P0  P1  (Dijkstra\u2019s algorithm.)Sol (C++): docSol (Java): .Sol (Python): .Other:",
+        "links": [
+          "https://ideone.com/Kd6rVD",
+          "https://ideone.com/BLMvnP",
+          "https://ideone.com/J6vyqt"
+        ],
+        "id": "GraphDijkstraAlgorithm35"
+      },
+      {
+        "title": "Graph [Dijkstra Algorithm] (DP on Graphs)",
+        "details": "Question / Practice: LeetCode Weekly ContestSol (C++): Doc",
+        "links": [],
+        "id": "GraphDijkstraAlgorithmDPonGraphs36"
+      },
+      {
+        "title": "Graph [Dijkstra Algorithm]",
+        "details": "Question / Practice: Swiggy SDE2 OA P1  Swiggy SDE2 OA P2Sol (C++): doc",
+        "links": [],
+        "id": "GraphDijkstraAlgorithm37"
+      },
+      {
+        "title": "Graph",
+        "details": "Question / Practice: (Based on BFS;Dijkstra\u2019s algorithm and DP)Sol (C++): Coming SoonSol (Java): Coming Soon.Sol (Python): Coming SoonOther: Coming Soon.",
+        "links": [],
+        "id": "Graph38"
+      },
+      {
+        "title": "Graph(DSU)",
+        "details": "Question / Practice: Disjoint Set UnionSol (C++): DocSol (Java): .Sol (Python): .Other: .",
+        "links": [
+          "https://ideone.com/Ho8mlj",
+          "https://ideone.com/EltnQL",
+          "https://ideone.com/5eKFl7"
+        ],
+        "id": "GraphDSU39"
+      },
+      {
+        "title": "Graph(DSU)",
+        "details": "Question / Practice: Google SWE Intern OASol (C++): Doc",
+        "links": [],
+        "id": "GraphDSU40"
+      },
+      {
+        "title": "Practice Problems!!",
+        "details": "Question / Practice: Do it",
+        "links": [],
+        "id": "PracticeProblems41"
+      }
+    ]
+  },
+  {
+    "topic": "N-ary Trees(General Trees)",
+    "sessions": [
+      {
+        "title": "Trees[1]",
+        "details": "Question / Practice: Session 1Sol (C++): QSol (Java): Sol1  Sol2Sol (Python): Sol1  Sol2Other: Sol1  Sol2",
+        "links": [],
+        "id": "Trees10"
+      },
+      {
+        "title": "Trees[2]",
+        "details": "Question / Practice: Session 2Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/FHL0F4",
+          "https://ideone.com/wfkQzy",
+          "https://ideone.com/5thjxI"
+        ],
+        "id": "Trees21"
+      },
+      {
+        "title": "Trees[3]",
+        "details": "Question / Practice: Google SWE Intern OA Session 3Sol (C++): Doc",
+        "links": [],
+        "id": "Trees32"
+      },
+      {
+        "title": "Trees[4]",
+        "details": "Question / Practice: Session 4Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/W8t1yD",
+          "https://ideone.com/LIzhdb",
+          "https://ideone.com/ytv8Ga"
+        ],
+        "id": "Trees43"
+      },
+      {
+        "title": "Trees[5]",
+        "details": "Question / Practice: VmWare OA Session 5Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/xMBTaY",
+          "https://ideone.com/VdYekK",
+          "https://ideone.com/9dyfNP"
+        ],
+        "id": "Trees54"
+      },
+      {
+        "title": "Trees + BFS[6]",
+        "details": "Question / Practice: Juspay OA VideoSol (C++): doc",
+        "links": [],
+        "id": "TreesBFS65"
+      },
+      {
+        "title": "Trees + BFS[7]",
+        "details": "Question / Practice: CF - E - Problem SolvingSol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/19lIrYRBmYaOLoDA6PLozDOfu2_YbodKXHjPx2HOrzjM/edit?tab=t.0"
+        ],
+        "id": "TreesBFS76"
+      },
+      {
+        "title": "Trees + DFS DP[8]",
+        "details": "Question / Practice: Swiggy SDE-2 OA P1  Swiggy SDE-2 OA P2Sol (C++): DOC",
+        "links": [],
+        "id": "TreesDFSDP87"
+      },
+      {
+        "title": "Trees[10]",
+        "details": "Question / Practice: Service Now OA .Sol (C++): Doc",
+        "links": [],
+        "id": "Trees108"
+      },
+      {
+        "title": "Trees[11]",
+        "details": "Question / Practice: Google OA .Sol (C++): Doc",
+        "links": [],
+        "id": "Trees119"
+      },
+      {
+        "title": "Trees[12]",
+        "details": "Question / Practice: Rubrik OA 6Sol (C++): Doc",
+        "links": [],
+        "id": "Trees1210"
+      },
+      {
+        "title": "Trees[13]",
+        "details": "Question / Practice: Watch pre-requisite video - Link  Google SDE 3 Interview P0  Google SDE 3 Interview P1Sol (C++): Doc",
+        "links": [],
+        "id": "Trees1311"
+      },
+      {
+        "title": "Trees[15]",
+        "details": "Question / Practice: Session DFS variation- 10Sol (C++): Doc",
+        "links": [],
+        "id": "Trees1512"
+      },
+      {
+        "title": "Trees[16]",
+        "details": "Question / Practice: Session Google SDE-3 Interview 8Sol (C++): Doc",
+        "links": [],
+        "id": "Trees1613"
+      }
+    ]
+  },
+  {
+    "topic": "Read this code and feel it C++ Java. Py.",
+    "sessions": [
+      {
+        "title": "Tree + Special DFS [17]",
+        "details": "Question / Practice: Meesho OA 2024 RecordingSol (C++): doc",
+        "links": [],
+        "id": "TreeSpecialDFS170"
+      },
+      {
+        "title": "Tree + Special DFS [18]",
+        "details": "Question / Practice: Meesho OA 2025 RecordingSol (C++): doc",
+        "links": [],
+        "id": "TreeSpecialDFS181"
+      },
+      {
+        "title": "Tree + Special DFS [19]",
+        "details": "Question / Practice: De Shaw OASol (C++): doc",
+        "links": [],
+        "id": "TreeSpecialDFS192"
+      },
+      {
+        "title": "Tree DP + Combinatorics + Maths[20]",
+        "details": "Question / Practice: Zomato OASol (C++): doc",
+        "links": [],
+        "id": "TreeDPCombinatoricsMaths203"
+      },
+      {
+        "title": "Tree DP + Combinatorics + Maths[21]",
+        "details": "Question / Practice: Codeforces Div3 E Problem Session P1  Codeforces Div3 E Problem Session P2Sol (C++): doc",
+        "links": [],
+        "id": "TreeDPCombinatoricsMaths214"
+      },
+      {
+        "title": "Tree + DP[22]",
+        "details": "Question / Practice: Google SWE3 Interview Part1Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP225"
+      },
+      {
+        "title": "Tree + DP [23]",
+        "details": "Question / Practice: Google Interview P0Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP236"
+      },
+      {
+        "title": "Tree + DP [24]",
+        "details": "Question / Practice: Google Interview P1Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP247"
+      },
+      {
+        "title": "Tree + DP [25]",
+        "details": "Question / Practice: Google SDE Interview P0Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP258"
+      },
+      {
+        "title": "Tree + DP [26]",
+        "details": "Question / Practice: Google Interview P1Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP269"
+      },
+      {
+        "title": "Tree + DP[27]",
+        "details": "Question / Practice: Uber OA P1Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP2710"
+      },
+      {
+        "title": "Tree + DP[28]",
+        "details": "Question / Practice: Uber OA P2Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP2811"
+      },
+      {
+        "title": "Tree + DP[29]",
+        "details": "Question / Practice: Uber OA P3Sol (C++): doc",
+        "links": [],
+        "id": "TreeDP2912"
+      },
+      {
+        "title": "Tree + DP[30]",
+        "details": "Question / Practice: Google SWE OASol (C++): doc",
+        "links": [],
+        "id": "TreeDP3013"
+      },
+      {
+        "title": "Tree + DP[Upward DP] [31]",
+        "details": "Question / Practice: Meesho OA P1Sol (C++): doc",
+        "links": [],
+        "id": "TreeDPUpwardDP3114"
+      },
+      {
+        "title": "Tree + DP[Upward DP] [32]",
+        "details": "Question / Practice: Meesho OA P2Sol (C++): doc",
+        "links": [],
+        "id": "TreeDPUpwardDP3215"
+      },
+      {
+        "title": "Tree + DP[Upward DP] [33]",
+        "details": "Question / Practice: Meesho OA P5Sol (C++): doc",
+        "links": [],
+        "id": "TreeDPUpwardDP3316"
+      },
+      {
+        "title": "Tree DP + Re-rooting DP[34]",
+        "details": "Question / Practice: Google SWE Interview P1  Google SWE Interview P2Sol (C++): DOC",
+        "links": [],
+        "id": "TreeDPRerootingDP3417"
+      },
+      {
+        "title": "Tree + DP + Greedy [35]",
+        "details": "Question / Practice: Zomato OA P1Sol (C++): doc",
+        "links": [],
+        "id": "TreeDPGreedy3518"
+      },
+      {
+        "title": "Tree + DP + Greedy [36]",
+        "details": "Question / Practice: Zomato OA P2Sol (C++): doc",
+        "links": [],
+        "id": "TreeDPGreedy3619"
+      },
+      {
+        "title": "Tree + Pruning [37]",
+        "details": "Question / Practice: Cisco OA P1  Cisco OA P2Sol (C++): doc",
+        "links": [],
+        "id": "TreePruning3720"
+      },
+      {
+        "title": "Trees(BFS + Greedy) [38]",
+        "details": "Question / Practice: Samsung OA P0  P1Sol (C++): Doc",
+        "links": [],
+        "id": "TreesBFSGreedy3821"
+      },
+      {
+        "title": "Trees + BFS [39]",
+        "details": "Question / Practice: Codeforces E Problem SolvingSol (C++): doc",
+        "links": [],
+        "id": "TreesBFS3922"
+      },
+      {
+        "title": "Trees(BFS + Bottom up DFS) [40]",
+        "details": "Question / Practice: LC Contest P0  LC Contest P1  LC Contest P2.Sol (C++): doc",
+        "links": [],
+        "id": "TreesBFSBottomupDFS4023"
+      },
+      {
+        "title": "Trees + Combinatorics [41]",
+        "details": "Question / Practice: Codeforces Problem F Tree + Math SolvingSol (C++): doc",
+        "links": [],
+        "id": "TreesCombinatorics4124"
+      },
+      {
+        "title": "Trees [42]",
+        "details": "Question / Practice: Leetcode Contest ProblemSol (C++): Doc",
+        "links": [],
+        "id": "Trees4225"
+      },
+      {
+        "title": "Trees [43]",
+        "details": "Question / Practice: Infosys OA.Sol (C++): Q.",
+        "links": [],
+        "id": "Trees4326"
+      },
+      {
+        "title": "Trees [44]",
+        "details": "Question / Practice: Uber OA.Sol (C++): Q.",
+        "links": [],
+        "id": "Trees4427"
+      },
+      {
+        "title": "Trees(BFS + DFS + Greedy + Constructive Algorithm) [45]",
+        "details": "Question / Practice: Codechef 6 star P0  Codechef 6 star P1",
+        "links": [],
+        "id": "TreesBFSDFSGreedyConstructiveAlgorithm4528"
+      },
+      {
+        "title": "Trees + Math; [46]",
+        "details": "Question / Practice: Codeforces - F - Problem SolvingSol (C++): Doc",
+        "links": [],
+        "id": "TreesMath4629"
+      },
+      {
+        "title": "Trees(BFS + Greedy + Constructive Algorithm) [47]",
+        "details": "Question / Practice: Codechef 7 star Rated Problem.Sol (C++): Doc",
+        "links": [],
+        "id": "TreesBFSGreedyConstructiveAlgorithm4730"
+      },
+      {
+        "title": "Tree[Euler Tour + Flattening] [48]",
+        "details": "Question / Practice: Intuit OA P1  Intuit OA P2Sol (C++): Doc",
+        "links": [],
+        "id": "TreeEulerTourFlattening4831"
+      }
+    ]
+  },
+  {
+    "topic": "Linked List",
+    "sessions": [
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 1Sol (C++): Intro",
+        "links": [],
+        "id": "Linkedlist0"
+      },
+      {
+        "title": "Linked List",
+        "details": "Question / Practice: Session 2Sol (C++): Q",
+        "links": [],
+        "id": "LinkedList1"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 3Sol (C++): Q",
+        "links": [],
+        "id": "Linkedlist2"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 4 Part - 1  Part - 2Sol (C++): Q",
+        "links": [],
+        "id": "Linkedlist3"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 5 ppSol (C++): Q",
+        "links": [],
+        "id": "Linkedlist4"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 6 Part - 1  Part - 2Sol (C++): Q  Q2pp",
+        "links": [],
+        "id": "Linkedlist5"
+      },
+      {
+        "title": "Linked List",
+        "details": "Question / Practice: Session 7Sol (C++): Q",
+        "links": [],
+        "id": "LinkedList6"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 8Sol (C++): Qpp",
+        "links": [],
+        "id": "Linkedlist7"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 9Sol (C++): Q",
+        "links": [],
+        "id": "Linkedlist8"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 10 Part - 1  Part - 2Sol (C++): Q",
+        "links": [],
+        "id": "Linkedlist9"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 11Sol (C++): Q",
+        "links": [],
+        "id": "Linkedlist10"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 12Sol (C++): Q",
+        "links": [],
+        "id": "Linkedlist11"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 13Sol (C++): Qpp",
+        "links": [],
+        "id": "Linkedlist12"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 14Sol (C++): Qpp",
+        "links": [],
+        "id": "Linkedlist13"
+      },
+      {
+        "title": "Linked list",
+        "details": "Question / Practice: Session 15Sol (C++): Qpp",
+        "links": [],
+        "id": "Linkedlist14"
+      },
+      {
+        "title": "Linkedlist",
+        "details": "Question / Practice: Session 16Sol (C++): Qpp",
+        "links": [],
+        "id": "Linkedlist15"
+      },
+      {
+        "title": "Linkedlist",
+        "details": "Sol (C++): Qpp",
+        "links": [],
+        "id": "Linkedlist16"
+      }
+    ]
+  },
+  {
+    "topic": "Recursion",
+    "sessions": [
+      {
+        "title": "Recursion",
+        "details": "Question / Practice: Session 1 Introduction Explanation by Kumar KSol (C++): QueSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Recursion0"
+      },
+      {
+        "title": "Recursion.",
+        "details": "Question / Practice: Session 2Sol (C++): DocSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Recursion1"
+      },
+      {
+        "title": "Recursion",
+        "details": "Question / Practice: Session 3Sol (C++): DocSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Recursion2"
+      },
+      {
+        "title": "Recursion",
+        "details": "Question / Practice: Session 4Sol (C++): DocSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Recursion3"
+      }
+    ]
+  },
+  {
+    "topic": "\ud83d\udcccKumar K has taught DP in a totally different fashion ; you will realize what a gem it is \ud83d\udd25",
+    "sessions": [
+      {
+        "title": "DP (1) [Simple Pattern]",
+        "details": "Question / Practice: Complete this written tutorial then move forward",
+        "links": [],
+        "id": "DP1SimplePattern0"
+      },
+      {
+        "title": "DP (2) [Simple Pattern]",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "DP2SimplePattern1"
+      },
+      {
+        "title": "DP (3) [Simple Pattern]",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "DP3SimplePattern2"
+      },
+      {
+        "title": "DP (4) [Simple Pattern]",
+        "details": "Question / Practice: Session Interview LevelSol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "DP4SimplePattern3"
+      },
+      {
+        "title": "DP (5) [Simple Pattern]",
+        "details": "Question / Practice: Amazon OA.Sol (C++): Q.Sol (Java): CodeSol (Python): CodeOther:",
+        "links": [
+          "https://ideone.com/xkhWiS"
+        ],
+        "id": "DP5SimplePattern4"
+      },
+      {
+        "title": "Dynamic Programming (6) [Simple Pattern]",
+        "details": "Question / Practice: PayPal OA. Session 5Sol (C++): doc",
+        "links": [],
+        "id": "DynamicProgramming6SimplePattern5"
+      },
+      {
+        "title": "DP (7) [Simple Pattern]",
+        "details": "Question / Practice: AtCoder DP  Thought Process.Sol (C++): Q1  Q2Sol (Java): Code  CodeSol (Python): Code  CodeOther: Code  Code",
+        "links": [],
+        "id": "DP7SimplePattern6"
+      },
+      {
+        "title": "DP (8) [Simple Pattern]",
+        "details": "Question / Practice: Google SWE Intern InterviewSol (C++): Q.",
+        "links": [],
+        "id": "DP8SimplePattern7"
+      },
+      {
+        "title": "DP (9) [Simple Pattern]",
+        "details": "Question / Practice: Infosys OA 21Lakhs CTCSol (C++): Doc",
+        "links": [],
+        "id": "DP9SimplePattern8"
+      },
+      {
+        "title": "DP (10) [Simple Pattern]",
+        "details": "Question / Practice: AtCoder DP  Thought Process.Sol (C++): QSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "DP10SimplePattern9"
+      },
+      {
+        "title": "DP (11) [Simple Pattern]",
+        "details": "Question / Practice: Google Interview P0   P1Sol (C++): Thought Process.Sol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "DP11SimplePattern10"
+      },
+      {
+        "title": "DP (12) [Simple Pattern]",
+        "details": "Question / Practice: Google SDE3 InterviewSol (C++): QSol (Java): Code.Sol (Python): Code.Other: Code.",
+        "links": [],
+        "id": "DP12SimplePattern11"
+      },
+      {
+        "title": "DP (13) [Simple Pattern]",
+        "details": "Question / Practice: Uber OA.Sol (C++): doc",
+        "links": [],
+        "id": "DP13SimplePattern12"
+      },
+      {
+        "title": "DP (14) [Simple Pattern]",
+        "details": "Question / Practice: Uber OA SessionSol (C++): QSol (Java): c++Sol (Python): javaOther: py",
+        "links": [],
+        "id": "DP14SimplePattern13"
+      },
+      {
+        "title": "DP (15) [Simple Pattern] [House Robber Variation]",
+        "details": "Question / Practice: Google SDE3 InterviewSol (C++): Doc",
+        "links": [],
+        "id": "DP15SimplePatternHouseRobberVariation14"
+      },
+      {
+        "title": "DP (16) [Simple Pattern] [House Robber Variation]",
+        "details": "Question / Practice: Google SDE3 InterviewSol (C++): Doc",
+        "links": [],
+        "id": "DP16SimplePatternHouseRobberVariation15"
+      },
+      {
+        "title": "DP (17) [Simple Pattern]",
+        "details": "Question / Practice: GoldMan Sachs OA.Sol (C++): Thought Process.Sol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "DP17SimplePattern16"
+      },
+      {
+        "title": "DP (18) [Simple Pattern]",
+        "details": "Question / Practice: Atlassian OA SessionSol (C++): QSol (Java): SolSol (Python): SolOther: Sol'",
+        "links": [],
+        "id": "DP18SimplePattern17"
+      },
+      {
+        "title": "DP (19) [Simple Pattern]",
+        "details": "Question / Practice: Google SDE3 InterviewSol (C++): Q.Sol (Java): Sol\u2019Sol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP19SimplePattern18"
+      },
+      {
+        "title": "DP (20) [Simple Pattern]",
+        "details": "Question / Practice: OA Level UberSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP20SimplePattern19"
+      },
+      {
+        "title": "DP (21) [Simple Pattern]",
+        "details": "Question / Practice: OA Level BarclaysSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP21SimplePattern20"
+      },
+      {
+        "title": "DP (22) [Simple Pattern]",
+        "details": "Question / Practice: Uber SDE InterviewSol (C++): Q.",
+        "links": [],
+        "id": "DP22SimplePattern21"
+      },
+      {
+        "title": "DP (23) [Simple Pattern]",
+        "details": "Question / Practice: Microsoft OA SessionSol (C++): Doc",
+        "links": [],
+        "id": "DP23SimplePattern22"
+      },
+      {
+        "title": "DP (24) [Simple Pattern]",
+        "details": "Question / Practice: Meesho OA.Sol (C++): DOC",
+        "links": [],
+        "id": "DP24SimplePattern23"
+      },
+      {
+        "title": "DP (25) [Simple Pattern]",
+        "details": "Question / Practice: AirBnB OA P0  AirBnB OA P1Sol (C++): Q. (You can use the exact same method of session 21 -> just assume A=[0,0,0,....])Sol (Java): SolSol (Python): Sol",
+        "links": [],
+        "id": "DP25SimplePattern24"
+      },
+      {
+        "title": "Dp(26) [Simple Pattern]",
+        "details": "Question / Practice: Phonepe OASol (C++): Doc",
+        "links": [],
+        "id": "Dp26SimplePattern25"
+      },
+      {
+        "title": "DP (27) [Simple Pattern]",
+        "details": "Question / Practice: Google OA 1  Google OA 2.Sol (C++): Q.",
+        "links": [],
+        "id": "DP27SimplePattern26"
+      },
+      {
+        "title": "DP (28) [Simple Pattern]",
+        "details": "Question / Practice: Deutsche Bank OA Session Part - 1  Part - 2  Part - 3Sol (C++): DocSol (Java): Sol.Sol (Python): Sol.Other: Sol",
+        "links": [],
+        "id": "DP28SimplePattern27"
+      },
+      {
+        "title": "DP (29) [Simple Pattern]",
+        "details": "Question / Practice: Tower Research OA Part - 1  Part - 2Sol (C++): DocSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP29SimplePattern28"
+      },
+      {
+        "title": "DP (30) [Simple Pattern]",
+        "details": "Question / Practice: Leetcode ContestSol (C++): doc",
+        "links": [],
+        "id": "DP30SimplePattern29"
+      },
+      {
+        "title": "DP (31) [Multidimensional DP]",
+        "details": "Question / Practice: Uber OASol (C++): doc",
+        "links": [],
+        "id": "DP31MultidimensionalDP30"
+      },
+      {
+        "title": "DP (32) [Subarray DP]",
+        "details": "Question / Practice: Session Interview Level Subarray - aSol (C++): QSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "DP32SubarrayDP31"
+      },
+      {
+        "title": "DP (33) [Subarray DP]",
+        "details": "Question / Practice: Session Interview Level Subarray - aSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP33SubarrayDP32"
+      },
+      {
+        "title": "DP (34) [Subarray DP]",
+        "details": "Question / Practice: Session Interview Level Subarray - aSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP34SubarrayDP33"
+      },
+      {
+        "title": "DP (35) [Subarray DP]",
+        "details": "Question / Practice: Google OA P - 1  P2Sol (C++): Google OA Doc",
+        "links": [],
+        "id": "DP35SubarrayDP34"
+      },
+      {
+        "title": "DP (36) [Subarray DP]",
+        "details": "Question / Practice: Leetcode Contest P0  Leetcode Contest P1Sol (C++): doc",
+        "links": [],
+        "id": "DP36SubarrayDP35"
+      },
+      {
+        "title": "DP (37) [Subarray DP]",
+        "details": "Question / Practice: Session Google SDE InterviewSol (C++): Q.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP37SubarrayDP36"
+      },
+      {
+        "title": "DP (38) [Subarray DP]",
+        "details": "Question / Practice: Rubrik OASol (C++): Q.",
+        "links": [],
+        "id": "DP38SubarrayDP37"
+      },
+      {
+        "title": "DP (39) [Subarray DP]",
+        "details": "Question / Practice: DP Leetcode Session VideoSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP39SubarrayDP38"
+      },
+      {
+        "title": "DP (40) [Subarray DP]",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "DP40SubarrayDP39"
+      },
+      {
+        "title": "DP (41) [Subarray DP]",
+        "details": "Question / Practice: Microsoft OASol (C++): QSol (Java): SolSol (Python): SolOther: sol",
+        "links": [],
+        "id": "DP41SubarrayDP40"
+      },
+      {
+        "title": "DP (42) [Partition DP]",
+        "details": "Question / Practice: Google SDE3 Interview Problem SolvingSol (C++): Q.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP42PartitionDP41"
+      },
+      {
+        "title": "DP (43) [Partition DP]",
+        "details": "Question / Practice: Google SDE-3 Part1  Google SDE-3 Part2Sol (C++): doc",
+        "links": [],
+        "id": "DP43PartitionDP42"
+      },
+      {
+        "title": "DP (44) [Partition DP]",
+        "details": "Question / Practice: Session  LeetCode Contest LevelSol (C++): QSol (Java): SolSol (Python): solOther: sol",
+        "links": [],
+        "id": "DP44PartitionDP43"
+      },
+      {
+        "title": "DP (45) [Partition DP]",
+        "details": "Question / Practice: Linkedin OA SessionSol (C++): Doc",
+        "links": [],
+        "id": "DP45PartitionDP44"
+      },
+      {
+        "title": "DP (46) [Partition DP]",
+        "details": "Question / Practice: Leetcode ContestSol (C++): DocSol (Java): C++Sol (Python): JavaOther: Python",
+        "links": [],
+        "id": "DP46PartitionDP45"
+      },
+      {
+        "title": "DP (47) [Partition DP]",
+        "details": "Question / Practice: Cisco IdeaThon OASol (C++): Q",
+        "links": [],
+        "id": "DP47PartitionDP46"
+      },
+      {
+        "title": "DP (48) [Partition DP]",
+        "details": "Question / Practice: Google SWE Intern OASol (C++): Q",
+        "links": [],
+        "id": "DP48PartitionDP47"
+      },
+      {
+        "title": "DP (49) [Partition DP]",
+        "details": "Question / Practice: Google SWE Intern OA.Sol (C++): QOther: Sol",
+        "links": [],
+        "id": "DP49PartitionDP48"
+      },
+      {
+        "title": "DP (50) [Partition DP]",
+        "details": "Question / Practice: Google OA Prime StringSol (C++): Doc",
+        "links": [],
+        "id": "DP50PartitionDP49"
+      },
+      {
+        "title": "DP (51) [Partition DP]",
+        "details": "Question / Practice: Microsoft OASol (C++): Q",
+        "links": [],
+        "id": "DP51PartitionDP50"
+      },
+      {
+        "title": "DP (52) [Partition DP]",
+        "details": "Question / Practice: TechGiG Semifinal SessionSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP52PartitionDP51"
+      },
+      {
+        "title": "DP (53) [Partition DP]",
+        "details": "Question / Practice: Leetcode Contest LinkSol (C++): docSol (Java): Sol.",
+        "links": [],
+        "id": "DP53PartitionDP52"
+      },
+      {
+        "title": "DP (54) [Partition DP]",
+        "details": "Question / Practice: Amazon OA P0 P1 P5Sol (C++): Doc",
+        "links": [],
+        "id": "DP54PartitionDP53"
+      },
+      {
+        "title": "DP (55) [Partition DP]",
+        "details": "Question / Practice: Google SWE Intern.  Part - 2  Part - 3Sol (C++): Doc",
+        "links": [],
+        "id": "DP55PartitionDP54"
+      },
+      {
+        "title": "DP (56) [Partition DP]",
+        "details": "Question / Practice: Google OA  Part - 1 Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "DP56PartitionDP55"
+      },
+      {
+        "title": "DP (57) [Partition DP]",
+        "details": "Question / Practice: Google SDE3 OASol (C++): Q.",
+        "links": [],
+        "id": "DP57PartitionDP56"
+      },
+      {
+        "title": "DP (58) [Partition DP]",
+        "details": "Question / Practice: Codeforces Part - 1 part - 2Sol (C++): DOC",
+        "links": [],
+        "id": "DP58PartitionDP57"
+      },
+      {
+        "title": "DP (59) [Partition DP]",
+        "details": "Question / Practice: Uber OA Part - 1 part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "DP59PartitionDP58"
+      },
+      {
+        "title": "DP (60) [Partition DP]",
+        "details": "Question / Practice: Meesho OASol (C++): Q.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP60PartitionDP59"
+      },
+      {
+        "title": "DP (61) [Partition DP]",
+        "details": "Question / Practice: Intuit OA Session.Sol (C++): Q.Sol (Java): Sol.Sol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP61PartitionDP60"
+      },
+      {
+        "title": "DP (62) [Partition DP]",
+        "details": "Question / Practice: Myntra OA Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "DP62PartitionDP61"
+      },
+      {
+        "title": "DP (63) [Partition DP]",
+        "details": "Question / Practice: Google OA Part 0  Google OA Part 1Sol (C++): Doc",
+        "links": [],
+        "id": "DP63PartitionDP62"
+      },
+      {
+        "title": "DP on Ranges [DP + Binary Search] [64]",
+        "details": "Question / Practice: Salesforce SWE Intern P1  Salesforce SWE Intern P2Sol (C++): Doc",
+        "links": [],
+        "id": "DPonRangesDPBinarySearch6463"
+      },
+      {
+        "title": "DP (65) [Counting DP]",
+        "details": "Question / Practice: Tower Research OASol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP65CountingDP64"
+      },
+      {
+        "title": "DP (66) [Simple Pattern DP]",
+        "details": "Question / Practice: Session Google OA.Sol (C++): Q.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP66SimplePatternDP65"
+      },
+      {
+        "title": "DP (67) [KnapsackDP]",
+        "details": "Question / Practice: Session OA LevelSol (C++): QSol (Java): Sol  SolSol (Python): Sol  SolOther: Sol  Sol",
+        "links": [],
+        "id": "DP67KnapsackDP66"
+      },
+      {
+        "title": "DP (68) [KnapsackDP]",
+        "details": "Question / Practice: De Shaw OASol (C++): QSol (Java): SolSol (Python): Sol",
+        "links": [],
+        "id": "DP68KnapsackDP67"
+      },
+      {
+        "title": "DP (69) [KnapsackDP+ Unbounded KnapsackDP]",
+        "details": "Question / Practice: OA LevelSol (C++): Q1  Q2Sol (Java): Sol 1  Sol 2Sol (Python): Sol 1  Sol 2Other: Sol 1  Sol 2",
+        "links": [],
+        "id": "DP69KnapsackDPUnboundedKnapsackDP68"
+      },
+      {
+        "title": "DP (70) [KnapsackDP+ Unbounded KnapsackDP]",
+        "details": "Question / Practice: Foundational VideoSol (C++): doc",
+        "links": [],
+        "id": "DP70KnapsackDPUnboundedKnapsackDP69"
+      },
+      {
+        "title": "DP (71) [KnapsackDP+Subset-DP]",
+        "details": "Question / Practice: Leetcode Weekly ContestSol (C++): doc",
+        "links": [],
+        "id": "DP71KnapsackDPSubsetDP70"
+      },
+      {
+        "title": "DP (72) [KnapsackDP+Subset-DP]",
+        "details": "Question / Practice: Google + Deutsche Bank OA.Sol (C++): Q.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP72KnapsackDPSubsetDP71"
+      },
+      {
+        "title": "DP (73) [KnapsackDP+Subset-DP]",
+        "details": "Question / Practice: Google OA P0 P1Sol (C++): Q.Sol (Java): SolSol (Python): Sol.Other: Sol",
+        "links": [],
+        "id": "DP73KnapsackDPSubsetDP72"
+      },
+      {
+        "title": "DP (74) [KnapsackDP+Subset-DP]",
+        "details": "Question / Practice: Uber OASol (C++): Doc",
+        "links": [],
+        "id": "DP74KnapsackDPSubsetDP73"
+      },
+      {
+        "title": "DP (75) [Knapsack-Merging DP]",
+        "details": "Question / Practice: FoundationalSol (C++): Doc",
+        "links": [],
+        "id": "DP75KnapsackMergingDP74"
+      },
+      {
+        "title": "DP (76) [Subset DP + Multi-dimensional DP]",
+        "details": "Question / Practice: Coinswitch OA P0  Coin Switch OA P1  Coin Switch OA P2.Sol (C++): Doc",
+        "links": [],
+        "id": "DP76SubsetDPMultidimensionalDP75"
+      },
+      {
+        "title": "DP (77) [Subset DP + Knapsack DP Multi-dimensional DP]",
+        "details": "Question / Practice: Atlassian SDE Interview P0  Atlassian SDE Interview P1  Atlassian SDE Interview P11  Atlassian SDE Interview P21Sol (C++): Doc",
+        "links": [],
+        "id": "DP77SubsetDPKnapsackDPMultidimensionalDP76"
+      },
+      {
+        "title": "DP + Combinatorics + Optimization (78)",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "DPCombinatoricsOptimization7877"
+      },
+      {
+        "title": "DP (79) [LIS]",
+        "details": "Question / Practice: LIS DPSol (C++): Q1 or Q  Q2Sol (Java): Sol 1  Sol 2Sol (Python): Sol 1  Sol 2Other: Sol 1  Sol 2",
+        "links": [],
+        "id": "DP79LIS78"
+      },
+      {
+        "title": "DP (80) [LIS]",
+        "details": "Question / Practice: LIS DPSol (C++): Doc",
+        "links": [],
+        "id": "DP80LIS79"
+      },
+      {
+        "title": "DP (81) [LIS]",
+        "details": "Question / Practice: Amazon OASol (C++): QSol (Java): C++Sol (Python): JAVAOther: PY",
+        "links": [],
+        "id": "DP81LIS80"
+      },
+      {
+        "title": "DP (82) [LIS]",
+        "details": "Question / Practice: Walmart OA Session.  QSol (C++): Q.Sol (Java): Code.Sol (Python): Code.Other: Code.",
+        "links": [],
+        "id": "DP82LIS81"
+      },
+      {
+        "title": "DP (83) [LIS]",
+        "details": "Question / Practice: Microsoft OA Practice Question;  Q  QSol (C++): Q,",
+        "links": [],
+        "id": "DP83LIS82"
+      },
+      {
+        "title": "DP (84) [LIS]",
+        "details": "Question / Practice: Google OA.Sol (C++): Q.",
+        "links": [],
+        "id": "DP84LIS83"
+      },
+      {
+        "title": "DP (85) [LIS]",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "DP85LIS84"
+      },
+      {
+        "title": "DP (86) [LIS DP + Optimization]",
+        "details": "Question / Practice: Atlassian OASol (C++): Doc",
+        "links": [],
+        "id": "DP86LISDPOptimization85"
+      },
+      {
+        "title": "DP (87) [LIS]",
+        "details": "Question / Practice: Microsoft OASol (C++): Doc",
+        "links": [],
+        "id": "DP87LIS86"
+      },
+      {
+        "title": "DP (88) [LIS DP + Segment Tree]",
+        "details": "Question / Practice: Leetcode Contest P1  Leetcode Contest P2Sol (C++): Doc",
+        "links": [],
+        "id": "DP88LISDPSegmentTree87"
+      },
+      {
+        "title": "[89] [LIS DP + Segment Tree]",
+        "details": "Question / Practice: Leetcode Contest P1  Leetcode Contest P2  Leetcode Contest P3Sol (C++): Doc",
+        "links": [],
+        "id": "89LISDPSegmentTree88"
+      },
+      {
+        "title": "DP (90) [Multidimensional DP + Optimization]",
+        "details": "Question / Practice: Salesforce OA P1  Salesforce OA P2Sol (C++): Doc",
+        "links": [],
+        "id": "DP90MultidimensionalDPOptimization89"
+      },
+      {
+        "title": "DP (91) [Multidimensional DP + Optimization]",
+        "details": "Question / Practice: Atlassian SDE Interview.Sol (C++): Q.",
+        "links": [],
+        "id": "DP91MultidimensionalDPOptimization90"
+      },
+      {
+        "title": "DP (92) [Multidimensional DP + Optimization]",
+        "details": "Question / Practice: Phonepe OASol (C++): Doc",
+        "links": [],
+        "id": "DP92MultidimensionalDPOptimization91"
+      },
+      {
+        "title": "DP (93) [Multidimensional DP + Optimization]",
+        "details": "Question / Practice: Morgan Stanley Part - 1  Part - 2Sol (C++): DocSol (Java): Sol.Sol (Python): Sol.Other: Sol",
+        "links": [],
+        "id": "DP93MultidimensionalDPOptimization92"
+      },
+      {
+        "title": "DP(94)[Multidimensional DP + Optimization]",
+        "details": "Question / Practice: Meesho OA SessionSol (C++): Doc",
+        "links": [],
+        "id": "DP94MultidimensionalDPOptimization93"
+      },
+      {
+        "title": "DP(95)[Multidimensional DP]",
+        "details": "Question / Practice: Rubrik OA Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "DP95MultidimensionalDP94"
+      },
+      {
+        "title": "DP(96)[Multidimensional DP]",
+        "details": "Question / Practice: Google OA.Sol (C++): Doc",
+        "links": [],
+        "id": "DP96MultidimensionalDP95"
+      },
+      {
+        "title": "DP(97)[Multidimensional DP + Optimization]",
+        "details": "Question / Practice: TikTok OA P0  TikTok OA P1Sol (C++): doc",
+        "links": [],
+        "id": "DP97MultidimensionalDPOptimization96"
+      },
+      {
+        "title": "DP(98)[Multidimensional DP + Optimization]",
+        "details": "Question / Practice: Leetcode ContestSol (C++): doc",
+        "links": [],
+        "id": "DP98MultidimensionalDPOptimization97"
+      },
+      {
+        "title": "DP(99)[Multidimensional DP + Pair DP]",
+        "details": "Question / Practice: Amazon SDE2 OASol (C++): DOC",
+        "links": [],
+        "id": "DP99MultidimensionalDPPairDP98"
+      },
+      {
+        "title": "DP (100) [Inversion DP]",
+        "details": "Question / Practice: DP on Inversion CountSol (C++): Doc",
+        "links": [],
+        "id": "DP100InversionDP99"
+      },
+      {
+        "title": "DP (101) [Grid DP]",
+        "details": "Question / Practice: Session OA Level CISCO Traditional Matrix DP  QSol (C++): QSol (Java): Sol 1  Sol 2Sol (Python): Sol 1  Sol 2Other: Sol 1  Sol 2",
+        "links": [],
+        "id": "DP101GridDP100"
+      },
+      {
+        "title": "DP (102) [Grid DP]",
+        "details": "Question / Practice: Session OA Level Cisco Matrix DP  Thought Process.Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP102GridDP101"
+      },
+      {
+        "title": "DP (103) [Tiling DP]",
+        "details": "Question / Practice: OA Level  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP103TilingDP102"
+      },
+      {
+        "title": "DP (104) [Tiling DP]",
+        "details": "Question / Practice: Google SWE Intern InterviewSol (C++): Doc",
+        "links": [],
+        "id": "DP104TilingDP103"
+      },
+      {
+        "title": "DP (105) [Tiling DP]",
+        "details": "Question / Practice: Tower Research OA Level  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP105TilingDP104"
+      },
+      {
+        "title": "DP (106) [Tiling DP]",
+        "details": "Question / Practice: Leetcode Contest + OA Level  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP106TilingDP105"
+      },
+      {
+        "title": "DP(107) [Tiling DP]",
+        "details": "Question / Practice: Codeforces Edu Round 189 Div2 CSol (C++): Doc",
+        "links": [],
+        "id": "DP107TilingDP106"
+      },
+      {
+        "title": "DP (108) [Tiling DP]",
+        "details": "Question / Practice: OA Level ServiceNowSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP108TilingDP107"
+      },
+      {
+        "title": "DP (109) [Tiling DP]",
+        "details": "Question / Practice: Session HomeworkSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP109TilingDP108"
+      },
+      {
+        "title": "DP (110) [Bit Manipulation DP]",
+        "details": "Question / Practice: Uber SDE Interview 2026Sol (C++): Doc",
+        "links": [],
+        "id": "DP110BitManipulationDP109"
+      },
+      {
+        "title": "DP (111) [Bit Manipulation DP]",
+        "details": "Question / Practice: Session OA level CodeNationSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP111BitManipulationDP110"
+      },
+      {
+        "title": "DP (112) [Game Theory DP]",
+        "details": "Question / Practice: OA Level GoogleSol (C++): QSol (Java): SolSol (Python): Sol  SolOther: Sol",
+        "links": [],
+        "id": "DP112GameTheoryDP111"
+      },
+      {
+        "title": "DP (113) [Greedy + DP]",
+        "details": "Question / Practice: OA Level CodeNationSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "DP113GreedyDP112"
+      },
+      {
+        "title": "DP (114) [Multidimensional DP + Optimization]",
+        "details": "Question / Practice: Google OA.Sol (C++): Q",
+        "links": [],
+        "id": "DP114MultidimensionalDPOptimization113"
+      },
+      {
+        "title": "DP (115) [Bit Manipulation DP + Optimization]",
+        "details": "Question / Practice: Session Media.net OA.Sol (C++): Q",
+        "links": [],
+        "id": "DP115BitManipulationDPOptimization114"
+      },
+      {
+        "title": "DP (116) [Bit Manipulation DP + Optimization]",
+        "details": "Question / Practice: Tower Research OA.Sol (C++): Tower Research OA.",
+        "links": [],
+        "id": "DP116BitManipulationDPOptimization115"
+      },
+      {
+        "title": "DP (117) [Homework]",
+        "details": "Question / Practice: Will be uploaded.Sol (C++): Q.  QSol (Java): Will be uploaded soon,Sol (Python): Will be uploaded soon.Other: Will be uploaded soon.",
+        "links": [],
+        "id": "DP117Homework116"
+      },
+      {
+        "title": "DP (118) [Broken DP + Optimization]",
+        "details": "Question / Practice: Leetcode Contest Hard ProblemSol (C++): Q.",
+        "links": [],
+        "id": "DP118BrokenDPOptimization117"
+      }
+    ]
+  },
+  {
+    "topic": "DP with Strings",
+    "sessions": [
+      {
+        "title": "DP(119) [String DP]",
+        "details": "Question / Practice: lcsSol (C++): Doc",
+        "links": [],
+        "id": "DP119StringDP0"
+      },
+      {
+        "title": "DP(120) [String DP]",
+        "details": "Question / Practice: Edit Distance.Sol (C++): Doc",
+        "links": [],
+        "id": "DP120StringDP1"
+      },
+      {
+        "title": "DP(121) [String DP]",
+        "details": "Question / Practice: Google SDE3.Sol (C++): Doc",
+        "links": [],
+        "id": "DP121StringDP2"
+      },
+      {
+        "title": "DP(122) [String DP]",
+        "details": "Question / Practice: Amazon OASol (C++): Doc",
+        "links": [],
+        "id": "DP122StringDP3"
+      },
+      {
+        "title": "DP(123) [String DP variation + Multi-dimensional DP optimization]",
+        "details": "Question / Practice: Atlassian SDE1 Interview P1  Atlassian SDE1 Interview P2Sol (C++): DOC",
+        "links": [],
+        "id": "DP123StringDPvariationMultidimensionalDPoptimization4"
+      },
+      {
+        "title": "DP(124) [String DP]",
+        "details": "Question / Practice: Rubrik OA Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "DP124StringDP5"
+      },
+      {
+        "title": "DP (125) [Homework]",
+        "details": "Question / Practice: Solve these. (please.)",
+        "links": [],
+        "id": "DP125Homework6"
+      },
+      {
+        "title": "Digit DP",
+        "details": "Question / Practice: Introductory Session 1Sol (C++): doc",
+        "links": [],
+        "id": "DigitDP7"
+      },
+      {
+        "title": "Digit DP",
+        "details": "Question / Practice: Introductory Session 2Sol (C++): doc",
+        "links": [],
+        "id": "DigitDP8"
+      },
+      {
+        "title": "Digit DP",
+        "details": "Question / Practice: Google SDE Interview SessionSol (C++): doc",
+        "links": [],
+        "id": "DigitDP9"
+      },
+      {
+        "title": "Digit DP",
+        "details": "Question / Practice: Introductory Session 3Sol (C++): doc",
+        "links": [],
+        "id": "DigitDP10"
+      }
+    ]
+  },
+  {
+    "topic": "Bit Manipulation",
+    "sessions": [
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 1 IntroductionSol (C++): Q1 Q2Sol (Java): Sol (Q1) Sol (Q2)Sol (Python): Sol  (Q1) Sol (Q2)Other: Sol (Q1) Sol (Q2)",
+        "links": [],
+        "id": "BitManipulation0"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 2 Leetcode ContestSol (C++): Q.Sol (Java): C++Sol (Python): Java.Other: Py",
+        "links": [],
+        "id": "BitManipulation1"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 3 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation2"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 4 OA LevelSol (C++): Q1  Q2Sol (Java): Sol 1  Sol 2Sol (Python): Sol 1  Sol 2Other: Sol 1  Sol 2",
+        "links": [],
+        "id": "BitManipulation3"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 5 OA LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation4"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 6 OA LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation5"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 7 OA Level CodeNationSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation6"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 8 OA Level CodeNationSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation7"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 9 (Hard) OA Level  Part-2Sol (C++): DocSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/Iv2qpA",
+          "https://ideone.com/qZy578",
+          "https://ideone.com/Y8qAMq"
+        ],
+        "id": "BitManipulation8"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Salesforce OASol (C++): Q.Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/mPiDlp",
+          "https://ideone.com/I0pZMh",
+          "https://ideone.com/JSAx9D"
+        ],
+        "id": "BitManipulation9"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 11 Atlassian OA.Sol (C++): Q.",
+        "links": [],
+        "id": "BitManipulation10"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 12 Google OA.Sol (C++): Q.Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/NJMwbV",
+          "https://ideone.com/zJSyz0",
+          "https://ideone.com/vt2wVK"
+        ],
+        "id": "BitManipulation11"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Walmart OA Session.Sol (C++): q.",
+        "links": [],
+        "id": "BitManipulation12"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Tower Research SDE InterviewSol (C++): docSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation13"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session 15 OA Level RazorpaySol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation14"
+      },
+      {
+        "title": "[Bit Manipulation + DP]",
+        "details": "Question / Practice: Uber SDE Interview 2026Sol (C++): Doc",
+        "links": [],
+        "id": "BitManipulationDP15"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Atlassian OA Part1  Atlassian OA Part 2.Sol (C++): Q.Sol (Java): Sol.Sol (Python): Sol.Other: Sol.",
+        "links": [],
+        "id": "BitManipulation16"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session (Hard) OA Level GoogleSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation17"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Atlassian OA Thought Process.Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation18"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Google OA  Thought ProcessSol (C++): QSol (Java): Sol",
+        "links": [],
+        "id": "BitManipulation19"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Google OASol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/dROEi9",
+          "https://ideone.com/Z9UzAG",
+          "https://ideone.com/IHcNyJ"
+        ],
+        "id": "BitManipulation20"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Google Interview SessionSol (C++): Q.Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://drive.google.com/file/d/1i5ZE3GcxYX_jKj_evI6dEWaKWfVUcYWH/view"
+        ],
+        "id": "BitManipulation21"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Session OA Level CodeNationSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "BitManipulation22"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Google OASol (C++): Q.",
+        "links": [],
+        "id": "BitManipulation23"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Atlassian OA Session - 24  Part-2Sol (C++): DocSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/Iv2qpA",
+          "https://ideone.com/zc0KUX",
+          "https://ideone.com/wySZTD"
+        ],
+        "id": "BitManipulation24"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Atlassian OA SessionSol (C++): DocSol (Java): .Sol (Python): .Other:",
+        "links": [
+          "https://ideone.com/P0EyJ3",
+          "https://ideone.com/6Ej5x3",
+          "https://ideone.com/42B1Ip"
+        ],
+        "id": "BitManipulation25"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Uber OA SessionSol (C++): DocSol (Java): c++Sol (Python): javaOther: py",
+        "links": [],
+        "id": "BitManipulation26"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Leetcode Contest HARD Problem SessionSol (C++): DocSol (Java): Refer the Doc in leftSol (Python): Refer the Doc in leftOther: Refer the Doc in left",
+        "links": [],
+        "id": "BitManipulation27"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Google OA SessionSol (C++): DocSol (Java): Refer the Doc in leftSol (Python): Refer the Doc in leftOther: Refer the Doc in left",
+        "links": [],
+        "id": "BitManipulation28"
+      },
+      {
+        "title": "Bit Manipulation",
+        "details": "Question / Practice: Codechef 2400 Rated Contest Problem SessionSol (C++): DocSol (Java): Refer the Doc in leftSol (Python): Refer the Doc in leftOther: Refer the Doc in left",
+        "links": [],
+        "id": "BitManipulation29"
+      },
+      {
+        "title": "Bit Manipulation (31)",
+        "details": "Question / Practice: Codechef 3000 Rated Contest Problem Session 30 Part - 1  Part - 2Sol (C++): DocSol (Java): Refer the Doc in leftSol (Python): Refer the Doc in leftOther: Refer the Doc in left",
+        "links": [],
+        "id": "BitManipulation3130"
+      },
+      {
+        "title": "Bit Manipulation (32)",
+        "details": "Question / Practice: Amazon ML Summer School OA SessionSol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "BitManipulation3231"
+      },
+      {
+        "title": "Bit Manipulation (33)",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "BitManipulation3332"
+      },
+      {
+        "title": "Bit Manipulation (34)",
+        "details": "Question / Practice: GamesKraft OA Part - 1 Part - 2 Part - 3Sol (C++): Doc",
+        "links": [],
+        "id": "BitManipulation3433"
+      },
+      {
+        "title": "Bit Manipulation (35)",
+        "details": "Question / Practice: Apple OASol (C++): Doc",
+        "links": [],
+        "id": "BitManipulation3534"
+      },
+      {
+        "title": "Bit Manipulation + Combinatorics 12 (36)",
+        "details": "Question / Practice: Apple OASol (C++): Doc",
+        "links": [],
+        "id": "BitManipulationCombinatorics123635"
+      },
+      {
+        "title": "Bit Manipulation + Binary Search (37)",
+        "details": "Question / Practice: Infosys OA P0  Infosys OA P1Sol (C++): doc",
+        "links": [],
+        "id": "BitManipulationBinarySearch3736"
+      },
+      {
+        "title": "Bit Manipulation + Two Pointer + Binary Search (38)",
+        "details": "Question / Practice: TikTok OA P0  TikTok OA P1 TikTok OA P5Sol (C++): doc",
+        "links": [],
+        "id": "BitManipulationTwoPointerBinarySearch3837"
+      }
+    ]
+  },
+  {
+    "topic": "Greedy",
+    "sessions": [
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Intro  Leetcode ContestSol (C++): Doc0  Doc 1",
+        "links": [],
+        "id": "Greedy0"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Codeforces(D) Problem SolvingSol (C++): Doc",
+        "links": [],
+        "id": "Greedy1"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Codechef 1900+ Rated Problem SolvingSol (C++): Doc",
+        "links": [],
+        "id": "Greedy2"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: IBM OASol (C++): Doc",
+        "links": [],
+        "id": "Greedy3"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Codechef Problem SessionSol (C++): Doc",
+        "links": [],
+        "id": "Greedy4"
+      },
+      {
+        "title": "Greedy + Intuition + Two Pointer",
+        "details": "Question / Practice: GoldMan Sachs OASol (C++): Read it",
+        "links": [],
+        "id": "GreedyIntuitionTwoPointer5"
+      },
+      {
+        "title": "Greedy + Math. Analysis.",
+        "details": "Question / Practice: Atlassian 70LPA SDE InterviewSol (C++): Read it",
+        "links": [],
+        "id": "GreedyMathAnalysis6"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Atlassian OASol (C++): Doc",
+        "links": [],
+        "id": "Greedy7"
+      },
+      {
+        "title": "Median. + Greedy",
+        "details": "Question / Practice: Salesforce OA P1  Salesforce OA P11Sol (C++): Doc",
+        "links": [],
+        "id": "MedianGreedy8"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 8 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy9"
+      },
+      {
+        "title": "Greedy + Hashing",
+        "details": "Question / Practice: Google OA Session 9.Sol (C++): Q",
+        "links": [],
+        "id": "GreedyHashing10"
+      },
+      {
+        "title": "Greedy + Hashing",
+        "details": "Question / Practice: Intuit OA Session 10 (With Variation.)Sol (C++): Q",
+        "links": [],
+        "id": "GreedyHashing11"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 11 Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy12"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 12 Intuit OA.Sol (C++): Sol (Java): SolSol (Python): SolOther:",
+        "links": [
+          "https://www.desiqna.in/15561/intuit-oa-sde-1-2023-august",
+          "https://ideone.com/z2HFyr"
+        ],
+        "id": "Greedy13"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 13 ZS OA.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/1kRWPEzCqavLgT0xMTLE4YudeHkO9DlhJ2ES5icu84aA/edit",
+          "https://ideone.com/UBZbKp",
+          "https://ideone.com/jCYnxO",
+          "https://ideone.com/Yfh6Lq"
+        ],
+        "id": "Greedy14"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 14 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy15"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 15 Interview LevelSol (C++): Q1  Q2Sol (Java): Sol 1  Sol 2Sol (Python): Sol 2  Sol 2Other: Sol 1  Sol 2",
+        "links": [],
+        "id": "Greedy16"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 16 OA Level (BNY Mellon)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy17"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 17 OA Level (BNY Mellon)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy18"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 18 PayPal OA.Sol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/170bYy4p1NMdvMeR4getm5KsNGg-vyzfNM1fAqPco8x0/edit"
+        ],
+        "id": "Greedy19"
+      },
+      {
+        "title": "Greedy + Hashing",
+        "details": "Question / Practice: Visa Intern + SDE OA Session 19  (P0)  Visa SDE + Intern OA. (P1)  HW :-> Now solve this question using the greedy technique learnt -> linkSol (C++): doc",
+        "links": [],
+        "id": "GreedyHashing20"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 21 Amazon Interview.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://leetcode.com/problems/gas-station/",
+          "https://drive.google.com/file/d/1jrzF3DAHyNeY2mm-iGMPZHRVs7n1N3hU/view?usp=sharing"
+        ],
+        "id": "Greedy21"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 22 LeetCode ContestSol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://leetcode.com/contest/weekly-contest-366/problems/minimum-processing-time/",
+          "https://ideone.com/5WiUUX",
+          "https://ideone.com/6lMiPQ",
+          "https://ideone.com/dfivEq"
+        ],
+        "id": "Greedy22"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Amazon OASol (C++): doc",
+        "links": [],
+        "id": "Greedy23"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Tower Research SDE InterviewSol (C++): Q",
+        "links": [],
+        "id": "Greedy24"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session  Google OA.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.desiqna.in/16112/google-oa-sde1",
+          "https://ideone.com/otWjk9",
+          "https://ideone.com/1iI2Qi",
+          "https://ideone.com/XIi5hE"
+        ],
+        "id": "Greedy25"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session Nutanix OA.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.desiqna.in/16088/nutanix-oa-sde1-ctc-54-lac",
+          "https://ideone.com/iAYAbx",
+          "https://ideone.com/66oz7s",
+          "https://ideone.com/UiJ7uF"
+        ],
+        "id": "Greedy26"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session OA Level (BNY Mellon)  Pre - requisite :-   Formula :- (a-b)%m = (a%m  - b%m + m)%mSol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/",
+          "https://ideone.com/Rf95Gu",
+          "https://ideone.com/s5iBBm",
+          "https://ideone.com/Up3NIL"
+        ],
+        "id": "Greedy27"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session Interview + OA Level (Amazon)Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy28"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Amazon OA Session.(Greedy+Subset)  Part2.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/14YeOCELYf1m8A4kjpMYohf-1gu6BGINNrnlOzdA0qMM/edit",
+          "https://ideone.com/xMp7zC",
+          "https://ideone.com/B156jk",
+          "https://ideone.com/uszAiB"
+        ],
+        "id": "Greedy29"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy30"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session  31 LC Contest Level  Thought ProcessSol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/6E87aH",
+          "https://ideone.com/T3GSvY",
+          "https://ideone.com/toi47k"
+        ],
+        "id": "Greedy31"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 32 LeetCode Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy32"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 33 OA Level JP MorganSol (C++): Q1Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy33"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 34 ZScaler OA  Thought ProcessSol (C++): QSol (Java): Sol C++Sol (Python): Sol JavaOther: Sol Python.",
+        "links": [],
+        "id": "Greedy34"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 35 ZScaler OA  Need to fix.Sol (C++): Sol (Java): Fix.Sol (Python): Fix.Other: Fix.",
+        "links": [
+          "https://www.desiqna.in/13627/zscaler-oa-sde1-may-2023-hashing-greedy"
+        ],
+        "id": "Greedy35"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 36 ZScaler OASol (C++): QSol (Java): SolSol (Python): Sol Fix.Other: Sol Fix.",
+        "links": [],
+        "id": "Greedy36"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 37 BNY Mellon OA.Sol (C++): Q",
+        "links": [],
+        "id": "Greedy37"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 38 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy38"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 39 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy39"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 40 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy40"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 41 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy41"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 42 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy42"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 43 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy43"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 44 Zeta OA.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/1wWBtIsrGE4ro1OJbO7p8epoGICPLRQzEBtPDM6fZdTE/edit",
+          "https://ideone.com/M2qNjP",
+          "https://ideone.com/hZgOrh",
+          "https://ideone.com/Sc44pn"
+        ],
+        "id": "Greedy44"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 45 De Shaw OA.Sol (C++): docSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/ZsRKyA",
+          "https://ideone.com/v7XUvJ",
+          "https://ideone.com/8A3DgF"
+        ],
+        "id": "Greedy45"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 46 Microsoft OA [Range Interval]  Thought Process. \ue909Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/fkkFKb",
+          "https://ideone.com/Cj0dzb",
+          "https://ideone.com/rmQhhy"
+        ],
+        "id": "Greedy46"
+      },
+      {
+        "title": "Greedy (Range Interval + Sorting + Set)",
+        "details": "Question / Practice: Amazon OA P1  Amazon OA P11Sol (C++): Doc",
+        "links": [],
+        "id": "GreedyRangeIntervalSortingSet47"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 51 Interval Based Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy48"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 52 Interval Based Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy49"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 53 Interval Based Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy50"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 54 Interval Based Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy51"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 55 Interview LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy52"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 56 Interval Based Interview Level  Thought ProcessSol (C++): Q.Sol (Java): Sol",
+        "links": [],
+        "id": "Greedy53"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 57 Interval Based Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy54"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 58 Interval Based Contest LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy55"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 59 [Interval Based] OA / Contest Level Expedia  Thought Process  Thought ProcessSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy56"
+      },
+      {
+        "title": "Some sessions here are same but were asked in different exam with different constraint so different thought process",
+        "details": "Question / Practice: Session 29 OA LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Somesessionsherearesamebutwereaskedindifferentexamwithdifferentconstraintsodifferentthoughtprocess57"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 60 OA LevelSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy58"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 61 OA Level Greedy & 2-ptr  Thought Process  Pseudo CodeSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy59"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 62 OA level Greedy & 2-ptr  Thought Process  PseudoCodeSol (C++): Q1 Log InSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy60"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 63 OA level Greedy & 2-ptr  Thought Process  PseudoCodeSol (C++): Q2 Log InSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy61"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 64 OA level Greedy & 2-ptr  Thought Process  PseudoCodeSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy62"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 65 OA Level WalmartSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy63"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 66 OA Level JP MorganSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy64"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Session 67 OA Level CodenationSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "Greedy65"
+      },
+      {
+        "title": "Greedy + Observation.",
+        "details": "Question / Practice: Session 68 OA Level TikTokSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "GreedyObservation66"
+      },
+      {
+        "title": "Greedy +  Observation.",
+        "details": "Question / Practice: Session 69 Deutsche Bank OA.Sol (C++): Q",
+        "links": [],
+        "id": "GreedyObservation67"
+      },
+      {
+        "title": "Greedy + Observation.",
+        "details": "Question / Practice: Session 70 CodeKaze Round 2  Thought ProcessSol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/0AK0L4",
+          "https://ideone.com/9xVIto",
+          "https://ideone.com/XZR1D6"
+        ],
+        "id": "GreedyObservation68"
+      },
+      {
+        "title": "Greedy + Observation.",
+        "details": "Question / Practice: Session 71 GFG Job a thon Contest  Thought Process.Sol (C++):",
+        "links": [
+          "https://practice.geeksforgeeks.org/contest/job-a-thon-20-hiring-challenge/problems"
+        ],
+        "id": "GreedyObservation69"
+      },
+      {
+        "title": "Binary Search + Greedy",
+        "details": "Question / Practice: BlackRock OA Session 72  Thought Process.Sol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/WdoNtT",
+          "https://ideone.com/fr6Ue6",
+          "https://ideone.com/ttyIgF"
+        ],
+        "id": "BinarySearchGreedy70"
+      },
+      {
+        "title": "Greedy + Observation!",
+        "details": "Question / Practice: CodeNation OA Session 73Sol (C++): Q",
+        "links": [],
+        "id": "GreedyObservation71"
+      },
+      {
+        "title": "Binary Search + Greedy",
+        "details": "Question / Practice: Session 74 Google SWE Intern OA.Sol (C++): Q",
+        "links": [],
+        "id": "BinarySearchGreedy72"
+      },
+      {
+        "title": "Greedy + String",
+        "details": "Question / Practice: Session 75 Atlassian OA.Sol (C++): DocSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "GreedyString73"
+      },
+      {
+        "title": "Greedy + Binary Search.",
+        "details": "Question / Practice: Session 76 Google OA.Sol (C++): Q.",
+        "links": [],
+        "id": "GreedyBinarySearch74"
+      },
+      {
+        "title": "Greedy + Hashing + Two Pointer",
+        "details": "Question / Practice: Rubrik OA Session. 77Sol (C++): Sol (Java): In docSol (Python): In docOther: In doc",
+        "links": [
+          "https://docs.google.com/document/d/1qJm45nHXryDn2FPldVQUvFcUtP0c152ubx7CtXeYycw/edit?addon_store"
+        ],
+        "id": "GreedyHashingTwoPointer75"
+      },
+      {
+        "title": "Greedy + Hashing",
+        "details": "Question / Practice: Session 78 Amazon OA SDE2.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/1-TYMJDQNpwvSCXEwv4oRC_xui9Odl4kueMJ4Ue6oXIc/edit",
+          "https://ideone.com/L7LAcc",
+          "https://ideone.com/F7sqnA",
+          "https://ideone.com/TH2SkX"
+        ],
+        "id": "GreedyHashing76"
+      },
+      {
+        "title": "Greedy + Math.",
+        "details": "Question / Practice: Session 79 Paypal OA.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/13PVf0JcoZnRjaWKUhd29QsC8OPxzT3f_6UYTNX05tcM/edit",
+          "https://ideone.com/Pveo7S",
+          "https://ideone.com/fQFyEu",
+          "https://ideone.com/jR31qd"
+        ],
+        "id": "GreedyMath77"
+      },
+      {
+        "title": "Heap + Greedy + Subset",
+        "details": "Question / Practice: Amazon OA Session 80 P1  Amazon OA Session 81 P2.Sol (C++): Thought Process.",
+        "links": [],
+        "id": "HeapGreedySubset78"
+      },
+      {
+        "title": "Greedy + Binary Search!",
+        "details": "Question / Practice: Tiktok OA Part1 Tiktok OA Part2Sol (C++): Q.",
+        "links": [],
+        "id": "GreedyBinarySearch79"
+      },
+      {
+        "title": "Binary Search + Greedy + Geometry",
+        "details": "Question / Practice: Session Amazon OA.Sol (C++): Q.Sol (Java): Sol (Python): Other: .",
+        "links": [
+          "https://ideone.com/KHSgHi",
+          "https://ideone.com/NuLl2n",
+          "https://ideone.com/MNrBD3"
+        ],
+        "id": "BinarySearchGreedyGeometry80"
+      },
+      {
+        "title": "Greedy + String",
+        "details": "Question / Practice: AtlassianSol (C++): Doc",
+        "links": [],
+        "id": "GreedyString81"
+      },
+      {
+        "title": "Greedy + String",
+        "details": "Question / Practice: Microsoft OA Part-1  Part - 2Sol (C++): Q",
+        "links": [],
+        "id": "GreedyString82"
+      },
+      {
+        "title": "Greedy + String",
+        "details": "Question / Practice: Microsoft OA SessionSol (C++): Doc",
+        "links": [],
+        "id": "GreedyString83"
+      },
+      {
+        "title": "Greedy + Binary Search",
+        "details": "Question / Practice: Google OA Session  Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "GreedyBinarySearch84"
+      },
+      {
+        "title": "Greedy",
+        "details": "Question / Practice: Atlassian OA Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "Greedy85"
+      },
+      {
+        "title": "Greedy + Combinatorics",
+        "details": "Question / Practice: Codechef Contest part 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "GreedyCombinatorics86"
+      },
+      {
+        "title": "Binary Search + Range Concept + Greedy",
+        "details": "Question / Practice: Codechef Contest P0  Codechef Contest P1Sol (C++): Doc",
+        "links": [],
+        "id": "BinarySearchRangeConceptGreedy87"
+      },
+      {
+        "title": "Greedy + Observation. + Sorting",
+        "details": "Question / Practice: Amazon OA P0  Amazon OA P1   (Session 98)Sol (C++): doc",
+        "links": [],
+        "id": "GreedyObservationSorting88"
+      }
+    ]
+  },
+  {
+    "topic": "Popular Array Interview Problems.",
+    "sessions": [
+      {
+        "title": "Array1",
+        "details": "Question / Practice: Array Session1Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://leetcode.com/problems/first-missing-positive/description/",
+          "https://drive.google.com/file/d/1AIEEXqqzICiqfDR4NqeexFPd6Cmd568l/view?usp=sharing"
+        ],
+        "id": "Array10"
+      },
+      {
+        "title": "Array2",
+        "details": "Question / Practice: Array Session2Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://leetcode.com/problems/single-number/description/",
+          "https://drive.google.com/file/d/1Fx7ystnbEXt6ufMPMBJTqFfWTfv8zfIo/view?usp=sharing"
+        ],
+        "id": "Array21"
+      },
+      {
+        "title": "Array3",
+        "details": "Question / Practice: Array Session 3Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://leetcode.com/problems/squares-of-a-sorted-array/description/",
+          "https://drive.google.com/file/u/4/d/1XvdJe9UhygYYL2DodV5p0sn6l7kOOf-I/view?usp=sharing"
+        ],
+        "id": "Array32"
+      }
+    ]
+  },
+  {
+    "topic": "Binary Tree",
+    "sessions": [
+      {
+        "title": "Binary Tree Session 0",
+        "details": "Question / Practice: First watch 7. Sessions of N-Ary Trees  Watch This",
+        "links": [],
+        "id": "BinaryTreeSession00"
+      },
+      {
+        "title": "Session 1",
+        "details": "Question / Practice: Introduction to Binary TreesSol (C++): Doc",
+        "links": [],
+        "id": "Session11"
+      },
+      {
+        "title": "Session 2",
+        "details": "Question / Practice: Level Order TraversalSol (C++): Doc",
+        "links": [],
+        "id": "Session22"
+      },
+      {
+        "title": "Session 3",
+        "details": "Question / Practice: Modified Level Order TraversalSol (C++): Doc",
+        "links": [],
+        "id": "Session33"
+      },
+      {
+        "title": "Session 4",
+        "details": "Question / Practice: Reverse Level Order TraversalSol (C++): Doc",
+        "links": [],
+        "id": "Session44"
+      },
+      {
+        "title": "Session 5",
+        "details": "Question / Practice: Second way of level order TraversalSol (C++): Doc",
+        "links": [],
+        "id": "Session55"
+      },
+      {
+        "title": "Session 6",
+        "details": "Question / Practice: Zigzag Level Order TraversalSol (C++): Doc",
+        "links": [],
+        "id": "Session66"
+      },
+      {
+        "title": "Binary Tree.7",
+        "details": "Question / Practice: PreOrder TraversalSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree77"
+      },
+      {
+        "title": "Binary Tree.8",
+        "details": "Question / Practice: Inorder TraversalSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree88"
+      },
+      {
+        "title": "Binary Tree. 9",
+        "details": "Question / Practice: PostOrder TraversalSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree99"
+      },
+      {
+        "title": "Binary Tree. 10",
+        "details": "Question / Practice: HeightSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1010"
+      },
+      {
+        "title": "Binary Tree. 11",
+        "details": "Question / Practice: DiameterSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1111"
+      },
+      {
+        "title": "Binary Tree. 12",
+        "details": "Question / Practice: Height Balanced Binary TreeSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1212"
+      },
+      {
+        "title": "Binary Tree. 13",
+        "details": "Question / Practice: Subtree Sum + Maximum Subtree SumSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1313"
+      },
+      {
+        "title": "Binary Tree. 14",
+        "details": "Question / Practice: Top ViewSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1414"
+      },
+      {
+        "title": "Binary Tree. 15",
+        "details": "Question / Practice: Bottom ViewSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1515"
+      },
+      {
+        "title": "Binary Tree. 16",
+        "details": "Question / Practice: Left ViewSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1616"
+      },
+      {
+        "title": "Binary Tree. 17",
+        "details": "Question / Practice: Right ViewSol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1717"
+      },
+      {
+        "title": "Binary Tree. 18",
+        "details": "Question / Practice: Google SDE Interview Problem!Sol (C++): QSol (Java): .Sol (Python): .Other:",
+        "links": [
+          "https://ideone.com/ZDY0gJ",
+          "https://ideone.com/g1FuXM",
+          "https://ideone.com/QYbY01"
+        ],
+        "id": "BinaryTree1818"
+      },
+      {
+        "title": "Binary Tree - 19",
+        "details": "Question / Practice: Uber SDE 2 Interview P1  Uber SDE2 Interview P2Sol (C++): Doc",
+        "links": [],
+        "id": "BinaryTree1919"
+      }
+    ]
+  },
+  {
+    "topic": "Binary Search Tree",
+    "sessions": [
+      {
+        "title": "Session 1",
+        "details": "Question / Practice: IntroductionSol (C++): Doc",
+        "links": [],
+        "id": "Session10"
+      },
+      {
+        "title": "Session 2",
+        "details": "Question / Practice: Check if Binary Tree is BST or NotSol (C++): Doc",
+        "links": [],
+        "id": "Session21"
+      }
+    ]
+  },
+  {
+    "topic": "String",
+    "sessions": [
+      {
+        "title": "STRING (Basic concept of string)",
+        "details": "Question / Practice: Session 1Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGBasicconceptofstring0"
+      },
+      {
+        "title": "STRING (Basic concept of string)",
+        "details": "Question / Practice: Session 2Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGBasicconceptofstring1"
+      },
+      {
+        "title": "STRING (Basic concept of string)",
+        "details": "Question / Practice: Session 3Sol (C++): Q  Why String is Immutable in Java?Sol (Java): Sol  Why String is Immutable in Java?Sol (Python): Sol  Why String is Immutable in Java?Other: Sol  Why String is Immutable in Java?",
+        "links": [],
+        "id": "STRINGBasicconceptofstring2"
+      },
+      {
+        "title": "STRING (Hashing + String)",
+        "details": "Question / Practice: Session 4 OA Level AmazonSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGHashingString3"
+      },
+      {
+        "title": "STRING (String Manipulation)",
+        "details": "Question / Practice: Session 5Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringManipulation4"
+      },
+      {
+        "title": "STRING (String Manipulation)",
+        "details": "Question / Practice: Session 6Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringManipulation5"
+      },
+      {
+        "title": "STRING (String Manipulation)",
+        "details": "Question / Practice: Session 7Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringManipulation6"
+      },
+      {
+        "title": "STRING (String Manipulation)",
+        "details": "Question / Practice: Session 8Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringManipulation7"
+      },
+      {
+        "title": "STRING (String + Lexicographic concept)",
+        "details": "Question / Practice: Session 9Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringLexicographicconcept8"
+      },
+      {
+        "title": "STRING (String + Stack)",
+        "details": "Question / Practice: Session 10Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringStack9"
+      },
+      {
+        "title": "STRING (String + Two Ptr)",
+        "details": "Question / Practice: Session 11Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringTwoPtr10"
+      },
+      {
+        "title": "STRING (String + Priority Queue)",
+        "details": "Question / Practice: Session 12Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringPriorityQueue11"
+      },
+      {
+        "title": "STRING (String + Game Theory)",
+        "details": "Question / Practice: Session 13 IBM OA.  (Game Theory + Observation.)Sol (C++): Q.Sol (Java): Code.Sol (Python): Code..Other: Sol",
+        "links": [],
+        "id": "STRINGStringGameTheory12"
+      },
+      {
+        "title": "STRING (String + Observation + Hashing)",
+        "details": "Question / Practice: Walmart OA Session 14.Sol (C++): Q.Sol (Java): Code.Sol (Python): Code.Other:",
+        "links": [
+          "https://www.jdoodle.com/iembed/v0/TWC"
+        ],
+        "id": "STRINGStringObservationHashing13"
+      },
+      {
+        "title": "STRING (String + Hashing + Sorting)",
+        "details": "Question / Practice: Session 15Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringHashingSorting14"
+      },
+      {
+        "title": "STRING (String + Two Ptr Subset Concept)",
+        "details": "Question / Practice: Amazon OA Session 16Sol (C++): Doc",
+        "links": [],
+        "id": "STRINGStringTwoPtrSubsetConcept15"
+      },
+      {
+        "title": "STRING (String + Two Ptr Subset Concept)",
+        "details": "Question / Practice: Amazon + Intuit Interview17.Sol (C++): Q.Sol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringTwoPtrSubsetConcept16"
+      },
+      {
+        "title": "STRING (String + Hashing)",
+        "details": "Question / Practice: Session 18Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringHashing17"
+      },
+      {
+        "title": "STRING (String + Two Ptr Subset Concept)",
+        "details": "Question / Practice: Session 19Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringTwoPtrSubsetConcept18"
+      },
+      {
+        "title": "STRING (String + Sorting)",
+        "details": "Question / Practice: Session 20Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringSorting19"
+      },
+      {
+        "title": "STRING (String + Two Ptr)",
+        "details": "Question / Practice: Session 21Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringTwoPtr20"
+      },
+      {
+        "title": "STRING (Sliding Window + Prefix Sum + Binary Search)",
+        "details": "Question / Practice: Session 22Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGSlidingWindowPrefixSumBinarySearch21"
+      },
+      {
+        "title": "STRING (String + Observation + Hashing)",
+        "details": "Question / Practice: Session 23Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringObservationHashing22"
+      },
+      {
+        "title": "STRING (String + Two Ptr)",
+        "details": "Question / Practice: Session 24Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringTwoPtr23"
+      },
+      {
+        "title": "STRING (String + Greedy)",
+        "details": "Question / Practice: Session 25Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringGreedy24"
+      },
+      {
+        "title": "STRING (String + Two Ptr)",
+        "details": "Question / Practice: Session 26 (This question means if string p has f[b] = 2; the the substring you select in string s should have f[b]>=2 ; f[y] = frequency of char \u201cy\u201dSol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringTwoPtr25"
+      },
+      {
+        "title": "STRING (String + Two Ptr)",
+        "details": "Question / Practice: Session 26Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringTwoPtr26"
+      },
+      {
+        "title": "STRING (String + High Level Hashing)",
+        "details": "Question / Practice: Session 27Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGStringHighLevelHashing27"
+      },
+      {
+        "title": "STRING (Greedy +Lexicographic + Greedy)",
+        "details": "Question / Practice: Google OA Session. 28Sol (C++): docSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGGreedyLexicographicGreedy28"
+      },
+      {
+        "title": "STRING (String + GREEDY + Lexicographic + Stack)",
+        "details": "Question / Practice: EXPEDIA OASol (C++): QSol (Java): C++Sol (Python): JAVAOther: PY",
+        "links": [],
+        "id": "STRINGStringGREEDYLexicographicStack29"
+      },
+      {
+        "title": "STRING  (Greedy + String)",
+        "details": "Question / Practice: Session 30 Atlassian OA.Sol (C++): docSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGGreedyString30"
+      },
+      {
+        "title": "STRING  String + Greedy",
+        "details": "Question / Practice: AtlassianSol (C++): Doc",
+        "links": [],
+        "id": "STRINGStringGreedy31"
+      },
+      {
+        "title": "STRING  String + Z-Algorithm.",
+        "details": "Question / Practice: Barclays OA Session 32  Z-algorithm:- z[i] = number of characters at index \u201ci\u201d same as start characters of the given stringSol (C++): Doc",
+        "links": [],
+        "id": "STRINGStringZAlgorithm32"
+      },
+      {
+        "title": "STRING (LPS + Z-algo)",
+        "details": "Question / Practice: Session 33Sol (C++): QSol (Java): SolSol (Python): SolOther: Sol",
+        "links": [],
+        "id": "STRINGLPSZalgo33"
+      },
+      {
+        "title": "STRING (String + Optimization)",
+        "details": "Question / Practice: EXPEDIA OASol (C++): QSol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/cLRQsz",
+          "https://ideone.com/omzmIh",
+          "https://ideone.com/fxBj6I"
+        ],
+        "id": "STRINGStringOptimization34"
+      },
+      {
+        "title": "STRING  (Palindromic + Lexicographic)",
+        "details": "Question / Practice: ServiceNow OA Session.1  ServiceNow OA Session.2Sol (C++): Sol (Java): .Sol (Python): .Other: .",
+        "links": [
+          "https://docs.google.com/document/d/1acierEzRXhC8ojN-Cr0shJK2iVumS09R5huCVIPmit0/edit",
+          "https://ideone.com/T1Nton",
+          "https://ideone.com/2MpyYV",
+          "https://ideone.com/9nPfhD"
+        ],
+        "id": "STRINGPalindromicLexicographic35"
+      },
+      {
+        "title": "STRING  (Greedy)",
+        "details": "Question / Practice: Microsoft OA.Sol (C++): doc",
+        "links": [],
+        "id": "STRINGGreedy36"
+      },
+      {
+        "title": "STRING  (Greedy)",
+        "details": "Question / Practice: Microsoft OA Part-1  Part - 2",
+        "links": [],
+        "id": "STRINGGreedy37"
+      },
+      {
+        "title": "STRING  (Greedy)",
+        "details": "Question / Practice: Microsoft OA SessionSol (C++): Doc",
+        "links": [],
+        "id": "STRINGGreedy38"
+      },
+      {
+        "title": "STRING  (Lexicographic + Two Ptr)",
+        "details": "Question / Practice: Leetcode Contest VideoSol (C++): Doc",
+        "links": [],
+        "id": "STRINGLexicographicTwoPtr39"
+      },
+      {
+        "title": "STRING (Greedy + Observation)",
+        "details": "Question / Practice: Swiggy OA. 0  Swiggy OA. Part 1Sol (C++): Doc",
+        "links": [],
+        "id": "STRINGGreedyObservation40"
+      },
+      {
+        "title": "String + Lexicographic concept",
+        "details": "Question / Practice: Amazon ML SummerSchool OA Part1  Amazon ML SummerSchool Part2Sol (C++): Doc",
+        "links": [],
+        "id": "StringLexicographicconcept41"
+      },
+      {
+        "title": "String (Manacher\u2019s Algorithm)",
+        "details": "Question / Practice: LC Weekly ContestSol (C++): Doc",
+        "links": [],
+        "id": "StringManachersAlgorithm42"
+      }
+    ]
+  },
+  {
+    "topic": "Math and Combinatorics",
+    "sessions": [
+      {
+        "title": "Math. (1)",
+        "details": "Question / Practice: Modulo Knowledge.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/1H8obAFY6lkBeJus2cBe0FYtvoXgvyGmdhgaovr1N28A/edit",
+          "https://ideone.com/Dy1xM2",
+          "https://ideone.com/Q9fLUy",
+          "https://ideone.com/OIOpQU"
+        ],
+        "id": "Math10"
+      },
+      {
+        "title": "Math. (2)",
+        "details": "Question / Practice: Rubrik OA Session.Sol (C++): Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://docs.google.com/document/d/1hKnZz9FYjr2j0BykQhd38xypRq5DwQ0WtwZC3fVvpp0/edit",
+          "https://ideone.com/UmiqRp",
+          "https://ideone.com/XynOBP",
+          "https://ideone.com/gVqx0P"
+        ],
+        "id": "Math21"
+      },
+      {
+        "title": "Math. (Prime Number + Factor)(3)",
+        "details": "Question / Practice: Walmart OA Session.Sol (C++): Q.Sol (Java): .Sol (Python): Other: .",
+        "links": [
+          "https://ideone.com/m6paZ3",
+          "https://ideone.com/JhTP7r",
+          "https://ideone.com/VHgSpA"
+        ],
+        "id": "MathPrimeNumberFactor32"
+      },
+      {
+        "title": "Math(4) (GCD)",
+        "details": "Question / Practice: Uber OA P0Sol (C++): doc",
+        "links": [],
+        "id": "Math4GCD3"
+      },
+      {
+        "title": "Math(5) (GCD)",
+        "details": "Question / Practice: Uber OA P1Sol (C++): doc",
+        "links": [],
+        "id": "Math5GCD4"
+      },
+      {
+        "title": "Math(6)",
+        "details": "Question / Practice: DBS OASol (C++): DOCSol (Java): Refer in DOCSol (Python): Refer in DOCOther: Refer in DOC",
+        "links": [],
+        "id": "Math65"
+      },
+      {
+        "title": "Math(nCR)",
+        "details": "Question / Practice: Foundational ConceptSol (C++): Doc",
+        "links": [],
+        "id": "MathnCR6"
+      },
+      {
+        "title": "Greedy + Math. + Distribution. (8)",
+        "details": "Question / Practice: Session! Paypal OA.Sol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/13PVf0JcoZnRjaWKUhd29QsC8OPxzT3f_6UYTNX05tcM/edit?tab=t.0"
+        ],
+        "id": "GreedyMathDistribution87"
+      },
+      {
+        "title": "Math(9)",
+        "details": "Question / Practice: Leetcode Contest SessionSol (C++): Doc",
+        "links": [],
+        "id": "Math98"
+      },
+      {
+        "title": "Math(10)",
+        "details": "Question / Practice: Flipkart OASol (C++): Doc",
+        "links": [],
+        "id": "Math109"
+      },
+      {
+        "title": "Greedy + Math. (11)",
+        "details": "Question / Practice: Codechef ContestSol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1-ijXBg-koUzCAtLnRD1tBq1kzWs_e-DpUHY-zW9rvfg/edit"
+        ],
+        "id": "GreedyMath1110"
+      },
+      {
+        "title": "Math. + Factors. (12)",
+        "details": "Question / Practice: Intuit OA Session 1  Intuit OA Session 2.  Intuit OA Session 3.Sol (C++): Q.Sol (Java): Sol (Python): Other:",
+        "links": [
+          "https://ideone.com/gMSQ9Y",
+          "https://ideone.com/leOjB6",
+          "https://ideone.com/bzhCxG"
+        ],
+        "id": "MathFactors1211"
+      },
+      {
+        "title": "Math. 13 (Combinatorics)",
+        "details": "Question / Practice: Google OA Session Part - 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "Math13Combinatorics12"
+      },
+      {
+        "title": "Factor + Prime Factor",
+        "details": "Question / Practice: Intro 0Sol (C++): Doc",
+        "links": [],
+        "id": "FactorPrimeFactor13"
+      },
+      {
+        "title": "Factor + Prime Factor",
+        "details": "Question / Practice: Intro 1Sol (C++): Doc",
+        "links": [],
+        "id": "FactorPrimeFactor14"
+      },
+      {
+        "title": "Factor + Prime Factor",
+        "details": "Question / Practice: Codechef Contest P0  Codechef Contest P1Sol (C++): Doc",
+        "links": [],
+        "id": "FactorPrimeFactor15"
+      },
+      {
+        "title": "Factor + Prime Factor",
+        "details": "Question / Practice: Codechef Contest P5Sol (C++): Doc",
+        "links": [],
+        "id": "FactorPrimeFactor16"
+      },
+      {
+        "title": "Factor Optimization",
+        "details": "Question / Practice: Google SDE-2 Interview P0  Google SDE-2 Interview P1  Google SDE-2 Interview P2Sol (C++):",
+        "links": [
+          "https://docs.google.com/document/d/1lL9K7c5REKXIl6PKm7AV__hH5n6jU5B8XJTNus9Km5s/edit?tab=t.0"
+        ],
+        "id": "FactorOptimization17"
+      },
+      {
+        "title": "Greedy + Combinatorics 19",
+        "details": "Question / Practice: Codechef Contest part 1  Part - 2Sol (C++): Doc",
+        "links": [],
+        "id": "GreedyCombinatorics1918"
+      },
+      {
+        "title": "Bit Manipulation + Combinatorics 20",
+        "details": "Question / Practice: Apple OASol (C++): Doc",
+        "links": [],
+        "id": "BitManipulationCombinatorics2019"
+      },
+      {
+        "title": "DP + Combinatorics 21",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "DPCombinatorics2120"
+      },
+      {
+        "title": "Combinatorics 22",
+        "details": "Question / Practice: Codechef ContestSol (C++): Doc",
+        "links": [],
+        "id": "Combinatorics2221"
+      },
+      {
+        "title": "DP + Combinatorics. (23)",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Doc",
+        "links": [],
+        "id": "DPCombinatorics2322"
+      },
+      {
+        "title": "Math + Distribution (24)",
+        "details": "Question / Practice: Codechef 2100 Rating Problem  Session ContestSol (C++): Doc",
+        "links": [],
+        "id": "MathDistribution2423"
+      },
+      {
+        "title": "Math + Distribution      (25)",
+        "details": "Question / Practice: Rubrik OA.Sol (C++): Analysis Doc",
+        "links": [],
+        "id": "MathDistribution2524"
+      },
+      {
+        "title": "Math + nCR   (26)",
+        "details": "Question / Practice: Atlassian OA .Sol (C++): Doc",
+        "links": [],
+        "id": "MathnCR2625"
+      },
+      {
+        "title": "Math + nCR   (27)",
+        "details": "Question / Practice: 6 star Codechef Problem Contest P0  6 star Problem Contest P1Sol (C++): Doc",
+        "links": [],
+        "id": "MathnCR2726"
+      },
+      {
+        "title": "Math + nCR (28)",
+        "details": "Question / Practice: 6 star Codechef Problem ContestSol (C++): Doc",
+        "links": [],
+        "id": "MathnCR2827"
+      },
+      {
+        "title": "Math + nCR (29)",
+        "details": "Question / Practice: Rubrik OA .Sol (C++): Doc",
+        "links": [],
+        "id": "MathnCR2928"
+      },
+      {
+        "title": "Math + nCR + Star and Bar (30)",
+        "details": "Question / Practice: Rubrik OA Hard.Sol (C++): Doc",
+        "links": [],
+        "id": "MathnCRStarandBar3029"
+      },
+      {
+        "title": "BitMasking",
+        "details": "Question / Practice: Microsoft OA Session 1Sol (C++): Q.Sol (Java): Sol (Python): .Other: .",
+        "links": [
+          "https://ideone.com/lujW8u",
+          "https://ideone.com/S8c7fP",
+          "https://ideone.com/cUdzDm"
+        ],
+        "id": "BitMasking30"
+      },
+      {
+        "title": "Matrix.",
+        "details": "Question / Practice: Prefix Sum on Matrix.Sol (C++): Thought",
+        "links": [],
+        "id": "Matrix31"
+      },
+      {
+        "title": "Matrix.",
+        "details": "Question / Practice: Intuit OA.Sol (C++): Q.",
+        "links": [],
+        "id": "Matrix32"
+      },
+      {
+        "title": "Matrix.",
+        "details": "Question / Practice: Intuit OA.Sol (C++): Q.",
+        "links": [],
+        "id": "Matrix33"
+      },
+      {
+        "title": "Matrix.",
+        "details": "Question / Practice: Google SWE Interview Part - 1 Part-2 Part-3Sol (C++): Q.",
+        "links": [],
+        "id": "Matrix34"
+      },
+      {
+        "title": "Matrix.",
+        "details": "Question / Practice: Google OA Session.Sol (C++): doc",
+        "links": [],
+        "id": "Matrix35"
+      },
+      {
+        "title": "Matrix.",
+        "details": "Question / Practice: Leetcode ContestSol (C++): Q.",
+        "links": [],
+        "id": "Matrix36"
+      },
+      {
+        "title": "Matrix",
+        "details": "Question / Practice: Leetcode Contest ProblemSol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "Matrix37"
+      },
+      {
+        "title": "Intro",
+        "details": "Question / Practice: Intro VideoSol (C++): DocSol (Java): CodeSol (Python): CodeOther: Code",
+        "links": [],
+        "id": "Intro38"
+      },
+      {
+        "title": "Intro",
+        "details": "Question / Practice: Introduction Session 1Sol (C++): Doc",
+        "links": [],
+        "id": "Intro39"
+      },
+      {
+        "title": "Intro",
+        "details": "Question / Practice: Introduction Session 2Sol (C++): Doc",
+        "links": [],
+        "id": "Intro40"
+      },
+      {
+        "title": "Foundational",
+        "details": "Question / Practice: Session 3Sol (C++): Doc",
+        "links": [],
+        "id": "Foundational41"
+      },
+      {
+        "title": "Foundational",
+        "details": "Question / Practice: Session 4Sol (C++): Doc",
+        "links": [],
+        "id": "Foundational42"
+      },
+      {
+        "title": "Segment Tree [5]",
+        "details": "Question / Practice: Google SDE3 interview 5Sol (C++): Doc",
+        "links": [],
+        "id": "SegmentTree543"
+      },
+      {
+        "title": "Segment Tree [6]",
+        "details": "Question / Practice: Leetcode Biweekly Contest SessionSol (C++): DocSol (Java): C++1 C++2Sol (Python): Java1 Java2Other: Py1",
+        "links": [],
+        "id": "SegmentTree644"
+      },
+      {
+        "title": "[7] [LIS DP + Segment Tree]",
+        "details": "Question / Practice: Leetcode Contest P1  Leetcode Contest P2Sol (C++): Doc",
+        "links": [],
+        "id": "7LISDPSegmentTree45"
+      },
+      {
+        "title": "[8] [LIS DP + Segment Tree]",
+        "details": "Question / Practice: Leetcode Contest P1  Leetcode Contest P2  Leetcode Contest P3Sol (C++): Doc",
+        "links": [],
+        "id": "8LISDPSegmentTree46"
+      },
+      {
+        "title": "Intro[1]",
+        "details": "Question / Practice: Introduction Session 1Sol (C++): Doc",
+        "links": [],
+        "id": "Intro147"
+      },
+      {
+        "title": "Problem Solving[2]",
+        "details": "Question / Practice: Atlassian SDE-2 OA Session!Sol (C++): Doc",
+        "links": [],
+        "id": "ProblemSolving248"
+      },
+      {
+        "title": "Problem Solving[3]",
+        "details": "Question / Practice: Amazon HackOn OA SessionSol (C++): Doc",
+        "links": [],
+        "id": "ProblemSolving349"
+      },
+      {
+        "title": "Problem Solving[4]",
+        "details": "Question / Practice: Google OA Session 0  Google OA Session 1Sol (C++): Doc",
+        "links": [],
+        "id": "ProblemSolving450"
+      },
+      {
+        "title": "Greedy (Range Interval + Sorting + Set)[5]",
+        "details": "Question / Practice: Amazon OA P1  Amazon OA P11Sol (C++): Doc",
+        "links": [],
+        "id": "GreedyRangeIntervalSortingSet551"
+      },
+      {
+        "title": "DP + Sorted Set[6]",
+        "details": "Question / Practice: Microsoft OA P1  Microsoft OA P2Sol (C++): Doc",
+        "links": [],
+        "id": "DPSortedSet652"
+      },
+      {
+        "title": "String + Sorted Set[7]",
+        "details": "Question / Practice: Amazon OA P1  Amazon OA P2Sol (C++): Doc",
+        "links": [],
+        "id": "StringSortedSet753"
+      },
+      {
+        "title": "Session 1",
+        "details": "Question / Practice: Uber SDE Interview Session  Part - 2Sol (C++): DocSol (Java): C++Sol (Python): JavaOther: Py",
+        "links": [],
+        "id": "Session154"
+      },
+      {
+        "title": "Session 2",
+        "details": "Question / Practice: Segment Tree(Upcoming)",
+        "links": [],
+        "id": "Session255"
+      },
+      {
+        "title": "Session 3",
+        "details": "Question / Practice: DP(Upcoming)",
+        "links": [],
+        "id": "Session356"
+      },
+      {
+        "title": "Session 4.",
+        "details": "Question / Practice: Codechef Contest SessionSol (C++): Doc",
+        "links": [],
+        "id": "Session457"
+      },
+      {
+        "title": "Session 5 (Permutation. -> Graph. cycles.)",
+        "details": "Question / Practice: Codechef ContestSol (C++): Doc",
+        "links": [],
+        "id": "Session5PermutationGraphcycles58"
+      }
+    ]
+  }
+]
