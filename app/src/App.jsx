@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useLayoutEffect, useRef } from 'react';
 import confetti from 'canvas-confetti';
 import courseData from './data.json';
 import './index.css';
@@ -52,6 +52,49 @@ function App() {
       origin: { y: 0.6 }
     });
   };
+
+  const scrollAnchorRef = useRef(null);
+
+  const toggleHideCompleted = () => {
+    // Find all session items
+    const items = document.querySelectorAll('.session-item');
+    let anchorNode = null;
+    let anchorOffset = 0;
+    
+    // Find the first item that is currently in the viewport
+    // Considering the sticky header is roughly 150-180px tall
+    for (let item of items) {
+      const rect = item.getBoundingClientRect();
+      if (rect.top > 120 && rect.top < window.innerHeight) {
+        anchorNode = item;
+        anchorOffset = rect.top;
+        break;
+      }
+    }
+
+    if (anchorNode) {
+      scrollAnchorRef.current = { id: anchorNode.id, offset: anchorOffset };
+    } else {
+      scrollAnchorRef.current = null;
+    }
+
+    setHideCompleted(prev => !prev);
+  };
+
+  // Restore scroll position after DOM update when toggling Hide Done
+  useLayoutEffect(() => {
+    if (scrollAnchorRef.current) {
+      const { id, offset } = scrollAnchorRef.current;
+      const anchorNode = document.getElementById(id);
+      if (anchorNode) {
+        const currentRect = anchorNode.getBoundingClientRect();
+        // Calculate how much the anchor moved vertically
+        const difference = currentRect.top - offset;
+        window.scrollBy(0, difference);
+      }
+      scrollAnchorRef.current = null;
+    }
+  }, [hideCompleted]);
 
   const [tickCount, setTickCount] = useState(() => {
     const saved = localStorage.getItem('dsaTrackerTickCount');
@@ -275,7 +318,7 @@ function App() {
             </button>
             <button 
               className={`btn ${hideCompleted ? 'btn-primary' : ''}`} 
-              onClick={() => setHideCompleted(!hideCompleted)}
+              onClick={toggleHideCompleted}
               style={{ marginRight: '8px' }}
             >
               <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
@@ -372,7 +415,7 @@ function App() {
                     const isCompleted = sessionState.completed || false;
                     
                     return (
-                      <div className="session-item" key={session.id}>
+                      <div className="session-item" id={`session-${session.id}`} key={session.id}>
                         <div className="checkbox-container">
                           <div 
                             className={`checkbox-custom ${isCompleted ? 'checked' : ''}`}
